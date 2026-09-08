@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<template id="__bundler_thumbnail">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><rect width="100" height="100" fill="#8fd3f4"></rect><rect x="30" y="26" width="18" height="48" rx="3" fill="#fff" stroke="#2477ae" stroke-width="2"></rect><rect x="52" y="26" width="18" height="48" rx="3" fill="#ffc24d" stroke="#c96f21" stroke-width="2"></rect></svg>
+</template>
+<helmet>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;500;600;700&amp;family=Bai+Jamjuree:wght@400;600;700&amp;display=swap" rel="stylesheet">
+<script src="./image-slot.js"></script>
+<style>
+  body { margin:0; background:#cfeaff; }
+  a { color:#1e7fc2; text-decoration:none; }
+  a:hover { color:#15628f; }
+  @keyframes foilSweep { 0%{background-position:-150% 0} 100%{background-position:250% 0} }
+</style>
+</helmet>
+<div style="min-height:100dvh;background:radial-gradient(900px 420px at 12% 4%, rgba(255,255,255,.85), rgba(255,255,255,0) 70%),radial-gradient(700px 360px at 86% 10%, rgba(255,255,255,.7), rgba(255,255,255,0) 70%),linear-gradient(180deg,#8fd3f4 0%,#bfe8ff 42%,#e8f6d8 100%);font-family:'Bai Jamjuree','Kanit',system-ui,sans-serif;color:#22382c;padding:clamp(8px,2vw,18px) clamp(8px,3vw,24px) 16px;display:flex;flex-direction:column;align-items:center;gap:14px">
+
+  <div ref="{{ hdrRef }}" style="width:100%;max-width:1180px;display:flex;align-items:center;justify-content:center;gap:12px;flex-wrap:wrap;position:sticky;top:0;z-index:5;padding:8px 0;background:linear-gradient(180deg,#bfe8ff,#bfe8ff 84%,rgba(191,232,255,.86));flex-direction:column">
+    <div style="width:100%;display:flex;flex-wrap:wrap;justify-content:center;gap:5px">
+      <sc-for list="{{ tabs }}" as="t" hint-placeholder-count="9">
+        <button onClick="{{ t.go }}" style="{{ t.style }}">{{ t.label }}</button>
+      </sc-for>
+    </div>
+    <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap">
+      <button onClick="{{ prev }}" style="width:24px;height:24px;flex:none;padding:0;display:grid;place-items:center;border-radius:50%;border:1.5px solid #fff;background:linear-gradient(180deg,#ffc24d,#f2913a);color:#4a2a06;font-size:11px;line-height:1;font-weight:700;line-height:1;cursor:pointer;box-shadow:0 3px 0 #c96f21,0 5px 12px rgba(0,0,0,.16)" style-hover="filter:brightness(1.07)">‹</button>
+      <div style="font-family:'Kanit',sans-serif;font-weight:700;font-size:clamp(12px,3.2vw,15px);min-width:84px;text-align:center;color:#1d3a2b">{{ spreadLabel }}</div>
+      <button onClick="{{ next }}" style="width:24px;height:24px;flex:none;padding:0;display:grid;place-items:center;border-radius:50%;border:1.5px solid #fff;background:linear-gradient(180deg,#ffc24d,#f2913a);color:#4a2a06;font-size:11px;line-height:1;font-weight:700;line-height:1;cursor:pointer;box-shadow:0 3px 0 #c96f21,0 5px 12px rgba(0,0,0,.16)" style-hover="filter:brightness(1.07)">›</button>
+    </div>
+
+  </div>
+  <div style="{{ anStyle }}">
+    <div>
+      <div style="font-family:'Kanit',sans-serif;font-weight:700;font-size:clamp(16px,4.2vw,22px);color:#1d3a2b">Deck Analysis</div>
+      <div style="font-family:'Kanit',sans-serif;font-weight:500;font-size:clamp(10px,2.6vw,12px);color:#f07c3e;letter-spacing:.04em">รายการการ์ดในเด็ค · เทียบกับที่มีในคอลเลกชัน</div>
+    </div>
+    <div style="display:flex;flex-wrap:wrap;gap:8px">
+      <sc-for list="{{ anStats }}" as="s" hint-placeholder-count="5">
+        <div style="display:flex;flex-direction:column;gap:1px;padding:7px 13px;border-radius:11px;background:rgba(79,179,232,.14);border:1.5px solid rgba(36,119,174,.22)">
+          <span style="font-family:Kanit,sans-serif;font-weight:500;font-size:clamp(9px,2.3vw,11px);color:#43695a">{{ s.k }}</span>
+          <span style="font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(14px,3.6vw,18px);color:#1d3a2b;line-height:1">{{ s.v }}</span>
+        </div>
+      </sc-for>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:2px;padding:10px 12px;border-radius:12px;background:rgba(255,255,255,.72);border:1.5px solid rgba(31,60,45,.1)">
+      <div style="display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;margin-bottom:3px">
+        <div style="font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(10px,2.6vw,12px);letter-spacing:.06em;border-left:3px solid #4fb3e8;padding-left:8px;color:#2477ae">DECK LEGALITY</div>
+        <div style="{{ anVerdictStyle }}">{{ anVerdict }}</div>
+      </div>
+      <sc-for list="{{ anRules }}" as="r" hint-placeholder-count="4">
+        <div style="{{ r.rowStyle }}">
+          <div style="{{ r.markStyle }}">{{ r.mark }}</div>
+          <span style="font-size:clamp(11px,2.9vw,13px);color:#22382c;text-wrap:pretty">{{ r.label }}</span>
+          <span style="{{ r.detailStyle }}">{{ r.detail }}</span>
+        </div>
+      </sc-for>
+    </div>
+
+    <div style="display:flex;flex-direction:column;gap:8px;padding:10px 12px;border-radius:12px;background:linear-gradient(160deg,rgba(255,194,77,.2),rgba(255,255,255,.72));border:1.5px solid rgba(242,145,58,.35)">
+      <div style="display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap">
+        <div style="font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(10px,2.6vw,12px);letter-spacing:.06em;border-left:3px solid #f2913a;padding-left:8px;color:#b25f14">AI DECK REVIEW</div>
+        <button onClick="{{ aiRun }}" style="{{ aiBtnStyle }}">{{ aiLabel }}</button>
+      </div>
+      <div style="{{ aiErrStyle }}">{{ aiErr }}</div>
+      <div style="{{ aiOutStyle }}">
+        <sc-for list="{{ aiBlocks }}" as="b" hint-placeholder-count="0">
+          <div style="{{ b.style }}">{{ b.text }}</div>
+        </sc-for>
+      </div>
+    </div>
+
+    <sc-for list="{{ anGroups }}" as="g" hint-placeholder-count="4">
+      <div style="{{ g.groupStyle }}">
+        <div style="font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(10px,2.6vw,12px);letter-spacing:.06em;border-left:3px solid #4fb3e8;padding-left:8px;color:#2477ae;margin-bottom:3px">{{ g.title }}</div>
+        <sc-for list="{{ g.rows }}" as="r" hint-placeholder-count="4">
+          <div style="display:grid;grid-template-columns:34px 62px 40px minmax(0,1fr) auto;align-items:center;gap:8px;padding:4px 0;border-top:1px solid rgba(31,60,45,.08)">
+            <span style="font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(11px,2.9vw,13px);color:#1d3a2b">{{ r.qty }}</span>
+            <span style="font-family:Kanit,sans-serif;font-weight:500;font-size:clamp(10px,2.5vw,12px);color:#43695a">{{ r.cost }}</span>
+            <span style="font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(9px,2.3vw,11px);color:#f07c3e">{{ r.rar }}</span>
+            <span style="font-size:clamp(11px,2.9vw,13px);color:#22382c;text-wrap:pretty">{{ r.name }}</span>
+            <span style="{{ r.ownStyle }}">{{ r.own }}</span>
+          </div>
+        </sc-for>
+      </div>
+    </sc-for>
+    <div style="display:flex;flex-direction:column;gap:6px;padding:10px 12px;border-radius:12px;background:rgba(255,255,255,.72);border:1.5px solid rgba(31,60,45,.1)">
+      <div style="font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(10px,2.6vw,12px);letter-spacing:.06em;border-left:3px solid #4fb3e8;padding-left:8px;color:#2477ae">COST CURVE</div>
+      <div style="display:grid;grid-template-columns:repeat(8,1fr);gap:6px;align-items:end;height:100px">
+        <sc-for list="{{ anCurve }}" as="c" hint-placeholder-count="8">
+          <div style="display:flex;flex-direction:column;justify-content:flex-end;align-items:center;gap:3px;height:100%">
+            <span style="font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(9px,2.3vw,11px);color:#1d3a2b">{{ c.n }}</span>
+            <div style="{{ c.bar }}"></div>
+          </div>
+        </sc-for>
+      </div>
+      <div style="display:grid;grid-template-columns:repeat(8,1fr);gap:6px">
+        <sc-for list="{{ anCurve }}" as="c" hint-placeholder-count="8">
+          <span style="text-align:center;font-family:Kanit,sans-serif;font-weight:500;font-size:clamp(9px,2.3vw,11px);color:#43695a">{{ c.cost }}</span>
+        </sc-for>
+      </div>
+    </div>
+
+    <div style="display:flex;flex-direction:column;gap:8px;padding:10px 12px;border-radius:12px;background:#1d3a2b;border:1.5px solid rgba(255,255,255,.14)">
+      <div style="display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap">
+        <div style="font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(10px,2.6vw,12px);letter-spacing:.06em;border-left:3px solid #3fc4a0;padding-left:8px;color:#9fe6c8">DECK LIST · TEXT EXPORT</div>
+        <button onClick="{{ copyText }}" style="cursor:pointer;font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(9px,2.4vw,11px);color:#1d3a2b;background:linear-gradient(180deg,#ffc24d,#f2913a);border:1.5px solid #fff;border-radius:999px;padding:5px 12px;box-shadow:0 2px 5px rgba(0,0,0,.3)" style-hover="filter:brightness(1.07)">{{ copyLabel }}</button>
+      </div>
+      <div style="white-space:pre-wrap;overflow-x:auto;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:clamp(10px,2.5vw,12.5px);line-height:1.55;color:#eaf6ee">{{ anText }}</div>
+    </div>
+
+    <div style="display:flex;flex-direction:column;gap:8px;padding:10px 12px;border-radius:12px;background:rgba(255,255,255,.72);border:1.5px solid rgba(31,60,45,.1)">
+      <div style="display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap">
+        <div style="font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(10px,2.6vw,12px);letter-spacing:.06em;border-left:3px solid #4fb3e8;padding-left:8px;color:#2477ae">IMPORT DECK LIST</div>
+        <button onClick="{{ doImport }}" style="cursor:pointer;font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(9px,2.4vw,11px);color:#fff;background:linear-gradient(180deg,#3fc4a0,#1d8f72);border:1.5px solid #fff;border-radius:999px;padding:5px 14px;box-shadow:0 2px 5px rgba(31,60,45,.28)" style-hover="filter:brightness(1.07)">Import</button>
+      </div>
+      <div style="font-family:Kanit,sans-serif;font-weight:500;font-size:clamp(9px,2.4vw,11px);color:#43695a">วางข้อความรูปแบบเดียวกับด้านบน — จับคู่ด้วยรหัสเซ็ตก่อน ถ้าไม่มีจะจับคู่ด้วยชื่อ (บรรทัด #, //, Soul ข้ามให้)</div>
+      <textarea ref="{{ taRef }}" rows="9" spellcheck="false" placeholder="4 Leezpunk – Treasure Bandit (TD02-014)
+4 Pengullet Rocket Launcher (BP01-044)" style="width:100%;box-sizing:border-box;resize:vertical;border-radius:9px;border:1.5px solid rgba(31,60,45,.18);background:#fffdf4;color:#22382c;padding:9px 11px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:clamp(10px,2.5vw,12.5px);line-height:1.55"></textarea>
+      <div style="{{ importMsgStyle }}">{{ importMsg }}</div>
+    </div>
+
+  </div>
+
+  <div style="{{ ptStyle }}">
+    <div>
+      <div style="font-family:'Kanit',sans-serif;font-weight:700;font-size:clamp(16px,4.2vw,22px);color:#1d3a2b">Playtest</div>
+      <div style="font-family:'Kanit',sans-serif;font-weight:500;font-size:clamp(10px,2.6vw,12px);color:#f07c3e;letter-spacing:.04em">สุ่มมือเปิด · ดู mulligan · คำนวณโอกาสจับการ์ด</div>
+    </div>
+    <div style="display:flex;flex-wrap:wrap;gap:8px">
+      <button onClick="{{ ptNew }}" style="cursor:pointer;font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(10px,2.6vw,12px);color:#4a2a06;background:linear-gradient(180deg,#ffc24d,#f2913a);border:2px solid #fff;border-radius:999px;padding:6px 16px;box-shadow:0 2px 6px rgba(201,111,33,.4)" style-hover="filter:brightness(1.07)">สุ่มมือเปิดใหม่</button>
+      <button onClick="{{ ptMull }}" style="{{ ptActStyle }}">Mulligan</button>
+      <button onClick="{{ ptDraw }}" style="{{ ptActStyle }}">จั่ว 1 ใบ</button>
+    </div>
+    <div style="display:flex;flex-wrap:wrap;gap:8px">
+      <sc-for list="{{ ptStats }}" as="s" hint-placeholder-count="3">
+        <div style="display:flex;flex-direction:column;gap:1px;padding:7px 13px;border-radius:11px;background:rgba(79,179,232,.14);border:1.5px solid rgba(36,119,174,.22)">
+          <span style="font-family:Kanit,sans-serif;font-weight:500;font-size:clamp(9px,2.3vw,11px);color:#43695a">{{ s.k }}</span>
+          <span style="font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(14px,3.6vw,18px);color:#1d3a2b;line-height:1">{{ s.v }}</span>
+        </div>
+      </sc-for>
+    </div>
+    <div style="{{ ptHintStyle }}">{{ ptHint }}</div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(84px,1fr));gap:clamp(5px,1.4vw,10px)">
+      <sc-for list="{{ ptHand }}" as="h" hint-placeholder-count="0">
+        <div style="display:flex;flex-direction:column;align-items:center;gap:2px;min-width:0">
+          <div style="{{ h.frame }}">
+            <div style="{{ h.artStyle }}"></div>
+            <div style="{{ h.sheen }}"></div>
+            <div style="position:absolute;left:4px;top:4px;font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(8px,1.9vw,10px);line-height:1;color:#1d3a2b;background:rgba(255,255,255,.92);border-radius:999px;padding:3px 6px">{{ h.cost }}</div>
+          </div>
+          <div style="width:100%;text-align:center;font-family:'Kanit',sans-serif;font-weight:700;font-size:clamp(7.5px,1.5vh,11px);line-height:1.2;color:#1d3a2b;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">{{ h.name }}</div>
+        </div>
+      </sc-for>
+    </div>
+    <div style="{{ ptOddsStyle }}">
+      <div style="font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(10px,2.6vw,12px);letter-spacing:.06em;border-left:3px solid #4fb3e8;padding-left:8px;color:#2477ae">โอกาสจับได้ในมือเปิด 5 ใบ</div>
+      <sc-for list="{{ ptOdds }}" as="o" hint-placeholder-count="4">
+        <div style="display:grid;grid-template-columns:34px minmax(0,1fr) 56px;align-items:center;gap:8px;padding:4px 0;border-top:1px solid rgba(31,60,45,.08)">
+          <span style="font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(11px,2.9vw,13px);color:#1d3a2b">{{ o.qty }}</span>
+          <span style="font-size:clamp(11px,2.9vw,13px);color:#22382c;text-wrap:pretty">{{ o.name }}</span>
+          <span style="font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(11px,2.9vw,13px);text-align:right;color:#1d8f72">{{ o.pct }}</span>
+        </div>
+      </sc-for>
+    </div>
+  </div>
+
+  <div style="width:100%;display:flex;justify-content:center">
+  <div style="{{ shellStyle }}">
+
+    <div style="position:relative;flex:1;min-width:0;display:flex;border-radius:clamp(12px,3vw,20px);background:linear-gradient(180deg,#4fb3e8 0%,#2f92cf 55%,#2477ae 100%);padding:clamp(7px,1.8vw,16px);box-shadow:0 26px 60px rgba(31,60,45,.28),inset 0 2px 0 rgba(255,255,255,.5);border:2px solid #fff8e6">
+
+      <div style="position:relative;flex:1;min-width:0;background:linear-gradient(160deg,#fffdf4,#fdf3dc);border-radius:12px 4px 4px 12px;padding:clamp(9px,2.2vw,16px);display:flex;flex-direction:column;min-height:0;box-shadow:inset -16px 0 22px -18px rgba(36,63,48,.35)">
+        <div style="display:flex;align-items:baseline;justify-content:space-between;gap:8px;flex:none;margin-bottom:clamp(6px,1.4vw,10px)">
+          <div>
+            <div style="font-family:'Kanit',sans-serif;font-weight:700;font-size:clamp(13px,3.4vw,16px);color:#1d3a2b">{{ left.label }}</div>
+            <div style="display:none">{{ left.sub }}</div>
+          </div>
+          <div style="font-family:'Kanit',sans-serif;font-weight:700;font-size:12px;color:#f07c3e">{{ left.pageNo }}</div>
+        </div>
+        <div style="{{ left.grid }}">
+          <sc-for list="{{ left.pockets }}" as="p" hint-placeholder-count="12">
+            <div style="display:flex;flex-direction:column;align-items:center;gap:2px;min-width:0;min-height:0">
+              <div style="{{ p.frame }}" onMouseEnter="{{ p.hoverOn }}" onMouseLeave="{{ p.hoverOff }}" onClick="{{ p.hoverOn }}">
+                <sc-if value="{{ p.filled }}" hint-placeholder-val="{{ true }}">
+                  <div title="{{ p.file }}" style="position:absolute;inset:3px;overflow:hidden;border-radius:8px">
+                    <image-slot id="{{ p.slotId }}" shape="rounded" radius="8" fit="contain" src="{{ p.art }}" placeholder="Drop art"></image-slot>
+                  </div>
+                  <div style="{{ p.sheen }}"></div>
+                  <div style="{{ p.barStyle }}">
+                    <button onClick="{{ p.replace }}" title="Replace image" style="flex:0 1 auto;min-width:0;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;cursor:pointer;font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(8px,1.9vw,10px);line-height:1;color:#1d3a2b;background:linear-gradient(180deg,#ffffff,#f2f7f0);border:1.5px solid #fff;border-radius:999px;padding:4px 8px;box-shadow:0 2px 5px rgba(31,60,45,.28)" style-hover="background:linear-gradient(180deg,#ffe9c2,#ffd694)">Replace</button>
+                    <button onClick="{{ p.del }}" title="Remove from list" style="flex:0 1 auto;min-width:0;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;cursor:pointer;font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(8px,1.9vw,10px);line-height:1;color:#fff;background:linear-gradient(180deg,#ff8163,#d8412a);border:1.5px solid #fff;border-radius:999px;padding:4px 8px;box-shadow:0 2px 5px rgba(31,60,45,.28)" style-hover="background:linear-gradient(180deg,#ff6f4e,#bd3520)">Remove</button>
+                    <button onClick="{{ p.deckAct }}" title="Deck count" style="{{ p.deckBtnStyle }}">{{ p.deckLabel }}</button>
+                  </div>
+                  <div style="position:absolute;left:5px;right:5px;bottom:5px;display:flex;align-items:flex-end;justify-content:flex-end;gap:4px;flex-wrap:wrap-reverse;pointer-events:none">
+                  <div style="display:flex;align-items:center;gap:3px;max-width:100%;background:rgba(255,255,255,.92);border:1px solid rgba(31,60,45,.16);border-radius:999px;padding:2px 5px;box-shadow:0 2px 4px rgba(31,60,45,.22)">
+                    <span style="position:relative;display:block;width:10px;height:12px">
+                      <span style="position:absolute;left:0;top:1px;width:6px;height:9px;border-radius:2px;background:#fff;border:1.5px solid #8aa39a"></span>
+                      <span style="position:absolute;left:3px;top:2px;width:6px;height:9px;border-radius:2px;background:#fff;border:1.5px solid #1d3a2b"></span>
+                    </span>
+                    <span style="font-family:'Kanit',sans-serif;font-weight:700;font-size:clamp(7px,1.2vh,10.5px);line-height:1;color:#1d3a2b;white-space:nowrap">{{ p.count }}</span>
+                  </div>
+                  <sc-if value="{{ p.isShort }}" hint-placeholder-val="{{ false }}">
+                    <div style="font-family:'Kanit',sans-serif;font-weight:700;font-size:clamp(7px,1.2vh,10.5px);line-height:1;max-width:100%;color:#fff;background:linear-gradient(180deg,#ff8163,#d8412a);border:1.5px solid #fff;border-radius:999px;padding:2px 5px;box-shadow:0 2px 4px rgba(31,60,45,.25)">{{ p.short }}</div>
+                  </sc-if>
+                  </div>
+                </sc-if>
+                <sc-if value="{{ p.empty }}" hint-placeholder-val="{{ false }}">
+                  <div style="position:absolute;inset:0;display:grid;place-items:center;font-size:clamp(6px,1.1vh,10px);letter-spacing:.12em;color:#a8bfae">EMPTY</div>
+                </sc-if>
+              </div>
+              <div style="width:100%;min-width:0;flex:none;overflow:hidden;text-align:center">
+                <div style="font-family:'Kanit',sans-serif;font-weight:700;font-size:clamp(7.5px,1.5vh,11px);line-height:1.2;color:#1d3a2b;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">{{ p.name }}</div>
+                <div style="display:flex;gap:4px;align-items:baseline;justify-content:center;font-size:clamp(6.5px,1.2vh,9px);line-height:1.2;color:#5f8a72">
+                  <span style="overflow:hidden;white-space:nowrap;text-overflow:ellipsis">{{ p.sub }}</span>
+                  <span style="font-weight:700;color:#f07c3e">{{ p.rar }}</span>
+                </div>
+              </div>
+            </div>
+          </sc-for>
+        </div>
+      </div>
+
+      <sc-if value="{{ showRight }}" hint-placeholder-val="{{ true }}">
+      <div style="width:clamp(10px,2vw,22px);flex:none;background:linear-gradient(90deg,rgba(31,60,45,.28),rgba(31,60,45,.1) 45%,rgba(255,255,255,.55) 50%,rgba(31,60,45,.1) 55%,rgba(31,60,45,.28));border-radius:3px"></div>
+
+      <div style="position:relative;flex:1;min-width:0;background:linear-gradient(200deg,#fffdf4,#fdf3dc);border-radius:4px 12px 12px 4px;padding:clamp(9px,2.2vw,16px);display:flex;flex-direction:column;min-height:0;box-shadow:inset 16px 0 22px -18px rgba(36,63,48,.35)">
+        <div style="display:flex;align-items:baseline;justify-content:space-between;gap:8px;flex:none;margin-bottom:clamp(6px,1.4vw,10px)">
+          <div>
+            <div style="font-family:'Kanit',sans-serif;font-weight:700;font-size:clamp(13px,3.4vw,16px);color:#1d3a2b">{{ right.label }}</div>
+            <div style="display:none">{{ right.sub }}</div>
+          </div>
+          <div style="font-family:'Kanit',sans-serif;font-weight:700;font-size:12px;color:#f07c3e">{{ right.pageNo }}</div>
+        </div>
+        <div style="{{ right.grid }}">
+          <sc-for list="{{ right.pockets }}" as="p" hint-placeholder-count="12">
+            <div style="display:flex;flex-direction:column;align-items:center;gap:2px;min-width:0;min-height:0">
+              <div style="{{ p.frame }}" onMouseEnter="{{ p.hoverOn }}" onMouseLeave="{{ p.hoverOff }}" onClick="{{ p.hoverOn }}">
+                <sc-if value="{{ p.filled }}" hint-placeholder-val="{{ true }}">
+                  <div title="{{ p.file }}" style="position:absolute;inset:3px;overflow:hidden;border-radius:8px">
+                    <image-slot id="{{ p.slotId }}" shape="rounded" radius="8" fit="contain" src="{{ p.art }}" placeholder="Drop art"></image-slot>
+                  </div>
+                  <div style="{{ p.sheen }}"></div>
+                  <div style="{{ p.barStyle }}">
+                    <button onClick="{{ p.replace }}" title="Replace image" style="flex:0 1 auto;min-width:0;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;cursor:pointer;font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(8px,1.9vw,10px);line-height:1;color:#1d3a2b;background:linear-gradient(180deg,#ffffff,#f2f7f0);border:1.5px solid #fff;border-radius:999px;padding:4px 8px;box-shadow:0 2px 5px rgba(31,60,45,.28)" style-hover="background:linear-gradient(180deg,#ffe9c2,#ffd694)">Replace</button>
+                    <button onClick="{{ p.del }}" title="Remove from list" style="flex:0 1 auto;min-width:0;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;cursor:pointer;font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(8px,1.9vw,10px);line-height:1;color:#fff;background:linear-gradient(180deg,#ff8163,#d8412a);border:1.5px solid #fff;border-radius:999px;padding:4px 8px;box-shadow:0 2px 5px rgba(31,60,45,.28)" style-hover="background:linear-gradient(180deg,#ff6f4e,#bd3520)">Remove</button>
+                    <button onClick="{{ p.deckAct }}" title="Deck count" style="{{ p.deckBtnStyle }}">{{ p.deckLabel }}</button>
+                  </div>
+                  <div style="position:absolute;left:5px;right:5px;bottom:5px;display:flex;align-items:flex-end;justify-content:flex-end;gap:4px;flex-wrap:wrap-reverse;pointer-events:none">
+                  <div style="display:flex;align-items:center;gap:3px;max-width:100%;background:rgba(255,255,255,.92);border:1px solid rgba(31,60,45,.16);border-radius:999px;padding:2px 5px;box-shadow:0 2px 4px rgba(31,60,45,.22)">
+                    <span style="position:relative;display:block;width:10px;height:12px">
+                      <span style="position:absolute;left:0;top:1px;width:6px;height:9px;border-radius:2px;background:#fff;border:1.5px solid #8aa39a"></span>
+                      <span style="position:absolute;left:3px;top:2px;width:6px;height:9px;border-radius:2px;background:#fff;border:1.5px solid #1d3a2b"></span>
+                    </span>
+                    <span style="font-family:'Kanit',sans-serif;font-weight:700;font-size:clamp(7px,1.2vh,10.5px);line-height:1;color:#1d3a2b;white-space:nowrap">{{ p.count }}</span>
+                  </div>
+                  <sc-if value="{{ p.isShort }}" hint-placeholder-val="{{ false }}">
+                    <div style="font-family:'Kanit',sans-serif;font-weight:700;font-size:clamp(7px,1.2vh,10.5px);line-height:1;max-width:100%;color:#fff;background:linear-gradient(180deg,#ff8163,#d8412a);border:1.5px solid #fff;border-radius:999px;padding:2px 5px;box-shadow:0 2px 4px rgba(31,60,45,.25)">{{ p.short }}</div>
+                  </sc-if>
+                  </div>
+                </sc-if>
+                <sc-if value="{{ p.empty }}" hint-placeholder-val="{{ false }}">
+                  <div style="position:absolute;inset:0;display:grid;place-items:center;font-size:clamp(6px,1.1vh,10px);letter-spacing:.12em;color:#a8bfae">EMPTY</div>
+                </sc-if>
+              </div>
+              <div style="width:100%;min-width:0;flex:none;overflow:hidden;text-align:center">
+                <div style="font-family:'Kanit',sans-serif;font-weight:700;font-size:clamp(7.5px,1.5vh,11px);line-height:1.2;color:#1d3a2b;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">{{ p.name }}</div>
+                <div style="display:flex;gap:4px;align-items:baseline;justify-content:center;font-size:clamp(6.5px,1.2vh,9px);line-height:1.2;color:#5f8a72">
+                  <span style="overflow:hidden;white-space:nowrap;text-overflow:ellipsis">{{ p.sub }}</span>
+                  <span style="font-weight:700;color:#f07c3e">{{ p.rar }}</span>
+                </div>
+              </div>
+            </div>
+          </sc-for>
+        </div>
+      </div>
+      </sc-if>
+    </div>
+
+  </div>
+  </div>
+
+  <div style="width:100%;max-width:1180px;display:flex;gap:10px 16px;flex-wrap:wrap;font-size:clamp(10.5px,2.6vw,12px);color:#43695a;background:rgba(255,255,255,.62);border:1px solid rgba(255,255,255,.9);border-radius:14px;padding:12px 16px">
+    <span><b style="color:#1e7fc2">Blue</b> {{ tally.blue }}</span>
+    <span><b style="color:#7c4fd6">Purple</b> {{ tally.purple }}</span>
+    <span><b style="color:#6b7f8f">Colorless</b> {{ tally.colorless }}</span>
+    <span>Event {{ tally.event }} · Structure {{ tally.structure }} · Gear {{ tally.gear }}</span>
+    <span>Drag an image onto a pocket to fill it</span>
+    <sc-if value="{{ hasRemoved }}" hint-placeholder-val="{{ false }}">
+      <button onClick="{{ restore }}" style="margin-left:auto;cursor:pointer;font-family:Kanit,sans-serif;font-weight:700;font-size:11.5px;color:#4a2a06;background:linear-gradient(180deg,#ffc24d,#f2913a);border:2px solid #fff;border-radius:999px;padding:4px 12px;box-shadow:2px 2px 0 rgba(201,111,33,.4)">Restore removed ({{ removedCount }})</button>
+    </sc-if>
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{}">
+const TONE = {
+  blue:   { edge:'#4fb3e8', bg:'linear-gradient(165deg,#d9f0ff,#a9dcf7)',  gem:'color:#fff;background:linear-gradient(180deg,#5cc0f0,#2a8fce);border:2px solid #fff' },
+  purple: { edge:'#a67ce8', bg:'linear-gradient(165deg,#ece2ff,#cdb6f7)',  gem:'color:#fff;background:linear-gradient(180deg,#a97ff0,#6f45cd);border:2px solid #fff' },
+  gray:   { edge:'#b6c6cf', bg:'linear-gradient(165deg,#f4f8fa,#dbe6ec)',  gem:'color:#fff;background:linear-gradient(180deg,#a7b8c4,#6b7f8f);border:2px solid #fff' },
+  red:    { edge:'#ef6a52', bg:'linear-gradient(165deg,#ffe1da,#ffb3a3)',  gem:'color:#fff;background:linear-gradient(180deg,#ff8163,#d8412a);border:2px solid #fff' },
+  green:  { edge:'#7cc86a', bg:'linear-gradient(165deg,#e2f7d9,#bde8ac)',  gem:'color:#fff;background:linear-gradient(180deg,#8ed77a,#4f9c3d);border:2px solid #fff' },
+  gold:   { edge:'#f0b23f', bg:'linear-gradient(165deg,#fff3d4,#ffdf9e 60%,#ffcf72)', gem:'color:#5a3a05;background:linear-gradient(180deg,#ffe08a,#f2b23c);border:2px solid #fff' }
+};
+
+const C = {
+  pengulletR:  { no:3, slug:'pengullet-r', code:'BP01-028',  name:'Pengullet',      sub:'Yearning for the Sky', cost:4, tone:'blue', badge:'', rar:'R',   dir:'Pal/Blue', ext:'jpeg' },
+  pengulletSR: { no:14, slug:'pengullet-sr', name:'Pengullet',      sub:'Yearning for the Sky', cost:4, tone:'gold', badge:'', rar:'SR',  dir:'Pal/Blue', ext:'jpeg', foil:true },
+  chilletRR:   { no:15, slug:'chillet-rr', code:'BP01-025',   name:'Chillet',        sub:'Dragon Whisperer',     cost:5, tone:'blue', badge:'', rar:'RR',  dir:'Pal/Blue', foil:true },
+  elphAqua:    { no:6, slug:'elph-aqua', code:'TD01-012',    name:'Elphidran Aqua', sub:'Gentle Ripples',       cost:6, tone:'blue', badge:'', rar:'TDR', dir:'Pal/Blue', ext:'jpeg' },
+  cryolinx:    { no:5, slug:'cryolinx', code:'BP01-038',     name:'Cryolinx',       sub:'Arctic Ordeal',        cost:6, tone:'blue', badge:'', rar:'C',   dir:'Pal/Blue' },
+  relaxaurus:  { no:28, slug:'relaxaurus',  name:'Relaxaurus',     sub:'Hungry Gunner',        cost:7, tone:'blue', badge:'', rar:'R',   dir:'Pal/Blue', ext:'jpeg', foil:true },
+  jormuntideR: { no:16, slug:'jorm-r',       name:'Jormuntide',     sub:'Surging Sea Serpent',  cost:8, tone:'blue', badge:'', rar:'R',   dir:'Pal/Blue', ext:'jpeg', foil:true },
+  jormuntideOsr:{no:17, slug:'jorm-osr',     name:'Jormuntide',     sub:'Surging Sea Serpent',  cost:8, tone:'gold', badge:'', rar:'OSR', dir:'Pal/Blue', ext:'jpeg', foil:true },
+  jormIgnisSP:{ no:23, slug:'jorm-ignis-sp', name:'Jormuntide Ignis', sub:'Savage Lava Dragon', cost:8, tone:'gold', badge:'', rar:'SP', dir:'Pal/Red', ext:'jpeg', foil:true },
+  elphidran:  { no:24, slug:'elphidran',  name:'Elphidran',      sub:'Gentle Radiance',           cost:4, tone:'gray',   badge:'',         rar:'C',  dir:'Pal/Colorless' },
+  leezpunk:   { no:1, slug:'leezpunk', code:'TD02-014',   name:'Leezpunk',       sub:'Treasure Bandit',           cost:3, tone:'purple', badge:'',         rar:'TD', dir:'Pal/Purple', ext:'jpeg' },
+  daedream:   { no:18, slug:'daedream', code:'BP01-082',  name:'Daedream',       sub:'Deep Slumber', cost:3, tone:'purple', badge:'',         rar:'C',  dir:'Pal/Purple', ext:'jpeg' },
+  daedreamF:  { no:31, slug:'daedream-first', code:'BP01-080', name:'Daedream',   sub:'First Slumber',             cost:2, tone:'purple', badge:'',         rar:'C',  dir:'Pal/Purple', ext:'jpeg' },
+  depresso:   { no:32, slug:'depresso', code:'BP01-079',  name:'Depresso',       sub:'Late Night Hustler', cost:2, tone:'purple', badge:'',         rar:'U',  dir:'Pal/Purple', ext:'jpeg' },
+  menasting:  { no:7, slug:'menasting', code:'BP01-084',  name:'Menasting',      sub:'Darkness-Dwelling Scorpion',cost:5, tone:'purple', badge:'LUCKY',    rar:'U',  dir:'Pal/Purple', ext:'jpeg' },
+  tombat:     { no:19, slug:'tombat',     name:'Tombat',         sub:'Out of Nowhere!?',          cost:5, tone:'gold',   badge:'SP', foil:true, rar:'SP', dir:'Pal/Purple', ext:'jpeg', file:'Tombat Out of Nowhere' },
+  maraith:    { no:20, slug:'maraith', code:'BP01-085',   name:'Maraith',        sub:'Twilight Messenger',        cost:6, tone:'purple', badge:'',         rar:'U',  dir:'Pal/Purple', ext:'jpeg' },
+  blazehowl:  { no:8, slug:'blazehowl', code:'TD02-017',  name:'Blazehowl Noct', sub:'Darkflame Defender',        cost:6, tone:'purple', badge:'',         rar:'TD', dir:'Pal/Purple', ext:'jpeg' },
+  katress:    { no:21, slug:'katress',    name:'Katress',        sub:'Abyssal Sorcerer',          cost:6, tone:'purple', badge:'LUCKY', foil:true, rar:'R', dir:'Pal/Purple', ext:'jpeg' },
+  pyrin:      { no:9, slug:'pyrin', code:'BP01-077',      name:'Pyrin Noct',     sub:'Steed of Azure Flames',     cost:7, tone:'purple', badge:'', foil:true, rar:'R',  dir:'Pal/Purple', ext:'jpeg' },
+  shadowbeak: { no:10, slug:'shadowbeak', code:'BP01-074', name:'Shadowbeak',     sub:'Seed of Despair',           cost:8, tone:'purple', badge:'LUCKY', foil:true, rar:'RR', dir:'Pal/Purple', ext:'jpeg' },
+  lyleen:     { no:22, slug:'lyleen',     name:'Lyleen Noct',    sub:'Providence of the Goddess', cost:8, tone:'gold',   badge:'FOIL', foil:true, rar:'SP', dir:'Pal/Purple', ext:'jpeg' },
+  zoeRr:      { no:12, slug:'zoe-rr', code:'BP01-095',     name:"Zoe's Strategy", sub:'Event',                     cost:3, tone:'purple', badge:'',         rar:'RR', dir:'Event/Purple', file:"Zoe's Strategy" },
+  blackMkt:   { no:26, slug:'black-mkt',   name:'Black Marketeer', sub:'Event',                    cost:3, tone:'purple', badge:'',         rar:'C',  dir:'Event/Purple', file:'Black Marketeer' },
+  aurora:     { no:25, slug:'aurora',     name:'Aurora Guide',   sub:'Event',                     cost:2, tone:'blue',   badge:'QUICK',    rar:'C',  dir:'Event/Blue', file:'Aurora Guide' },
+  strike:     { no:11, slug:'strike', code:'TD02-021',     name:'Strike from the Darkness', sub:'Event',           cost:4, tone:'purple', badge:'',         rar:'C',  dir:'Event/Purple', file:'Strike from the Darkness' },
+  sphere:     { no:27, slug:'sphere',     name:'Pal Sphere',     sub:'Event',                     cost:4, tone:'blue',   badge:'',         rar:'U',  dir:'Event/Blue', file:'Pal Sphere' },
+  astegon:    { no:34, slug:'astegon',    name:'Astegon',        sub:'Aegis Wyvern of Death', cost:8, tone:'purple', badge:'LUCKY',    rar:'TD', dir:'Pal/Purple', ext:'jpeg' },
+  medical:    { no:35, slug:'medical',    name:'Medical Supplies', sub:'Event',                   cost:7, tone:'purple', badge:'',         rar:'TD', dir:'Event/Purple', file:'Medical Supplies' },
+  necklace:   { no:33, slug:'necklace', code:'BP01-094',  name:"Daedream's Necklace", sub:'Gear',              cost:3, tone:'purple', badge:'',         rar:'C',  dir:'Gear/Purple', file:"Daedream's Necklace" },
+  rocket:     { no:4, slug:'rocket', code:'BP01-044',     name:'Pengullet Rocket Launcher', sub:'Gear',           cost:4, tone:'blue',   badge:'', foil:true, rar:'R',  dir:'Gear/Blue', file:'Pengullet Rocket Launcher' },
+  flyer:      { no:2, slug:'flyer', code:'TD01-014',      name:'Pengullet',      sub:'Frequent Flyer',            cost:3, tone:'blue',   badge:'',         rar:'TD', dir:'Pal/Blue' },
+  penking:    { no:29, slug:'penking',    name:'Penking',        sub:'Mighty Warrior of the Deep', cost:5, tone:'blue',   badge:'',         rar:'U',  dir:'Pal/Blue', ext:'jpeg' },
+  shoddyBed:  { no:30, slug:'shoddy-bed', name:'Shoddy Bed',     sub:'Structure',                 cost:2, tone:'purple', badge:'',         rar:'C',  dir:'Structure/Purple', file:'Shoddy Bed' },
+  bench:      { no:13, slug:'bench', code:'BP01-090',      name:'Medieval Medicine Workbench', sub:'Structure',  cost:4, tone:'purple', badge:'',         rar:'C',  dir:'Structure/Purple', file:'Medieval Medicine Workbench' }
+};
+
+const PAGES = [
+  { tab:'PAL BLUE',  label:'PAL · BLUE',      sub:'27 cards · 10 kinds', items:[[C.flyer,4],[C.pengulletR,3],[C.pengulletSR,1],[C.chilletRR,4],[C.penking,2],[C.elphAqua,4],[C.cryolinx,5],[C.relaxaurus,2],[C.jormuntideR,1],[C.jormuntideOsr,1]] },
+  { tab:'PAL PURPLE', label:'PAL · PURPLE',    sub:'40 cards · 13 kinds', items:[[C.leezpunk,4],[C.daedreamF,4],[C.depresso,3],[C.daedream,5],[C.menasting,5],[C.tombat,1],[C.maraith,4],[C.blazehowl,4],[C.katress,1],[C.pyrin,3],[C.shadowbeak,2],[C.astegon,1],[C.lyleen,3]] },
+  { tab:'PAL RED',   label:'PAL · RED',       sub:'1 card · 1 kind',     items:[[C.jormIgnisSP,1]] },
+  { tab:'PAL GREEN', label:'PAL · GREEN',     sub:'none in list yet', items:[] },
+  { tab:'PAL COLORLESS', short:'PAL CLR', label:'PAL · COLORLESS', sub:'1 card · 1 kind',    items:[[C.elphidran,1]] },
+  { tab:'EVENT',     label:'EVENT',           sub:'16 cards · 6 kinds',  items:[[C.aurora,4],[C.zoeRr,2],[C.blackMkt,2],[C.strike,4],[C.sphere,3],[C.medical,1]] },
+  { tab:'GEAR',      label:'GEAR',            sub:'8 cards · 2 kinds',   items:[[C.necklace,4],[C.rocket,4]] },
+  { tab:'STRUCTURE', short:'STRUCT', label:'STRUCTURE',       sub:'6 cards · 2 kinds',   land:true, items:[[C.shoddyBed,2],[C.bench,4]] }
+];
+
+const DECK = [
+  [C.chilletRR,4],
+  [C.menasting,2],[C.shadowbeak,2]
+];
+
+const CARDS = Object.assign({}, C);
+
+const BASE_COUNTS = {};
+PAGES.forEach(p => p.items.forEach(([card, n]) => { BASE_COUNTS[card.slug] = (BASE_COUNTS[card.slug] || 0) + n; }));
+
+const BASE_ORDER = {};
+PAGES.forEach(p => p.items.forEach(([card], i) => { BASE_ORDER[card.slug] = i; }));
+
+const TAB_OF = card => {
+  const d = card.dir || '';
+  if (d.indexOf('Pal/') === 0) return 'PAL ' + d.slice(4).toUpperCase();
+  return d.split('/')[0].toUpperCase();
+};
+
+
+// Deck order follows the type tabs: Pal Blue → Purple → Red → Green → Colorless → Event → Gear → Structure
+const TAB_RANK = ['Pal/Blue','Pal/Purple','Pal/Red','Pal/Green','Pal/Colorless','Event','Gear','Structure'];
+const deckRank = card => {
+  const i = TAB_RANK.findIndex(k => (card.dir || '').indexOf(k) === 0);
+  return i < 0 ? TAB_RANK.length : i;
+};
+DECK.sort((a, b) => deckRank(a[0]) - deckRank(b[0]) || a[0].cost - b[0].cost || a[0].name.localeCompare(b[0].name));
+
+const BY_SLUG = {};
+const BY_CODE = {};
+const BY_LABEL = {};
+const cardLabel = card => (['Event','Gear','Structure'].indexOf(card.sub) < 0 ? card.name + ' – ' + card.sub : card.name);
+const norm = s => String(s).toLowerCase().replace(/[–—-]/g, '-').replace(/[^a-z0-9]+/g, '');
+const ART = {};
+function indexCards() {
+  Object.keys(CARDS).forEach(k => {
+    const card = CARDS[k];
+    BY_SLUG[card.slug] = card;
+    if (card.code) BY_CODE[norm(card.code)] = card;
+    BY_LABEL[norm(cardLabel(card))] = card;
+    if (!BY_LABEL[norm(card.name)]) BY_LABEL[norm(card.name)] = card;
+    const num = String(card.no).padStart(3, '0');
+    const folder = Math.floor((card.no - 1) / 100) + 1;
+    if (card.art) { ART[card.slug] = card.art; return; }
+    ART[card.slug] = 'images/' + folder + '/' + num + '-' +
+      encodeURIComponent((card.file || (card.name + ' ' + card.sub)) + ' -' + card.rar + '-') + '.' + (card.ext || 'png');
+  });
+}
+indexCards();
+
+const INITIAL_DECK = {};
+DECK.forEach(([card, n]) => { INITIAL_DECK[card.slug] = n; });
+
+function artPath(card) { return ART[card.slug] || ''; }
+
+class Component extends DCLogic {
+  state = { page: 0, found: {}, narrow: false, short: false, removed: {}, hover: null, deck: null, copied: false, aiBusy: false, aiOut: '', aiErr: '', importMsg: '', importBad: false };
+
+  counts() { return BASE_COUNTS; }
+  ownedOf(card) {
+    const c = this.counts();
+    let n = 0;
+    Object.keys(BY_SLUG).forEach(s => {
+      const o = BY_SLUG[s];
+      if (o.name === card.name && o.sub === card.sub) n += c[s] || 0;
+    });
+    return n;
+  }
+  pages() {
+    const c = this.counts();
+    const bySlug = {};
+    Object.keys(c).forEach(s => { if (BY_SLUG[s] && c[s] > 0) bySlug[s] = c[s]; });
+    return PAGES.map(p => {
+      const items = Object.keys(bySlug)
+        .filter(s => TAB_OF(BY_SLUG[s]) === p.tab)
+        .sort((a, b) => {
+          const oa = BASE_ORDER[a], ob = BASE_ORDER[b];
+          if (oa != null && ob != null) return oa - ob;
+          if (oa != null) return -1;
+          if (ob != null) return 1;
+          return BY_SLUG[a].cost - BY_SLUG[b].cost || BY_SLUG[a].name.localeCompare(BY_SLUG[b].name);
+        })
+        .map(s => [BY_SLUG[s], bySlug[s]]);
+      const total = items.reduce((t, it) => t + it[1], 0);
+      return Object.assign({}, p, { items,
+        sub: items.length ? total + ' cards · ' + items.length + (items.length === 1 ? ' kind' : ' kinds') : 'none in list yet' });
+    });
+  }
+
+  deckMap() { return this.state.deck || INITIAL_DECK; }
+  loadDeck() {
+    try { const v = JSON.parse(localStorage.getItem('palbinder.deck')); if (v && typeof v === 'object') return v; } catch (e) {}
+    return INITIAL_DECK;
+  }
+  saveDeck(d) {
+    this.setState({ deck: d });
+    try { localStorage.setItem('palbinder.deck', JSON.stringify(d)); } catch (e) {}
+  }
+  bumpDeck(slug, delta, max) {
+    const d = Object.assign({}, this.deckMap());
+    const n = Math.max(0, Math.min(max, (d[slug] || 0) + delta));
+    if (n === 0) delete d[slug]; else d[slug] = n;
+    this.saveDeck(d);
+  }
+  importText() {
+    const raw = this._ta ? this._ta.value : '';
+    if (!raw.trim()) { this.setState({ importMsg: 'วางข้อความ deck list ก่อนครับ', importBad: true }); return; }
+    const next = {};
+    const misses = [];
+    raw.split(/\r?\n/).forEach(line => {
+      const t = line.trim();
+      if (!t || t[0] === '#' || t.slice(0, 2) === '//') return;
+      const m = t.match(/^(\d+)\s+(.+?)\s*$/);
+      if (!m) return;
+      const n = parseInt(m[1], 10);
+      let body = m[2];
+      let code = '';
+      const cm = body.match(/\(([^()]+)\)\s*$/);
+      if (cm) { code = cm[1]; body = body.slice(0, cm.index).trim(); }
+      if (/^soul$/i.test(body)) return;
+      const card = BY_CODE[norm(code)] || BY_LABEL[norm(body)];
+      if (!card) { misses.push(t); return; }
+      next[card.slug] = (next[card.slug] || 0) + n;
+    });
+    const kinds = Object.keys(next).length;
+    if (!kinds) { this.setState({ importMsg: 'ไม่พบการ์ดที่ตรงกับคอลเลกชันเลย', importBad: true }); return; }
+    this.saveDeck(next);
+    const total = Object.keys(next).reduce((s, k) => s + next[k], 0);
+    this.setState({
+      importMsg: 'นำเข้าแล้ว ' + total + ' ใบ / ' + kinds + ' ชนิด' + (misses.length ? ' · ไม่รู้จัก ' + misses.length + ' บรรทัด: ' + misses.slice(0, 3).join(' | ') : ''),
+      importBad: misses.length > 0
+    });
+  }
+
+  tally() {
+    const t = { blue: 0, purple: 0, colorless: 0, event: 0, gear: 0, structure: 0 };
+    this.pages().forEach(p => (p.items || []).forEach(([card, n]) => {
+      const d = card.dir || '';
+      const key = d.indexOf('Pal/') === 0 ? d.slice(4).toLowerCase() : d.split('/')[0].toLowerCase();
+      if (key in t) t[key] += n;
+    }));
+    return t;
+  }
+
+  async runAI() {
+    if (this.state.aiBusy) return;
+    const items = this.deckItems();
+    if (!items.length) { this.setState({ aiErr: 'เด็คว่างอยู่ครับ — ใส่การ์ดก่อน' }); return; }
+    const total = items.reduce((t, it) => t + it[1], 0);
+    const lines = items.map(it => {
+      const c = it[0];
+      return it[1] + '× ' + cardLabel(c) + ' | cost ' + c.cost + ' | ' + (c.dir || '') + (c.badge === 'LUCKY' ? ' | Lucky Pal' : '') + (c.rar ? ' | ' + c.rar : '');
+    }).join('\n');
+    this.setState({ aiBusy: true, aiErr: '', aiOut: '' });
+    try {
+      const out = await window.claude.complete({
+        max_tokens: 1400,
+        system: 'คุณเป็นผู้เล่น Palworld TCG ระดับแข่งขัน วิเคราะห์เด็คให้กระชับ ตรงประเด็น ตอบเป็นภาษาไทย ใช้ markdown หัวข้อสั้น ๆ ห้ามเกริ่นนำ กติกา: main deck 50 ใบ, ห้ามเกิน 4 ใบต่อชนิด, ใช้ได้ไม่เกิน 2 สี (Colorless ฟรี), Lucky Pal ไม่เกิน 8 ใบ',
+        messages: [{ role: 'user', content:
+          'เด็คของผม (' + total + ' ใบ):\n' + lines +
+          '\n\nช่วยตอบตามหัวข้อนี้:\n## แนวเด็ค\nชื่อแนว/อาร์คีไทป์ และเหตุผลสั้น ๆ\n## แผนการเล่น\nเทิร์นต้น / กลาง / ปลาย ควรทำอะไร\n## คะแนน X/10\nให้คะแนนเต็ม 10 พร้อมเหตุผล 1-2 บรรทัด\n## จุดแข็ง\n## จุดอ่อน\n## ควรปรับปรุง\nบอกเป็นข้อ ๆ ว่าควรเพิ่ม/ลดการ์ดอะไร กี่ใบ และเพราะอะไร' }]
+      });
+      this.setState({ aiOut: String(out || '').trim(), aiBusy: false });
+    } catch (e) {
+      this.setState({ aiBusy: false, aiErr: 'วิเคราะห์ไม่สำเร็จ: ' + (e && e.message ? e.message : e) });
+    }
+  }
+
+  aiBlocks() {
+    const txt = this.state.aiOut || '';
+    if (!txt) return [];
+    const out = [];
+    txt.split(/\r?\n/).forEach(raw => {
+      const t = raw.trim();
+      if (!t) return;
+      const hm = t.match(/^#{1,6}\s*(.+)$/);
+      const strip = s => s.replace(/\*\*/g, '').replace(/^\*\s*/, '');
+      if (hm) {
+        out.push({ text: strip(hm[1]), style: 'font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(12px,3.1vw,15px);color:#2477ae;margin-top:6px' });
+      } else if (/^([-*•]|\d+[.)])\s+/.test(t)) {
+        out.push({ text: '· ' + strip(t.replace(/^([-*•]|\d+[.)])\s+/, '')), style: 'font-size:clamp(11px,2.9vw,13px);line-height:1.6;color:#22382c;padding-left:8px;text-wrap:pretty' });
+      } else {
+        out.push({ text: strip(t), style: 'font-size:clamp(11px,2.9vw,13px);line-height:1.6;color:#22382c;text-wrap:pretty' });
+      }
+    });
+    return out;
+  }
+
+  deckItems() {
+    const d = this.deckMap();
+    const items = Object.keys(d).filter(s => BY_SLUG[s] && d[s] > 0).map(s => [BY_SLUG[s], d[s]]);
+    items.sort((a, b) => deckRank(a[0]) - deckRank(b[0]) || a[0].cost - b[0].cost || a[0].name.localeCompare(b[0].name));
+    return items;
+  }
+  book() {
+    const items = this.deckItems();
+    const total = items.reduce((t, it) => t + it[1], 0);
+    const kinds = items.length;
+    return [{ tab:'DECK', label:'DECK', deck:true, spread:true, items,
+      sub: kinds ? total + ' cards · ' + kinds + ' kinds' : 'deck is empty — hover a card and press +Deck' }]
+      .concat(this.pages())
+      .concat([{ tab:'DECK ANALYSIS', short:'ANALYSIS', label:'DECK ANALYSIS', sub:'', analysis:true, items:[] },
+               { tab:'PLAYTEST', short:'PLAY', label:'PLAYTEST', sub:'', playtest:true, items:[] }]);
+  }
+
+  loadRemoved() {
+    try { return JSON.parse(localStorage.getItem('palbinder.removed') || '{}') || {}; } catch (e) { return {}; }
+  }
+  saveRemoved(r) {
+    this.setState({ removed: r });
+    try { localStorage.setItem('palbinder.removed', JSON.stringify(r)); } catch (e) {}
+  }
+  remove(slug, label) {
+    if (!window.confirm('Remove ' + label + ' from the list?')) return;
+    const r = Object.assign({}, this.state.removed); r[slug] = true; this.saveRemoved(r);
+  }
+
+  // Probe each art file once; a missing file leaves the pocket in its empty state.
+  preload() {
+    Object.keys(ART).forEach(k => {
+      const p = ART[k];
+      if (this.state.found[p]) return;
+      const img = new Image();
+      img.onload = () => this.setState(s => ({ found: Object.assign({}, s.found, { [p]: true }) }));
+      img.src = p;
+    });
+  }
+
+  componentDidMount() {
+    this.preload();
+    this.setState({ removed: this.loadRemoved(), deck: this.loadDeck() });
+    this._mq = window.matchMedia('(max-width: 900px)');
+    this._sync = () => {
+      const hdr = this._hdr ? this._hdr.getBoundingClientRect().height : 90;
+      this.setState({
+        narrow: this._mq.matches,
+        short: window.innerHeight < 700,
+        availH: window.innerHeight - hdr - 96
+      });
+    };
+    window.addEventListener('resize', this._sync);
+    this._sync();
+    this._mq.addEventListener('change', this._sync);
+    this._key = e => {
+      if (e.key === 'ArrowRight') this.step(1);
+      if (e.key === 'ArrowLeft') this.step(-1);
+    };
+    window.addEventListener('keydown', this._key);
+  }
+  componentWillUnmount() {
+    window.removeEventListener('keydown', this._key);
+    window.removeEventListener('resize', this._sync);
+    if (this._mq) this._mq.removeEventListener('change', this._sync);
+  }
+
+  shellWidth(spread) {
+    // Page height ≈ 4 rows of (cardW*1.4 + caption) + gaps + header ≈ 6.9 * cardW; cardW ≈ pageW/3.
+    const avail = Math.max(220, (this.state.availH || 520));
+    const fromHeight = (avail / 6.9) * 3;
+    const pageW = Math.min(430, Math.max(300, fromHeight));
+    return Math.round(spread ? pageW * 2 + 26 : pageW);
+  }
+
+  go(p) { this.setState({ page: Math.max(0, Math.min(this.book().length - 1, p)) }); }
+  step(d) { this.go(this.state.page + d); }
+
+  page(i, half, book) {
+    const spec = (book || this.book())[i];
+    const h = half || 0;
+    const land = !!(spec && spec.land);
+    const ar = land ? '7/5' : '5/7';
+    const stacked = !!(spec && spec.spread) && this.state.narrow;
+    const slots = stacked ? Math.max(12, Math.ceil(spec.items.length / 3) * 3) : (land ? 8 : 12);
+    if (!spec) return { label:'Back cover', sub:'', pageNo:'', pockets: this.pad([], true) };
+    const pockets = [];
+    const items = (spec.spread && !stacked) ? spec.items.slice(h * slots, h * slots + slots) : spec.items;
+    items.forEach(([card, n]) => {
+      if (!this.state.removed[card.slug]) {
+        const k = 0;
+        const t = TONE[card.tone];
+        const owned = this.ownedOf(card);
+        const have = spec.deck ? owned : n;
+        const short = spec.deck ? Math.max(0, n - have) : 0;
+        const inDeck = this.deckMap()[card.slug] || 0;
+        pockets.push({
+          count: spec.deck ? have + '/' + n : '×' + n,
+          short: '-' + short,
+          isShort: short > 0,
+          del: () => this.remove(card.slug, card.name + ' ' + card.sub + ' (' + card.rar + ')'),
+          hoverOn: () => { if (this.state.hover !== card.slug) this.setState({ hover: card.slug }); },
+          hoverOff: () => { if (this.state.hover === card.slug) this.setState({ hover: null }); },
+          deckLabel: spec.deck ? '− Deck' : (inDeck ? '+ Deck (' + inDeck + ')' : '+ Deck'),
+          deckAct: () => this.bumpDeck(card.slug, spec.deck ? -1 : 1, owned),
+          deckBtnStyle: 'flex:0 1 auto;min-width:0;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;cursor:pointer;font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(8px,1.9vw,10px);line-height:1;color:#fff;border:1.5px solid #fff;border-radius:999px;padding:4px 8px;box-shadow:0 2px 5px rgba(31,60,45,.28);background:' +
+            (spec.deck ? 'linear-gradient(180deg,#8aa39a,#5d7d70)' : 'linear-gradient(180deg,#3fc4a0,#1d8f72)') +
+            (!spec.deck && inDeck >= owned ? ';opacity:.45' : ''),
+          replace: () => {
+            const el = document.getElementById('pk-' + card.slug + '-1');
+            const btn = el && el.shadowRoot && el.shadowRoot.querySelector('[data-act="replace"]');
+            if (btn) btn.click();
+          },
+          barStyle: 'position:absolute;top:5px;left:5px;right:5px;display:flex;flex-direction:column;align-items:center;gap:4px;transition:opacity .14s ease;' +
+            (this.state.hover === card.slug ? 'opacity:1' : 'opacity:0;pointer-events:none'),
+          filled: true, empty: false,
+          slotId: 'pk-' + card.slug + '-' + (k + 1),
+          name: card.name, sub: card.sub, cost: card.cost, badge: card.badge, hasBadge: !!card.badge,
+          rar: '(' + card.rar + ')',
+          art: this.state.found[artPath(card)] ? artPath(card) : '',
+          file: artPath(card),
+          gem: t.gem + ';box-shadow:0 2px 5px rgba(31,60,45,.28)',
+          frame: 'position:relative;width:100%;aspect-ratio:' + ar + ';border-radius:11px;padding:0;background:' + t.bg +
+                 ';border:2px solid ' + t.edge + ';box-shadow:0 6px 14px rgba(31,60,45,.2),inset 0 2px 0 rgba(255,255,255,.7);overflow:hidden',
+          sheen: card.foil
+            ? 'position:absolute;inset:0;border-radius:9px;pointer-events:none;background:linear-gradient(105deg,transparent 36%,rgba(255,255,255,.7) 48%,rgba(180,235,255,.5) 56%,transparent 68%);background-size:250% 100%;animation:foilSweep 5s linear infinite'
+            : 'display:none'
+        });
+      }
+    });
+    return {
+      label: spec.label, sub: spec.sub, pageNo: spec.spread ? 'Page ' + (i + 1) + '.' + (h + 1) : 'Page ' + (i + 1),
+      grid: 'display:grid;grid-template-columns:repeat(' + (land ? 2 : 3) + ',1fr);grid-auto-rows:min-content;gap:clamp(4px,1vw,8px)',
+      pockets: this.pad(pockets, ar, slots)
+    };
+  }
+
+  pad(pockets, ar, slots) {
+    const out = pockets.slice(0, slots);
+    while (out.length < slots) out.push({
+      filled: false, empty: true, short:'', isShort:false, del: null, hoverOn: null, hoverOff: null, replace: null, deckAct: null, deckLabel:'', deckBtnStyle:'display:none', barStyle:'display:none', name:'', sub:'', cost:'', count:'', badge:'', hasBadge:false, rar:'', art:'', file:'', gem:'', sheen:'display:none',
+      frame: 'position:relative;width:100%;aspect-ratio:' + ar + ';border-radius:11px;border:2px dashed #d9e2cf;background:rgba(255,255,255,.45);overflow:hidden'
+    });
+    return out;
+  }
+
+  ptLibrary() {
+    const d = this.deckMap();
+    const out = [];
+    Object.keys(d).forEach(s => { if (BY_SLUG[s]) for (let i = 0; i < d[s]; i++) out.push(s); });
+    for (let i = out.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      const t = out[i]; out[i] = out[j]; out[j] = t;
+    }
+    return out;
+  }
+  ptDeal(mull) {
+    const lib = this.ptLibrary();
+    this.setState({ ptLib: lib.slice(5), ptHand: lib.slice(0, 5), ptMulls: mull ? (this.state.ptMulls || 0) + 1 : 0 });
+  }
+  ptDrawOne() {
+    const lib = (this.state.ptLib || []).slice();
+    if (!lib.length) return;
+    const s = lib.shift();
+    this.setState({ ptLib: lib, ptHand: (this.state.ptHand || []).concat([s]) });
+  }
+  ptHandCards() {
+    return (this.state.ptHand || []).map(s => BY_SLUG[s]).filter(Boolean).map(card => {
+      const t = TONE[card.tone];
+      return {
+        name: card.name, cost: String(card.cost),
+        artStyle: 'position:absolute;inset:3px;border-radius:8px' + (this.state.found[artPath(card)]
+          ? ';background-image:url("' + artPath(card) + '");background-size:contain;background-repeat:no-repeat;background-position:center'
+          : ''),
+        frame: 'position:relative;width:100%;aspect-ratio:5/7;border-radius:11px;background:' + t.bg +
+               ';border:2px solid ' + t.edge + ';box-shadow:0 6px 14px rgba(31,60,45,.2),inset 0 2px 0 rgba(255,255,255,.7);overflow:hidden',
+        sheen: card.foil
+          ? 'position:absolute;inset:0;border-radius:9px;pointer-events:none;background:linear-gradient(105deg,transparent 36%,rgba(255,255,255,.7) 48%,rgba(180,235,255,.5) 56%,transparent 68%);background-size:250% 100%;animation:foilSweep 5s linear infinite'
+          : 'display:none'
+      };
+    });
+  }
+
+  renderVals() {
+    const first = this.state.page;
+    const book = this.book();
+    const tabs = book.map((p, i) => {
+      const active = i === first;
+      const tool = !!(p.deck || p.analysis || p.playtest);
+      return {
+        label: (this.state.short ? (p.short || p.tab) : p.tab) || String(i + 1),
+        go: () => this.go(i),
+        style: 'flex:none;cursor:pointer;padding:5px 11px;border-radius:999px;font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(9px,2.3vw,11px);letter-spacing:.03em;white-space:nowrap;' +
+          (active
+            ? 'background:linear-gradient(90deg,#ffc24d,#f2913a);border:2px solid #fff;color:#4a2a06;box-shadow:3px 3px 0 rgba(201,111,33,.45)'
+            : tool
+              ? 'background:linear-gradient(180deg,#2f5c47,#1d3a2b);border:2px solid #fff;color:#eaf6ee;box-shadow:2px 2px 0 rgba(31,60,45,.22)'
+              : 'background:rgba(255,255,255,.75);border:2px solid #fff;color:#43695a;box-shadow:2px 2px 0 rgba(31,60,45,.12)')
+      };
+    });
+    const spread = !!(book[first] && book[first].spread);
+    const spec = book[first] || {};
+    const isAn = !!spec.analysis;
+    const items = this.deckItems();
+    const total = items.reduce((t, it) => t + it[1], 0);
+    const sumCost = items.reduce((t, it) => t + it[0].cost * it[1], 0);
+    const anGroups = TAB_RANK.map(key => {
+      const rows = items.filter(it => (it[0].dir || '').indexOf(key) === 0).map(it => {
+        const card = it[0], n = it[1];
+        const owned = this.ownedOf(card);
+        const missing = Math.max(0, n - owned);
+        return {
+          qty: n + '×',
+          cost: 'Cost ' + card.cost,
+          rar: card.rar,
+          name: ['Event','Gear','Structure'].indexOf(card.sub) < 0 ? card.name + ' – ' + card.sub : card.name,
+          own: missing ? 'ขาด ' + missing + ' (มี ' + owned + ')' : 'มี ' + owned,
+          ownStyle: 'font-family:Kanit,sans-serif;font-weight:600;font-size:clamp(10px,2.5vw,12px);white-space:nowrap;color:' + (missing ? '#c0341c' : '#43695a')
+        };
+      });
+      const n = rows.reduce((t, r) => t + parseInt(r.qty, 10), 0);
+      return { title: key.replace('/', ' · ').toUpperCase() + '  —  ' + n + ' cards', rows, has: rows.length > 0,
+        groupStyle: rows.length ? 'display:flex;flex-direction:column;gap:3px;padding:10px 12px;border-radius:12px;background:rgba(255,255,255,.72);border:1.5px solid rgba(31,60,45,.1)' : 'display:none' };
+    });
+    const counts = {};
+    items.forEach(it => { counts[it[0].cost] = (counts[it[0].cost] || 0) + it[1]; });
+    const peak = Math.max(1, ...Object.keys(counts).map(k => counts[k]));
+    const anCurve = [];
+    for (let c = 1; c <= 8; c++) {
+      const v = counts[c] || 0;
+      anCurve.push({ cost: String(c), n: v ? String(v) : '·',
+        bar: 'height:' + Math.round(6 + (v / peak) * 78) + 'px;width:100%;border-radius:5px 5px 2px 2px;background:' + (v ? 'linear-gradient(180deg,#4fb3e8,#2477ae)' : 'rgba(31,60,45,.1)') });
+    }
+    const colors = [];
+    items.forEach(it => {
+      const c = (it[0].dir || '').split('/')[1];
+      if (c && c !== 'Colorless' && colors.indexOf(c) < 0) colors.push(c);
+    });
+    const SOUL = 10;
+    const anText = [
+      '# Palworld TCG Play Hub deck',
+      '# Colors: ' + (colors.join(', ') || '—'),
+      '# Main ' + total + '/50, Soul ' + SOUL + '/' + SOUL,
+      ''
+    ].concat(items.map(it => {
+      const card = it[0];
+      const TYPE_SUBS = ['Event', 'Gear', 'Structure'];
+      const label = card.sub && TYPE_SUBS.indexOf(card.sub) < 0 ? card.name + ' – ' + card.sub : card.name;
+      return it[1] + ' ' + label + (card.code ? ' (' + card.code + ')' : '');
+    })).concat(['', '// Soul', SOUL + ' Soul (SOUL-001)']).join('\n');
+
+    const lucky = items.filter(it => it[0].badge === 'LUCKY').reduce((t, it) => t + it[1], 0);
+    const byName = {};
+    items.forEach(it => { const n = it[0].name; byName[n] = (byName[n] || 0) + it[1]; });
+    const over4 = Object.keys(byName).filter(n => byName[n] > 4).map(n => [{ name: n }, byName[n]]);
+    const mkRule = (ok, label, detail) => ({
+      label, detail, mark: ok ? '✓' : '!',
+      rowStyle: 'display:grid;grid-template-columns:22px minmax(0,1fr) auto;align-items:center;gap:9px;padding:5px 0;border-top:1px solid rgba(31,60,45,.08)',
+      markStyle: 'display:flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:999px;font-family:Kanit,sans-serif;font-weight:700;font-size:12px;color:#fff;background:' + (ok ? 'linear-gradient(180deg,#3fc4a0,#1d8f72)' : 'linear-gradient(180deg,#e8623f,#c0341c)'),
+      detailStyle: 'font-family:Kanit,sans-serif;font-weight:600;font-size:clamp(10px,2.5vw,12px);white-space:nowrap;color:' + (ok ? '#1d8f72' : '#c0341c')
+    });
+    const anRules = [
+      mkRule(total === 50, 'Main deck ต้องมี 50 ใบ', total + ' / 50' + (total < 50 ? ' · ขาด ' + (50 - total) : total > 50 ? ' · เกิน ' + (total - 50) : '')),
+      mkRule(over4.length === 0, 'ชื่อการ์ดเดียวกันไม่เกิน 4 ใบ (นับรวมทุก rarity · CR 6.1.1.2)', over4.length ? 'เกิน: ' + over4.map(it => it[0].name + ' ' + it[1]).join(', ') : 'ผ่าน'),
+      mkRule(colors.length <= 2, 'ใช้ได้ไม่เกิน 2 สี (Colorless ใส่ได้เสมอ)', (colors.join(', ') || '—') + ' (' + colors.length + ')'),
+      mkRule(lucky <= 8, 'Lucky Pal ไม่เกิน 8 ใบ (CR 6.1.1.3)', lucky + ' / 8' + (lucky > 8 ? ' · เกิน ' + (lucky - 8) : '')),
+      mkRule(true, 'Soul deck 10 ใบ · ชีวิตเริ่ม 10 · Pal limit 5 (CR 6.1.2.1 / 4.4.5.2)', '10 / 10')
+    ];
+    const anFails = anRules.filter(r => r.mark === '!').length;
+    const anVerdict = anFails ? 'ยังไม่ถูกกติกา · ' + anFails + ' ข้อ' : 'ถูกกติกาทุกข้อ';
+    const anVerdictStyle = 'font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(9px,2.4vw,11px);color:#fff;border-radius:999px;padding:4px 11px;background:' + (anFails ? 'linear-gradient(180deg,#e8623f,#c0341c)' : 'linear-gradient(180deg,#3fc4a0,#1d8f72)');
+
+    const missingTotal = items.reduce((t, it) => t + Math.max(0, it[1] - this.ownedOf(it[0])), 0);
+    const foils = items.filter(it => it[0].foil).reduce((t, it) => t + it[1], 0);
+    const anStats = [
+      { k:'การ์ดทั้งหมด', v: String(total) },
+      { k:'ชนิด', v: String(items.length) },
+      { k:'Cost เฉลี่ย', v: total ? (sumCost / total).toFixed(2) : '—' },
+      { k:'ฟอยล์', v: String(foils) },
+      { k:'ยังขาด', v: String(missingTotal) }
+    ];
+    const isPt = !!spec.playtest;
+    const ptHand = this.ptHandCards();
+    const N = Math.max(total, 1);
+    const hyp = (k, h) => {
+      if (!k) return 0;
+      let p = 1;
+      for (let i = 0; i < h; i++) p *= (N - k - i) / (N - i);
+      return 1 - Math.max(0, p);
+    };
+    const ptOdds = items.map(it => ({
+      qty: it[1] + '×',
+      name: cardLabel(it[0]),
+      pct: total ? Math.round(hyp(it[1], Math.min(5, N)) * 100) + '%' : '—'
+    }));
+    const ptActStyle = 'cursor:pointer;font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(10px,2.6vw,12px);color:#fff;background:linear-gradient(180deg,#3fc4a0,#1d8f72);border:2px solid #fff;border-radius:999px;padding:6px 16px;box-shadow:0 2px 6px rgba(31,60,45,.28)' +
+      (ptHand.length ? '' : ';opacity:.45');
+    return {
+      isAn,
+      ptHand, ptOdds, ptActStyle,
+      ptNew: () => this.ptDeal(false),
+      ptMull: () => { if (ptHand.length) this.ptDeal(true); },
+      ptDraw: () => this.ptDrawOne(),
+      ptStats: [
+        { k:'ในมือ', v: String(ptHand.length) },
+        { k:'เหลือในกอง', v: String((this.state.ptLib || []).length) },
+        { k:'Mulligan', v: String(this.state.ptMulls || 0) },
+        { k:'Cost เฉลี่ยในมือ', v: ptHand.length ? (ptHand.reduce((t, h) => t + Number(h.cost), 0) / ptHand.length).toFixed(1) : '—' }
+      ],
+      ptHint: total ? (ptHand.length ? '' : 'กด “สุ่มมือเปิดใหม่” เพื่อเริ่ม') : 'เด็คว่างอยู่ — ใส่การ์ดในแท็บคอลเลกชันก่อน',
+      ptHintStyle: 'font-family:Kanit,sans-serif;font-weight:500;font-size:clamp(10px,2.6vw,12px);color:#43695a' + ((total && ptHand.length) ? ';display:none' : ''),
+      ptOddsStyle: items.length ? 'display:flex;flex-direction:column;gap:2px;padding:10px 12px;border-radius:12px;background:rgba(255,255,255,.72);border:1.5px solid rgba(31,60,45,.1)' : 'display:none',
+      ptStyle: isPt
+        ? 'width:100%;max-width:840px;display:flex;flex-direction:column;gap:12px;padding:clamp(14px,3vw,22px);border-radius:18px;background:linear-gradient(160deg,#fffdf4,#fdf3dc);border:2px solid #fff8e6;box-shadow:0 26px 60px rgba(31,60,45,.22)'
+        : 'display:none',
+      tally: this.tally(),
+      aiRun: () => this.runAI(),
+      aiLabel: this.state.aiBusy ? 'กำลังวิเคราะห์…' : (this.state.aiOut ? 'วิเคราะห์อีกครั้ง' : 'ให้ AI วิเคราะห์เด็ค'),
+      aiBtnStyle: 'cursor:' + (this.state.aiBusy ? 'progress' : 'pointer') + ';font-family:Kanit,sans-serif;font-weight:700;font-size:clamp(10px,2.6vw,12px);color:#4a2a06;background:linear-gradient(180deg,#ffc24d,#f2913a);border:2px solid #fff;border-radius:999px;padding:6px 16px;box-shadow:0 2px 6px rgba(201,111,33,.4)' + (this.state.aiBusy ? ';opacity:.6' : ''),
+      aiBlocks: this.aiBlocks(),
+      aiOutStyle: this.state.aiOut ? 'display:flex;flex-direction:column;gap:3px;padding:11px 13px;border-radius:12px;background:rgba(255,255,255,.8);border:1.5px solid rgba(36,119,174,.2)' : 'display:none',
+      aiErr: this.state.aiErr || '',
+      aiErrStyle: 'font-family:Kanit,sans-serif;font-weight:600;font-size:clamp(10px,2.5vw,12px);color:#c0341c' + (this.state.aiErr ? '' : ';display:none'),
+      anGroups, anCurve, anStats, anText, anRules, anVerdict, anVerdictStyle,
+      taRef: el => { if (el) this._ta = el; },
+      doImport: () => this.importText(),
+      importMsg: this.state.importMsg || '',
+      importMsgStyle: 'font-family:Kanit,sans-serif;font-weight:500;font-size:clamp(9px,2.4vw,11px);color:' +
+        (this.state.importBad ? '#c0341c' : '#1d8f72') + (this.state.importMsg ? '' : ';display:none'),
+      copyText: () => {
+        const t = anText;
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(t).then(() => this.setState({ copied: true }), () => {});
+        } else {
+          const ta = document.createElement('textarea');
+          ta.value = t; document.body.appendChild(ta); ta.select();
+          try { document.execCommand('copy'); } catch (e) {}
+          document.body.removeChild(ta);
+          this.setState({ copied: true });
+        }
+        clearTimeout(this._ct);
+        this._ct = setTimeout(() => this.setState({ copied: false }), 1600);
+      },
+      copyLabel: this.state.copied ? 'คัดลอกแล้ว ✓' : 'Copy',
+      anStyle: isAn
+        ? 'width:100%;max-width:840px;display:flex;flex-direction:column;gap:12px;padding:clamp(14px,3vw,22px);border-radius:18px;background:linear-gradient(160deg,#fffdf4,#fdf3dc);border:2px solid #fff8e6;box-shadow:0 26px 60px rgba(31,60,45,.22)'
+        : 'display:none',
+      left: this.page(first, 0, book),
+      right: spread ? this.page(first, 1, book) : this.page(first, 0, book),
+      showRight: spread && !this.state.narrow,
+      shellStyle: ((isAn || isPt) ? 'display:none;' : 'display:flex;') + 'align-items:stretch;gap:8px;flex:none;margin:0 auto;min-width:0;width:' +
+        this.shellWidth(spread && !this.state.narrow) + 'px;max-width:100%',
+      spreadLabel: 'Page ' + (first + 1) + ' / ' + book.length,
+      hasRemoved: Object.keys(this.state.removed).length > 0,
+      removedCount: Object.keys(this.state.removed).length,
+      restore: () => this.saveRemoved({}),
+      hdrRef: el => { if (el && el !== this._hdr) { this._hdr = el; requestAnimationFrame(() => this._sync && this._sync()); } },
+      prev: () => this.step(-1),
+      next: () => this.step(1),
+      tabs
+    };
+  }
+}
+</script>
+</body>
+</html>
