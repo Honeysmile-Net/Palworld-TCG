@@ -1,6 +1,21 @@
 # Palworld Card Binder
 
-Static single-file binder. Open `index.html`, or enable GitHub Pages (Settings → Pages → branch `main`, folder `/`).
+Static binder. Open `index.html`, or enable GitHub Pages (Settings → Pages → branch `main`, folder `/`).
+
+Two files matter:
+
+| file | role |
+| --- | --- |
+| `index.html` | หน้าเว็บ (โค้ด + แคตตาล็อกการ์ด) |
+| `collection.json` | **ไฟล์ save** — จำนวนที่ถืออยู่ · rarity override · เด็ค |
+
+## อัปเดตคอลเลกชัน (ไม่ต้องแตะโค้ด)
+
+1. เปิดเว็บ แก้จำนวน +/− ตามจริง
+2. กดปุ่มเขียว **⬇ collection.json**
+3. เอาไฟล์ที่ได้ push ทับ `collection.json` ในรีโพ
+
+หน้าเว็บ `fetch('collection.json')` ตอนโหลด แล้วใช้ค่าจากไฟล์เป็นค่าตั้งต้น — คนอื่นที่เปิดดูจะเห็นค่าเดียวกับในไฟล์เสมอ (ที่เขากดแก้เองอยู่แค่เบราว์เซอร์เขา และถูกล้างทุกครั้งที่ `version` ในไฟล์เปลี่ยน).
 
 ## Card art
 
