@@ -1,10 +1,10 @@
 // ราคาการ์ด Palworld TCG — USD จาก eBay US completed sales (30 วัน recency-weighted)
-// ที่มา: palworldprices.com/cards · อัปเดตข้อมูล 2026-09-17 22:30 UTC · ดึงเข้าโปรเจ็กต์ 2026-09-21 · เช็กซ้ำ 2026-09-26 (ต้นทางยังไม่อัปเดต)
+// ที่มา: palworldprices.com/cards · อัปเดตข้อมูล 2026-09-17 22:30 UTC · ดึงเข้าโปรเจ็กต์ 2026-09-21 · เช็กซ้ำ 2026-09-27 (ต้นทางยังไม่อัปเดต)
 // key = รหัสการ์ดตัดคำนำหน้า E (BP01-001, BP01-001OSR, TD02-003TSR, PR-001, SOUL-003)
 // c = ความมั่นใจ: H (10+ sales) · M (4-9) · L (few)
 window.PAL_PRICES = {
   updated: '2026-09-17',
-  fx: 33.40, fxDate: '2026-09-26', fxSource: 'mid-market USD/THB (Investing · Xe · OFX)',
+  fx: 33.42, fxDate: '2026-09-27', fxSource: 'mid-market USD/THB (Investing · Xe · OFX)',
   source: 'palworldprices.com · eBay US sold',
   p: {
     'BP01-001':9.50,'BP01-001OSR':24.99,'BP01-001SSP':449.99,
