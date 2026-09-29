@@ -6,8 +6,7 @@ window.PAL_EVENTS = {
     { time:'2:00 PM GMT+7', title:'[EN][Monthly] Palworld OFFICIAL CARD GAME - September 2026 Shop Tournament', place:'Mawin Card Game', addr:'921 Always One Building, 4th Floor, Rd Mahachai, Khwaeng Wang Buraphaphirom, Phra Nakhon District Bangkok 10200 Thailand' },
   ],
   '2026-10-4': [
-    { time:'10:00 AM GMT+7', title:'Unsanctioned_Palworld OFFICIAL CARD GAME Demo Caravan · Event Code: REWRH', place:'Central Ladprao MCC Hall', addr:'1693 ถ. พหลโยธิน แขวงจตุจักร เขตจตุจักร กรุงเทพมหานคร 10900 BANGKOK 10900 Thailand' },
-    { time:'3:00 PM GMT+7', title:'Unsanctioned_Palworld OFFICIAL CARD GAME · Event Code: MPZPN', place:'Central Ladprao MCC Hall', addr:'1693 ถ. พหลโยธิน แขวงจตุจักร เขตจตุจักร กรุงเทพมหานคร 10900 BCC Hall BANGKOK 10900 Thailand' },
+    { time:'12:00 PM GMT+7 (Check-in 11:00 AM–12:00 PM)', title:'[EN] Palworld OFFICIAL CARD GAME - Grand Challengers Cup (October 2026) · Sanctioned / Standard · Event Code: SGXUV · Selected', place:'Halouis Home', addr:'921 Always One Plaza 4 Floor Phra Nakhon Bangkok 10200 Thailand · TEL (66)879939936' },
   ],
   '2026-10-10': [
     { time:'12:00 PM GMT+7 (Check-in 11:00 AM–12:00 PM)', title:'[EN] Palworld OFFICIAL CARD GAME - Grand Challengers Cup (October 2026) · Sanctioned / Standard · Event Code: EWDQE · Selected', place:'Card Harbor', addr:'921 Always One Plaza 4 Floor Phra Nakhon Bangkok 10200 Thailand · TEL (66)818544483' },
