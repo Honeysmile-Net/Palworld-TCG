@@ -3,6 +3,11 @@
 // Entries with `mod` load their raw text lazily from logs/<file>.js on first open.
 export const GAME_LOGS = [
   {
+    id: 'ep10-honeysmile-vs-gutz', title: 'EP10 · Honeysmile (เรา) vs Gutz', date: '2026-10-02',
+    deck: 'Blue/Purple (Shadowbeak · Workbench)', vs: 'Gutz (Blue · Chillet / Relaxaurus / Azurobe)', result: 'ชนะ (T8 · Shadowbeak 3 · ไลฟ์เรา 2)',
+    note: 'ใช้ทำ EP10 · Interrupt 7 ครั้ง (Blazehowl ×2, Cryolinx ×5) · Menasting Retaliate ลาก Chillet · Workbench คืน Shadowbeak/Menasting/Leezpunk · Shadowbeak กลางคืนชำแหละ 2 ครั้งล้างบอร์ดคู่แข่ง'
+  },
+  {
     id: 'pg-sep14-1358', title: 'p1 vs Purple/Green deck (Sep 9) — เล่นฝั่ง p2', date: '2026-09-14',
     deck: 'Purple/Green (Sep 9)', vs: 'p2 (Pengullet/Digtoise Gear · Rocket Launcher, Headband, Feed Box)', result: 'ชนะ (ลดไลฟ์คู่แข่งเหลือ 0 · T14)',
     note: 'rules 66 / abilities 15 · เกมยาว 14 เทิร์น — Pengullet ระเบิดล้างบอร์ด 4 รอบ แต่ไลฟ์เราขึ้น 10→13 จาก Petallia + interrupt 7 ครั้ง (Dinossom ×4, Pyrin ×3) · คู่แข่ง mill จนเหลือ 1 ใบ · ปิดด้วย Lily\'s เคลียร์ Rocket Launcher แล้ว Shadowbeak 3 · ยังไม่เก็บข้อความเต็ม'
