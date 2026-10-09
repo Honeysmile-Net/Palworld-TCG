@@ -3659,7 +3659,7 @@ class Component extends DCLogic {
       }
     });
     return {
-      label: spec.deck ? ('DECK ' + this.deckPriceTHB() + (split ? (h ? ' · ขาด' : ' · มีแล้ว') : '')) : spec.label,
+      label: spec.deck ? ('DECK' + (split ? (h ? ' · ขาด' : ' · มีแล้ว') : '')) : spec.label,
       sub: split
         ? (h ? (spec.missItems.length ? spec.missItems.reduce((t, it) => t + Math.max(0, it[1] - this.ownedOf(it[0])), 0) + ' cards · ' + spec.missItems.length + ' kinds ต้องหาเพิ่ม' : 'ครบทุกใบ')
              : (spec.haveItems.length ? spec.haveItems.reduce((t, it) => t + it[1], 0) + ' cards · ' + spec.haveItems.length + ' kinds' : 'ยังไม่มีใบที่ครบ'))

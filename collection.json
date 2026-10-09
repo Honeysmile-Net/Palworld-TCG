@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-09T00:33:16.296Z",
+  "version": "2026-10-09T01:59:46.040Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 180,
@@ -191,23 +191,5 @@
     "w-bp01-004sr": 1
   },
   "rarity": {},
-  "deck": {
-    "cryolinx": 4,
-    "zoe-rr": 3,
-    "w-bp01-095osr": 1,
-    "w-td01-016": 4,
-    "pyrin": 3,
-    "chillet-rr": 4,
-    "elph-aqua": 3,
-    "jorm-r": 3,
-    "elphidran": 4,
-    "aurora": 4,
-    "sphere": 3,
-    "pengullet-r": 4,
-    "strike": 3,
-    "rocket": 3,
-    "relaxaurus": 1,
-    "astegon": 1,
-    "lyleen": 2
-  }
+  "deck": {}
 }
