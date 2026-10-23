@@ -1,9 +1,9 @@
 {
-  "version": "2026-10-23T15:33:05.851Z",
+  "version": "2026-10-23T17:04:00.503Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 181,
-    "total": 808,
+    "total": 806,
     "deck": 50
   },
   "counts": {
@@ -29,7 +29,7 @@
     "medical": 5,
     "menasting": 11,
     "necklace": 10,
-    "pengullet-r": 4,
+    "pengullet-r": 3,
     "pengullet-sr": 1,
     "penking": 8,
     "pyrin": 4,
@@ -183,7 +183,7 @@
     "w-td02-023": 9,
     "w-td02-023tsr": 1,
     "w-td02-024": 6,
-    "zoe-rr": 1,
+    "zoe-rr": 0,
     "w-bp01-050osr": 2,
     "w-td01-023": 6,
     "w-td01-003": 2,
@@ -500,7 +500,7 @@
       "w-bp01-015",
       "shadowbeak",
       "shadowbeak",
-      "zoe-rr",
+      null,
       "w-bp01-095osr",
       "w-bp01-095osr",
       "w-bp01-095osr",
@@ -533,7 +533,7 @@
       "w-bp01-063",
       "w-bp01-064",
       "w-bp01-088",
-      "pengullet-r",
+      null,
       "w-bp01-049",
       "katress"
     ],
