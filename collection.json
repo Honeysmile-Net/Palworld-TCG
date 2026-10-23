@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-23T17:25:48.897Z",
+  "version": "2026-10-23T18:01:54.982Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 181,
@@ -204,21 +204,21 @@
   },
   "rarity": {},
   "deck": {
-    "w-bp02-054": 3,
-    "w-bp01-074osr": 3,
-    "blazehowl": 4,
-    "w-bp02-077": 2,
-    "w-td02-004": 4,
-    "w-td02-003tsr": 1,
-    "w-td02-003": 3,
-    "leezpunk": 4,
-    "w-bp02-080": 4,
-    "w-bp02-055": 4,
+    "w-bp01-015": 4,
+    "w-bp01-016": 4,
+    "w-bp01-020": 4,
+    "w-bp01-074osr": 2,
+    "lyleen": 2,
+    "menasting": 4,
     "w-bp01-095osr": 4,
-    "w-bp02-072": 4,
-    "w-bp01-063": 4,
-    "w-bp01-066": 3,
-    "w-td02-008": 3
+    "w-ss01-005osr": 2,
+    "w-td01-004": 4,
+    "w-td01-008": 4,
+    "w-td01-023": 4,
+    "w-etd01-024": 1,
+    "w-td01-024": 3,
+    "leezpunk": 4,
+    "blazehowl": 4
   },
   "savedDecks": {
     "Green Blue - Chillet Lyleen": {
@@ -289,8 +289,7 @@
       "lyleen": 2,
       "menasting": 4,
       "w-bp01-095osr": 4,
-      "w-ss01-005osr": 1,
-      "w-ss01-005": 1,
+      "w-ss01-005osr": 2,
       "w-td01-004": 4,
       "w-td01-008": 4,
       "w-td01-023": 4,
@@ -580,7 +579,7 @@
     "Green Blue - Chillet Lyleen": "2026-10-23T17:18:10.815Z",
     "Blue Purple - Chillet Quivern Astegon": "2026-10-23T17:18:10.815Z",
     "Green Purple - Lyleen Rushoar": "2026-10-23T17:18:10.815Z",
-    "goon": "2026-10-23T17:18:10.815Z",
+    "goon": "2026-10-23T18:01:19.158Z",
     "Red Blue - Chillet Machine gun BP02": "2026-10-23T15:16:54.365Z",
     "Shadowbeak Shroomer Farming": "2026-10-23T17:18:10.815Z"
   }
