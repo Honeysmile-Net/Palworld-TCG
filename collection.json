@@ -1,9 +1,9 @@
 {
-  "version": "2026-10-23T17:11:04.078Z",
+  "version": "2026-10-23T17:13:47.225Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 181,
-    "total": 804,
+    "total": 803,
     "deck": 50
   },
   "counts": {
@@ -21,7 +21,7 @@
     "elphidran": 10,
     "flyer": 8,
     "jorm-osr": 2,
-    "jorm-r": 3,
+    "jorm-r": 2,
     "katress": 5,
     "leezpunk": 6,
     "lyleen": 5,
@@ -361,7 +361,7 @@
       "w-bp01-031sr",
       "w-bp01-029sr",
       "w-bp01-029sr",
-      "jorm-r",
+      null,
       "chillet-rr",
       "chillet-rr",
       "chillet-rr",
