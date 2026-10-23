@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-23T17:18:10.815Z",
+  "version": "2026-10-23T17:23:56.638Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 181,
@@ -357,7 +357,7 @@
       "w-bp01-031sr",
       "w-bp01-029sr",
       "w-bp01-029sr",
-      null,
+      "w-bp01-038-pr",
       "chillet-rr",
       "chillet-rr",
       "chillet-rr",
@@ -451,8 +451,8 @@
     ],
     [
       "w-bp01-023",
-      null,
-      null,
+      "w-ss01-005osr",
+      "w-ss01-005osr",
       "w-bp01-020",
       "w-bp01-020",
       "w-bp01-020",
@@ -496,7 +496,7 @@
       "w-bp01-015",
       "shadowbeak",
       "shadowbeak",
-      null,
+      "w-bp01-095osr",
       "w-bp01-095osr",
       "w-bp01-095osr",
       "w-bp01-095osr",
@@ -529,7 +529,7 @@
       "w-bp01-063",
       "w-bp01-064",
       "w-bp01-088",
-      null,
+      "w-bp01-049-osr",
       "w-bp01-049",
       "katress"
     ],
@@ -570,7 +570,7 @@
       "w-bp01-001",
       "w-ss01-001osr",
       "w-ss01-005osr",
-      null,
+      "w-ss01-004osr",
       null,
       null,
       null
