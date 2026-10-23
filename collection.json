@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-23T15:16:54.365Z",
+  "version": "2026-10-23T15:33:05.851Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 181,
@@ -204,23 +204,22 @@
   },
   "rarity": {},
   "deck": {
-    "w-bp02-025": 2,
-    "w-bp02-001": 4,
-    "w-bp02-010": 2,
-    "w-bp01-038-pr": 2,
-    "elph-aqua": 3,
-    "chillet-rr": 4,
-    "w-td01-016": 4,
-    "elphidran": 3,
-    "w-td01-004": 4,
-    "w-bp02-007": 4,
-    "w-td02-023tsr": 1,
-    "w-td02-023": 3,
-    "w-td01-023": 2,
-    "aurora": 3,
-    "w-bp01-015": 3,
-    "w-bp01-016": 4,
-    "w-td01-008": 2
+    "w-bp02-054": 3,
+    "w-bp01-074osr": 3,
+    "blazehowl": 4,
+    "w-bp02-077": 2,
+    "w-td02-004": 4,
+    "w-td02-003tsr": 1,
+    "w-td02-003": 3,
+    "leezpunk": 4,
+    "w-bp02-080": 4,
+    "w-bp02-055": 4,
+    "w-bp01-095osr": 3,
+    "zoe-rr": 1,
+    "w-bp02-072": 4,
+    "w-bp01-063": 4,
+    "w-bp01-066": 3,
+    "w-td02-008": 3
   },
   "savedDecks": {
     "Green Blue - Chillet Lyleen": {
@@ -321,6 +320,24 @@
       "w-bp01-015": 3,
       "w-bp01-016": 4,
       "w-td01-008": 2
+    },
+    "Shadowbeak Shroomer Farming": {
+      "w-bp02-054": 3,
+      "w-bp01-074osr": 3,
+      "blazehowl": 4,
+      "w-bp02-077": 2,
+      "w-td02-004": 4,
+      "w-td02-003tsr": 1,
+      "w-td02-003": 3,
+      "leezpunk": 4,
+      "w-bp02-080": 4,
+      "w-bp02-055": 4,
+      "w-bp01-095osr": 3,
+      "zoe-rr": 1,
+      "w-bp02-072": 4,
+      "w-bp01-063": 4,
+      "w-bp01-066": 3,
+      "w-td02-008": 3
     }
   },
   "album": [
@@ -568,6 +585,7 @@
     "Blue Purple - Chillet Quivern Astegon": "2026-10-21T16:26:00.000Z",
     "Green Purple - Lyleen Rushoar": "2026-10-22T00:09:40.920Z",
     "goon": "2026-10-22T14:00:36.309Z",
-    "Red Blue - Chillet Machine gun BP02": "2026-10-23T15:16:54.365Z"
+    "Red Blue - Chillet Machine gun BP02": "2026-10-23T15:16:54.365Z",
+    "Shadowbeak Shroomer Farming": "2026-10-23T15:33:05.851Z"
   }
 }
