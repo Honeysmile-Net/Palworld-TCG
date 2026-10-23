@@ -1,9 +1,9 @@
 {
-  "version": "2026-10-23T17:15:24.866Z",
+  "version": "2026-10-23T17:18:10.815Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 181,
-    "total": 795,
+    "total": 797,
     "deck": 50
   },
   "counts": {
@@ -86,7 +86,7 @@
     "w-bp01-045": 6,
     "w-bp01-046": 4,
     "w-bp01-049": 4,
-    "w-bp01-049-osr": 1,
+    "w-bp01-049-osr": 2,
     "w-bp01-050": 2,
     "w-bp01-051": 5,
     "w-bp01-052": 8,
@@ -127,7 +127,7 @@
     "w-bp01-091": 6,
     "w-bp01-092": 5,
     "w-bp01-093": 4,
-    "w-bp01-095osr": 3,
+    "w-bp01-095osr": 4,
     "w-bp01-096": 6,
     "w-bp01-099": 5,
     "w-bp01-100": 6,
@@ -214,8 +214,7 @@
     "leezpunk": 4,
     "w-bp02-080": 4,
     "w-bp02-055": 4,
-    "w-bp01-095osr": 3,
-    "zoe-rr": 1,
+    "w-bp01-095osr": 4,
     "w-bp02-072": 4,
     "w-bp01-063": 4,
     "w-bp01-066": 3,
@@ -223,8 +222,8 @@
   },
   "savedDecks": {
     "Green Blue - Chillet Lyleen": {
-      "w-bp01-049-osr": 1,
-      "w-bp01-049": 3,
+      "w-bp01-049-osr": 2,
+      "w-bp01-049": 2,
       "relaxaurus": 4,
       "w-ss01-002osr": 2,
       "w-ss01-002": 2,
@@ -259,13 +258,12 @@
       "blazehowl": 2,
       "sphere": 3,
       "aurora": 4,
-      "w-bp01-095osr": 3,
-      "zoe-rr": 1,
+      "w-bp01-095osr": 4,
       "strike": 4
     },
     "Green Purple - Lyleen Rushoar": {
-      "w-bp01-049-osr": 1,
-      "w-bp01-049": 2,
+      "w-bp01-049-osr": 2,
+      "w-bp01-049": 1,
       "w-bp01-051": 3,
       "w-bp01-052": 4,
       "w-bp01-074osr": 2,
@@ -290,8 +288,7 @@
       "w-bp01-074osr": 2,
       "lyleen": 2,
       "menasting": 4,
-      "w-bp01-095osr": 3,
-      "zoe-rr": 1,
+      "w-bp01-095osr": 4,
       "w-ss01-005osr": 1,
       "w-ss01-005": 1,
       "w-td01-004": 4,
@@ -332,8 +329,7 @@
       "leezpunk": 4,
       "w-bp02-080": 4,
       "w-bp02-055": 4,
-      "w-bp01-095osr": 3,
-      "zoe-rr": 1,
+      "w-bp01-095osr": 4,
       "w-bp02-072": 4,
       "w-bp01-063": 4,
       "w-bp01-066": 3,
@@ -581,11 +577,11 @@
     ]
   ],
   "savedDecksAt": {
-    "Green Blue - Chillet Lyleen": "2026-10-21T16:25:34.925Z",
-    "Blue Purple - Chillet Quivern Astegon": "2026-10-21T16:26:00.000Z",
-    "Green Purple - Lyleen Rushoar": "2026-10-22T00:09:40.920Z",
-    "goon": "2026-10-22T14:00:36.309Z",
+    "Green Blue - Chillet Lyleen": "2026-10-23T17:18:10.815Z",
+    "Blue Purple - Chillet Quivern Astegon": "2026-10-23T17:18:10.815Z",
+    "Green Purple - Lyleen Rushoar": "2026-10-23T17:18:10.815Z",
+    "goon": "2026-10-23T17:18:10.815Z",
     "Red Blue - Chillet Machine gun BP02": "2026-10-23T15:16:54.365Z",
-    "Shadowbeak Shroomer Farming": "2026-10-23T15:33:05.851Z"
+    "Shadowbeak Shroomer Farming": "2026-10-23T17:18:10.815Z"
   }
 }
