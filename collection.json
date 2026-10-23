@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-23T18:01:54.982Z",
+  "version": "2026-10-23T18:10:28.639Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 181,
@@ -215,10 +215,9 @@
     "w-td01-004": 4,
     "w-td01-008": 4,
     "w-td01-023": 4,
-    "w-etd01-024": 1,
-    "w-td01-024": 3,
     "leezpunk": 4,
-    "blazehowl": 4
+    "blazehowl": 4,
+    "w-td02-023": 4
   },
   "savedDecks": {
     "Green Blue - Chillet Lyleen": {
@@ -293,10 +292,9 @@
       "w-td01-004": 4,
       "w-td01-008": 4,
       "w-td01-023": 4,
-      "w-etd01-024": 1,
-      "w-td01-024": 3,
       "leezpunk": 4,
-      "blazehowl": 4
+      "blazehowl": 4,
+      "w-td02-023": 4
     },
     "Red Blue - Chillet Machine gun BP02": {
       "w-bp02-025": 2,
@@ -579,7 +577,7 @@
     "Green Blue - Chillet Lyleen": "2026-10-23T17:18:10.815Z",
     "Blue Purple - Chillet Quivern Astegon": "2026-10-23T17:18:10.815Z",
     "Green Purple - Lyleen Rushoar": "2026-10-23T17:18:10.815Z",
-    "goon": "2026-10-23T18:01:19.158Z",
+    "goon": "2026-10-23T18:09:52.526Z",
     "Red Blue - Chillet Machine gun BP02": "2026-10-23T15:16:54.365Z",
     "Shadowbeak Shroomer Farming": "2026-10-23T17:18:10.815Z"
   }
