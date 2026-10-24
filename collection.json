@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-24T13:07:30.604Z",
+  "version": "2026-10-24T13:09:21.126Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 182,
@@ -363,15 +363,15 @@
       "pengullet-r"
     ],
     [
-      null,
-      null,
-      "w-bp01-052",
+      "w-bp01-029sr",
+      "w-bp01-029sr",
+      "w-bp01-029",
       "w-bp01-029",
       "relaxaurus",
       "relaxaurus",
       "relaxaurus",
       "relaxaurus",
-      null,
+      "w-bp01-038-pr",
       "w-bp01-038-pr",
       "w-bp01-056sr",
       "w-bp01-004sr"
