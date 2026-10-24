@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-24T12:11:07.854Z",
+  "version": "2026-10-24T12:56:30.650Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 182,
@@ -392,8 +392,8 @@
     ],
     [
       "pyrin",
-      "w-bp01-053",
-      "w-bp01-052",
+      "pyrin",
+      "pyrin",
       "pyrin",
       "w-bp01-076",
       "w-bp01-076",
@@ -405,10 +405,10 @@
       "lyleen"
     ],
     [
-      "pyrin",
+      "w-bp01-052",
       "w-bp01-002",
       "w-bp01-004",
-      "pyrin",
+      "w-bp01-053",
       "w-bp01-003sr",
       "w-bp01-003",
       "w-bp01-055sr",
