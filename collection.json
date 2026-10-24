@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-23T18:10:28.639Z",
+  "version": "2026-10-24T03:30:00.338Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 181,
@@ -247,8 +247,8 @@
       "pyrin": 4,
       "lyleen": 3,
       "elphidran": 4,
-      "w-ss01-002osr": 2,
-      "w-ss01-002": 2,
+      "w-ss01-002osr": 3,
+      "w-ss01-002": 1,
       "w-ss01-005osr": 1,
       "w-ss01-005": 1,
       "elph-aqua": 2,
@@ -575,7 +575,7 @@
   ],
   "savedDecksAt": {
     "Green Blue - Chillet Lyleen": "2026-10-23T17:18:10.815Z",
-    "Blue Purple - Chillet Quivern Astegon": "2026-10-23T17:18:10.815Z",
+    "Blue Purple - Chillet Quivern Astegon": "2026-10-24T03:29:37.479Z",
     "Green Purple - Lyleen Rushoar": "2026-10-23T17:18:10.815Z",
     "goon": "2026-10-23T18:09:52.526Z",
     "Red Blue - Chillet Machine gun BP02": "2026-10-23T15:16:54.365Z",
