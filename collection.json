@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-24T13:22:40.107Z",
+  "version": "2026-10-25T08:50:37.216Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 182,
@@ -331,6 +331,28 @@
       "w-bp01-063": 4,
       "w-bp01-066": 3,
       "w-td02-008": 3
+    },
+    "Nocturnal": {
+      "w-bp01-088sr": 1,
+      "w-bp01-088": 3,
+      "bench": 3,
+      "shoddy-bed": 4,
+      "w-bp01-030": 3,
+      "w-bp01-073": 3,
+      "blazehowl": 3,
+      "w-bp01-038-pr": 3,
+      "pyrin": 4,
+      "w-ss01-005osr": 2,
+      "necklace": 4,
+      "w-bp01-079sr": 1,
+      "depresso": 1,
+      "daedream-first": 3,
+      "daedream": 4,
+      "w-bp01-074osr": 2,
+      "menasting": 1,
+      "elph-aqua": 2,
+      "strike": 2,
+      "medical": 1
     }
   },
   "album": [
@@ -579,6 +601,7 @@
     "Green Purple - Lyleen Rushoar": "2026-10-23T17:18:10.815Z",
     "goon": "2026-10-23T18:09:52.526Z",
     "Red Blue - Chillet Machine gun BP02": "2026-10-23T15:16:54.365Z",
-    "Shadowbeak Shroomer Farming": "2026-10-23T17:18:10.815Z"
+    "Shadowbeak Shroomer Farming": "2026-10-23T17:18:10.815Z",
+    "Nocturnal": "2026-10-25T08:50:37.216Z"
   }
 }
