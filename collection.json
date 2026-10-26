@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-26T12:30:52.833Z",
+  "version": "2026-10-26T23:42:40.853Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 182,
@@ -403,6 +403,46 @@
       "sphere": 2,
       "aurora": 3,
       "w-bp02-022": 2
+    },
+    "緑紫リリクイン軸リアニメイト - suzuki_TCG (BP02)": {
+      "w-bp01-049-osr": 2,
+      "w-bp01-049": 1,
+      "w-bp01-051": 4,
+      "w-bp01-052": 4,
+      "w-bp01-074osr": 2,
+      "lyleen": 2,
+      "menasting": 2,
+      "maraith": 4,
+      "w-bp02-073": 1,
+      "w-td02-004": 4,
+      "leezpunk": 4,
+      "blazehowl": 4,
+      "bench": 4,
+      "w-bp02-089": 1,
+      "w-bp02-091": 2,
+      "w-bp01-070osr": 1,
+      "w-bp01-070": 2,
+      "w-bp01-095osr": 4,
+      "w-bp02-095": 2
+    },
+    "Quickdraw Synchron - Yakumo (BP02)": {
+      "w-bp01-049-osr": 2,
+      "w-bp01-051": 2,
+      "w-bp01-074osr": 2,
+      "w-bp02-055": 2,
+      "w-bp02-077": 4,
+      "w-bp02-080": 4,
+      "w-td01-023": 2,
+      "w-td02-004": 4,
+      "leezpunk": 4,
+      "blazehowl": 4,
+      "w-bp01-064": 1,
+      "w-bp01-066": 3,
+      "bench": 4,
+      "w-bp02-066": 4,
+      "w-td02-008": 3,
+      "w-bp01-095osr": 4,
+      "strike": 1
     }
   },
   "album": [
@@ -654,6 +694,8 @@
     "PR Gear - 2弾ギア仮 (BP02)": "2026-10-26T04:48:09.630Z",
     "New Noct Set 2 (BP02)": "2026-10-26T04:48:09.630Z",
     "RB Control - Bujaoking (BP02)": "2026-10-26T04:49:05.006Z",
-    "RB Orserk - Chilletsz (BP02)": "2026-10-26T12:30:52.833Z"
+    "RB Orserk - Chilletsz (BP02)": "2026-10-26T12:30:52.833Z",
+    "緑紫リリクイン軸リアニメイト - suzuki_TCG (BP02)": "2026-10-26T23:42:40.853Z",
+    "Quickdraw Synchron - Yakumo (BP02)": "2026-10-26T23:42:40.853Z"
   }
 }
