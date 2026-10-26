@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-26T04:48:09.630Z",
+  "version": "2026-10-26T04:49:05.006Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 182,
@@ -437,6 +437,26 @@
       "necklace": 4,
       "w-bp01-095osr": 2,
       "w-bp02-095": 3
+    },
+    "RB Control - Bujaoking (BP02)": {
+      "w-bp01-001osr": 1,
+      "w-bp01-001": 1,
+      "w-bp01-005": 4,
+      "w-bp01-006": 4,
+      "pengullet-sr": 1,
+      "pengullet-r": 3,
+      "w-bp01-038-pr": 3,
+      "cryolinx": 1,
+      "w-bp02-003": 4,
+      "w-bp02-013": 2,
+      "w-td01-004": 4,
+      "w-bp01-019sr": 1,
+      "w-bp01-019": 3,
+      "w-bp02-018": 4,
+      "w-bp02-043": 4,
+      "w-bp01-023": 4,
+      "sphere": 4,
+      "w-bp02-046": 2
     }
   },
   "album": [
@@ -690,6 +710,7 @@
     "GP - Lyleen shroomer control (BP02)": "2026-10-26T01:42:04.738Z",
     "Frost Jet (BP02)": "2026-10-26T04:48:09.630Z",
     "PR Gear - 2弾ギア仮 (BP02)": "2026-10-26T04:48:09.630Z",
-    "New Noct Set 2 (BP02)": "2026-10-26T04:48:09.630Z"
+    "New Noct Set 2 (BP02)": "2026-10-26T04:48:09.630Z",
+    "RB Control - Bujaoking (BP02)": "2026-10-26T04:49:05.006Z"
   }
 }
