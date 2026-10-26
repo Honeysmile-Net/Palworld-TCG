@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-25T08:50:37.216Z",
+  "version": "2026-10-26T01:42:04.738Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 182,
@@ -353,6 +353,24 @@
       "elph-aqua": 2,
       "strike": 2,
       "medical": 1
+    },
+    "GP - Lyleen shroomer control (BP02)": {
+      "w-bp02-050": 4,
+      "w-bp01-074osr": 2,
+      "w-bp01-049-osr": 2,
+      "w-bp01-049": 1,
+      "w-bp02-062": 4,
+      "w-bp02-077": 3,
+      "w-td02-004": 4,
+      "leezpunk": 4,
+      "w-bp02-080": 4,
+      "w-bp02-055": 4,
+      "w-bp01-095osr": 4,
+      "w-bp01-064": 2,
+      "w-bp02-087": 3,
+      "w-bp01-063": 3,
+      "w-bp01-066": 4,
+      "w-td02-008": 2
     }
   },
   "album": [
@@ -602,6 +620,7 @@
     "goon": "2026-10-23T18:09:52.526Z",
     "Red Blue - Chillet Machine gun BP02": "2026-10-23T15:16:54.365Z",
     "Shadowbeak Shroomer Farming": "2026-10-23T17:18:10.815Z",
-    "Nocturnal": "2026-10-25T08:50:37.216Z"
+    "Nocturnal": "2026-10-25T08:50:37.216Z",
+    "GP - Lyleen shroomer control (BP02)": "2026-10-26T01:42:04.738Z"
   }
 }
