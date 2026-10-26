@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-26T01:42:04.738Z",
+  "version": "2026-10-26T04:48:09.630Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 182,
@@ -371,6 +371,72 @@
       "w-bp01-063": 3,
       "w-bp01-066": 4,
       "w-td02-008": 2
+    },
+    "Frost Jet (BP02)": {
+      "relaxaurus": 2,
+      "pengullet-sr": 1,
+      "pengullet-r": 3,
+      "pyrin": 4,
+      "w-bp02-025": 3,
+      "w-bp02-026": 2,
+      "w-bp02-033": 4,
+      "w-bp02-038": 4,
+      "w-bp02-073": 3,
+      "w-bp02-075": 3,
+      "w-bp02-083": 4,
+      "w-bp02-097": 2,
+      "elph-aqua": 2,
+      "w-bp01-044sr": 1,
+      "rocket": 3,
+      "w-bp01-095osr": 4,
+      "w-bp02-100": 2,
+      "strike": 3
+    },
+    "PR Gear - 2弾ギア仮 (BP02)": {
+      "w-bp01-005": 2,
+      "w-bp01-006": 4,
+      "w-bp02-001": 1,
+      "w-bp02-002": 2,
+      "w-bp02-003": 4,
+      "w-bp02-012": 4,
+      "w-bp02-013": 3,
+      "w-bp02-073": 1,
+      "w-bp02-077": 1,
+      "w-td01-004": 4,
+      "w-etd01-024": 1,
+      "w-td01-024": 1,
+      "w-bp01-016": 2,
+      "bench": 1,
+      "w-bp01-092": 1,
+      "w-bp02-015": 2,
+      "w-etd01-006": 4,
+      "w-bp01-019sr": 1,
+      "w-bp01-019": 3,
+      "w-bp02-018": 3,
+      "w-bp02-019": 1,
+      "w-bp02-093": 2,
+      "w-bp01-023": 2
+    },
+    "New Noct Set 2 (BP02)": {
+      "w-bp01-073": 2,
+      "w-bp01-074osr": 2,
+      "pyrin": 4,
+      "daedream-first": 4,
+      "daedream": 4,
+      "maraith": 2,
+      "w-bp02-073": 2,
+      "w-bp02-074": 2,
+      "w-bp02-076": 4,
+      "w-bp02-078": 2,
+      "blazehowl": 4,
+      "w-bp01-088sr": 1,
+      "w-bp01-088": 1,
+      "shoddy-bed": 3,
+      "bench": 2,
+      "w-bp02-088": 2,
+      "necklace": 4,
+      "w-bp01-095osr": 2,
+      "w-bp02-095": 3
     }
   },
   "album": [
@@ -621,6 +687,9 @@
     "Red Blue - Chillet Machine gun BP02": "2026-10-23T15:16:54.365Z",
     "Shadowbeak Shroomer Farming": "2026-10-23T17:18:10.815Z",
     "Nocturnal": "2026-10-25T08:50:37.216Z",
-    "GP - Lyleen shroomer control (BP02)": "2026-10-26T01:42:04.738Z"
+    "GP - Lyleen shroomer control (BP02)": "2026-10-26T01:42:04.738Z",
+    "Frost Jet (BP02)": "2026-10-26T04:48:09.630Z",
+    "PR Gear - 2弾ギア仮 (BP02)": "2026-10-26T04:48:09.630Z",
+    "New Noct Set 2 (BP02)": "2026-10-26T04:48:09.630Z"
   }
 }
