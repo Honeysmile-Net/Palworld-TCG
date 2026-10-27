@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-26T23:42:40.853Z",
+  "version": "2026-10-27T03:38:59.437Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 182,
@@ -443,6 +443,27 @@
       "w-td02-008": 3,
       "w-bp01-095osr": 4,
       "strike": 1
+    },
+    "g/p stand! - SYOxTOS (BP02)": {
+      "w-bp01-049-osr": 2,
+      "w-bp01-049": 1,
+      "w-bp01-060": 2,
+      "w-bp01-074osr": 2,
+      "w-bp02-055": 4,
+      "w-bp02-062": 4,
+      "w-bp02-077": 3,
+      "w-bp02-080": 4,
+      "w-bp02-099": 3,
+      "w-td02-003tsr": 1,
+      "w-td02-003": 1,
+      "w-td02-004": 4,
+      "w-bp01-063": 3,
+      "w-bp01-066": 4,
+      "w-bp02-066": 4,
+      "w-bp01-070osr": 1,
+      "w-bp01-070": 2,
+      "w-bp01-095osr": 3,
+      "strike": 2
     }
   },
   "album": [
@@ -696,6 +717,7 @@
     "RB Control - Bujaoking (BP02)": "2026-10-26T04:49:05.006Z",
     "RB Orserk - Chilletsz (BP02)": "2026-10-26T12:30:52.833Z",
     "緑紫リリクイン軸リアニメイト - suzuki_TCG (BP02)": "2026-10-26T23:42:40.853Z",
-    "Quickdraw Synchron - Yakumo (BP02)": "2026-10-26T23:42:40.853Z"
+    "Quickdraw Synchron - Yakumo (BP02)": "2026-10-26T23:42:40.853Z",
+    "g/p stand! - SYOxTOS (BP02)": "2026-10-27T03:38:59.437Z"
   }
 }
