@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-27T03:38:59.437Z",
+  "version": "2026-10-27T23:49:07.895Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 182,
@@ -464,6 +464,23 @@
       "w-bp01-070": 2,
       "w-bp01-095osr": 3,
       "strike": 2
+    },
+    "Fire - Mako (BP02)": {
+      "w-bp01-005": 4,
+      "w-bp01-006": 4,
+      "pengullet-sr": 1,
+      "pengullet-r": 3,
+      "w-bp02-002": 4,
+      "w-bp02-003": 4,
+      "w-bp02-012": 4,
+      "w-bp02-013": 3,
+      "w-td01-004": 4,
+      "w-bp01-019sr": 1,
+      "w-bp01-019": 3,
+      "w-bp02-018": 4,
+      "w-bp02-043": 4,
+      "w-bp01-023": 3,
+      "sphere": 4
     }
   },
   "album": [
@@ -718,6 +735,7 @@
     "RB Orserk - Chilletsz (BP02)": "2026-10-26T12:30:52.833Z",
     "緑紫リリクイン軸リアニメイト - suzuki_TCG (BP02)": "2026-10-26T23:42:40.853Z",
     "Quickdraw Synchron - Yakumo (BP02)": "2026-10-26T23:42:40.853Z",
-    "g/p stand! - SYOxTOS (BP02)": "2026-10-27T03:38:59.437Z"
+    "g/p stand! - SYOxTOS (BP02)": "2026-10-27T03:38:59.437Z",
+    "Fire - Mako (BP02)": "2026-10-27T23:49:07.895Z"
   }
 }
