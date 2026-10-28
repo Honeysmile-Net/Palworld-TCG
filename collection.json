@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-28T04:20:35.943Z",
+  "version": "2026-10-28T04:26:41.976Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 182,
@@ -493,13 +493,13 @@
       "w-bp02-036": 4,
       "w-bp02-085": 4,
       "elph-aqua": 4,
-      "w-td01-016": 2,
       "astegon": 3,
       "w-bp01-044sr": 1,
       "rocket": 3,
       "aurora": 4,
       "w-bp01-095osr": 4,
-      "strike": 2
+      "strike": 2,
+      "w-bp02-099": 2
     }
   },
   "album": [
@@ -756,6 +756,6 @@
     "Quickdraw Synchron - Yakumo (BP02)": "2026-10-26T23:42:40.853Z",
     "g/p stand! - SYOxTOS (BP02)": "2026-10-27T03:38:59.437Z",
     "Fire - Mako (BP02)": "2026-10-27T23:49:07.895Z",
-    "青紫🐉 - True_end (BP02)": "2026-10-28T04:20:35.943Z"
+    "青紫🐉 - True_end (BP02)": "2026-10-28T04:26:41.976Z"
   }
 }
