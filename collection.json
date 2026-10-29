@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-28T23:21:42.102Z",
+  "version": "2026-10-29T08:13:55.133Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 182,
@@ -518,6 +518,25 @@
       "w-bp02-018": 4,
       "w-td01-010": 3,
       "w-bp01-023": 2
+    },
+    "青緑💐 - True_end (BP02)": {
+      "chillet-rr": 4,
+      "relaxaurus": 2,
+      "pengullet-sr": 1,
+      "pengullet-r": 3,
+      "w-bp01-049-osr": 2,
+      "w-bp01-049": 2,
+      "w-bp01-052": 4,
+      "elphidran": 4,
+      "w-bp02-099": 4,
+      "w-ss01-002osr": 3,
+      "w-ss01-002": 1,
+      "elph-aqua": 4,
+      "flyer": 4,
+      "w-td02-004": 4,
+      "w-bp01-044sr": 1,
+      "rocket": 3,
+      "w-bp02-072": 4
     }
   },
   "album": [
@@ -775,6 +794,7 @@
     "g/p stand! - SYOxTOS (BP02)": "2026-10-27T03:38:59.437Z",
     "Fire - Mako (BP02)": "2026-10-27T23:49:07.895Z",
     "青紫🐉 - True_end (BP02)": "2026-10-28T04:26:41.976Z",
-    "Charcoal set 2 - GodPineappler (BP02)": "2026-10-28T23:21:42.102Z"
+    "Charcoal set 2 - GodPineappler (BP02)": "2026-10-28T23:21:42.102Z",
+    "青緑💐 - True_end (BP02)": "2026-10-29T08:13:55.133Z"
   }
 }
