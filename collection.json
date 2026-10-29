@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-29T14:10:46.667Z",
+  "version": "2026-10-29T14:42:36.268Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 182,
@@ -571,6 +571,24 @@
       "strike": 4,
       "w-ss01-005osr": 2,
       "w-ss01-002osr": 2
+    },
+    "PB Dragon (แข่ง 30 ต.ค.)": {
+      "strike": 4,
+      "w-bp01-095osr": 4,
+      "chillet-rr": 4,
+      "jorm-osr": 2,
+      "w-ss01-005osr": 2,
+      "lyleen": 3,
+      "sphere": 3,
+      "elph-aqua": 2,
+      "w-bp01-038-pr": 2,
+      "pyrin": 4,
+      "w-td01-016": 4,
+      "aurora": 4,
+      "elphidran": 4,
+      "w-ss01-002osr": 3,
+      "w-ss01-002": 1,
+      "relaxaurus": 4
     }
   },
   "album": [
@@ -831,6 +849,7 @@
     "Charcoal set 2 - GodPineappler (BP02)": "2026-10-28T23:21:42.102Z",
     "青緑💐 - True_end (BP02)": "2026-10-29T08:13:55.133Z",
     "PB Dragon - PinoPal (BP01)": "2026-10-29T14:08:13.056Z",
-    "PB Dragon + Sleeve (SS01)": "2026-10-29T14:10:46.667Z"
+    "PB Dragon + Sleeve (SS01)": "2026-10-29T14:10:46.667Z",
+    "PB Dragon (แข่ง 30 ต.ค.)": "2026-10-29T14:42:36.268Z"
   }
 }
