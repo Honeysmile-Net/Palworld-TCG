@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-30T01:31:25.000Z",
+  "version": "2026-10-30T13:24:04.866Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 182,
@@ -285,6 +285,24 @@
       "w-bp01-044sr": 1,
       "rocket": 3,
       "w-bp02-072": 4
+    },
+    "PR Mossanda Lux Shroomer Noct · Furnace Burn Combo": {
+      "w-bp01-012-pr": 1,
+      "w-bp01-012": 2,
+      "w-bp02-006": 4,
+      "w-bp02-012": 4,
+      "w-bp02-077": 4,
+      "w-bp02-085": 2,
+      "w-td01-004": 4,
+      "w-td01-006": 2,
+      "w-td02-023tsr": 1,
+      "w-td02-023": 3,
+      "w-bp01-015": 4,
+      "w-bp01-016": 4,
+      "w-bp02-015": 4,
+      "w-td01-008": 4,
+      "w-bp02-021": 3,
+      "w-bp01-095osr": 4
     }
   },
   "album": [
@@ -531,6 +549,7 @@
     "RB Chillet Jormuntide · Dragon Interrupt Control": "2026-10-30T01:18:44.764Z",
     "RB Faleris Katress · Reptyro Gear Tempo": "2026-10-30T01:21:27.993Z",
     "GP Lyleen Shadowbeak · Night Reanimate Control": "2026-10-30T01:21:27.993Z",
-    "BG Chillet Lyleen · Dragon Pengullet Midrange": "2026-10-30T01:21:27.993Z"
+    "BG Chillet Lyleen · Dragon Pengullet Midrange": "2026-10-30T01:21:27.993Z",
+    "PR Mossanda Lux Shroomer Noct · Furnace Burn Combo": "2026-10-30T13:24:04.866Z"
   }
 }
