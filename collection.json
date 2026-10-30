@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-30T01:15:22.000Z",
+  "version": "2026-10-30T01:18:44.764Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 182,
@@ -205,7 +205,31 @@
   },
   "rarity": {},
   "deck": {},
-  "savedDecks": {},
+  "savedDecks": {
+    "RB Chillet Dragon Ramp · Suzaku/Cryolinx Interrupt Control": {
+      "w-bp01-001osr": 1,
+      "w-bp01-001": 1,
+      "w-bp01-006": 4,
+      "w-epr-003": 1,
+      "chillet-rr": 4,
+      "relaxaurus": 4,
+      "jorm-osr": 2,
+      "w-bp01-038-pr": 3,
+      "cryolinx": 1,
+      "elphidran": 4,
+      "w-bp02-004": 1,
+      "w-bp02-012": 1,
+      "w-bp02-013": 1,
+      "w-bp02-038": 4,
+      "elph-aqua": 4,
+      "w-td01-016": 3,
+      "w-bp01-019sr": 1,
+      "w-bp01-019": 3,
+      "w-bp01-020": 2,
+      "w-td01-010": 4,
+      "aurora": 1
+    }
+  },
   "album": [
     [
       "w-td02-023tsr",
@@ -446,5 +470,7 @@
       null
     ]
   ],
-  "savedDecksAt": {}
+  "savedDecksAt": {
+    "RB Chillet Dragon Ramp · Suzaku/Cryolinx Interrupt Control": "2026-10-30T01:18:44.764Z"
+  }
 }
