@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-30T01:21:27.993Z",
+  "version": "2026-10-30T01:26:06.000Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 182,
@@ -206,7 +206,7 @@
   "rarity": {},
   "deck": {},
   "savedDecks": {
-    "RB Chillet Dragon Ramp · Suzaku/Cryolinx Interrupt Control": {
+    "RB Chillet Jormuntide · Dragon Interrupt": {
       "w-bp01-001osr": 1,
       "w-bp01-001": 1,
       "w-bp01-006": 4,
@@ -229,7 +229,7 @@
       "w-td01-010": 4,
       "aurora": 1
     },
-    "RB Foxparks Faleris · Rocket Launcher/Stun Baton Gear Tempo": {
+    "RB Faleris Katress · Reptyro Gear": {
       "w-bp01-005": 4,
       "w-bp01-006": 4,
       "pengullet-sr": 1,
@@ -246,7 +246,7 @@
       "w-bp01-023": 4,
       "sphere": 4
     },
-    "GP Lyleen Reanimate Control": {
+    "GP Lyleen Shadowbeak · Night Reanimate": {
       "w-bp01-049-osr": 2,
       "w-bp01-049": 1,
       "w-bp01-051": 4,
@@ -267,7 +267,7 @@
       "w-bp01-095osr": 4,
       "w-bp02-095": 2
     },
-    "BG Chillet Pengullet Dragon Control": {
+    "BG Chillet Lyleen · Dragon Pengullet": {
       "chillet-rr": 4,
       "relaxaurus": 2,
       "pengullet-sr": 1,
@@ -528,9 +528,9 @@
     ]
   ],
   "savedDecksAt": {
-    "RB Chillet Dragon Ramp · Suzaku/Cryolinx Interrupt Control": "2026-10-30T01:18:44.764Z",
-    "RB Foxparks Faleris · Rocket Launcher/Stun Baton Gear Tempo": "2026-10-30T01:21:27.993Z",
-    "GP Lyleen Reanimate Control": "2026-10-30T01:21:27.993Z",
-    "BG Chillet Pengullet Dragon Control": "2026-10-30T01:21:27.993Z"
+    "RB Chillet Jormuntide · Dragon Interrupt": "2026-10-30T01:18:44.764Z",
+    "RB Faleris Katress · Reptyro Gear": "2026-10-30T01:21:27.993Z",
+    "GP Lyleen Shadowbeak · Night Reanimate": "2026-10-30T01:21:27.993Z",
+    "BG Chillet Lyleen · Dragon Pengullet": "2026-10-30T01:21:27.993Z"
   }
 }
