@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-31T04:53:44.000Z",
+  "version": "2026-10-31T12:39:20.000Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 292,
@@ -704,6 +704,20 @@
       "w-ss01-004osr",
       "w-ss01-002osr",
       "w-bp01-076",
+      "w-bp01-032-pr"
+    ],
+    [
+      "w-epr-006",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
       null
     ]
   ],
