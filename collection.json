@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-31T04:06:20.000Z",
+  "version": "2026-10-31T04:08:52.000Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 285,
@@ -701,5 +701,9 @@
   ],
   "priceMult": {
     "Shroomer Noct – Spores of the Void": 2
+  },
+  "customPrice": {
+    "BP02:C": 30,
+    "BP02:U": 50
   }
 }
