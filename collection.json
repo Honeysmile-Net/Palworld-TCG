@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-30T18:49:27.909Z",
+  "version": "2026-10-31T00:23:07.411Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 182,
@@ -231,20 +231,19 @@
     },
     "RB Faleris Katress · Reptyro Gear Tempo": {
       "w-bp01-005": 4,
-      "w-bp01-006": 4,
-      "pengullet-sr": 1,
-      "pengullet-r": 3,
       "w-bp02-002": 4,
       "w-bp02-003": 4,
+      "w-bp02-009": 2,
       "w-bp02-012": 4,
-      "w-bp02-013": 2,
       "w-td01-004": 4,
-      "w-bp01-019sr": 1,
-      "w-bp01-019": 3,
+      "w-bp01-021": 2,
       "w-bp02-018": 4,
+      "w-bp02-019": 4,
       "w-bp02-043": 4,
       "w-bp01-023": 4,
-      "sphere": 4
+      "sphere": 4,
+      "w-bp02-023": 4,
+      "w-bp02-024": 2
     },
     "GP Lyleen Shadowbeak · Night Reanimate Control": {
       "w-bp01-049-osr": 2,
@@ -566,7 +565,7 @@
   ],
   "savedDecksAt": {
     "RB Chillet Jormuntide · Dragon Interrupt Control": "2026-10-30T01:18:44.764Z",
-    "RB Faleris Katress · Reptyro Gear Tempo": "2026-10-30T01:21:27.993Z",
+    "RB Faleris Katress · Reptyro Gear Tempo": "2026-10-31T00:23:07.411Z",
     "GP Lyleen Shadowbeak · Night Reanimate Control": "2026-10-30T01:21:27.993Z",
     "BG Chillet Lyleen · Dragon Pengullet Midrange": "2026-10-30T01:21:27.993Z",
     "PR Mossanda Lux Shroomer Noct · Furnace Burn Combo": "2026-10-30T13:24:04.866Z",
