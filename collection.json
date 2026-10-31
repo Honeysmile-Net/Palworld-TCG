@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-31T02:23:30.000Z",
+  "version": "2026-10-31T02:45:37.000Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 270,
@@ -677,5 +677,14 @@
     "PR Mossanda Lux Shroomer Noct · Furnace Burn Combo": "2026-10-30T13:24:04.866Z",
     "PR Mossanda Lux Shroomer Noct · Orserk Rocket Midrange": "2026-10-30T18:49:27.909Z",
     "RP Shroomer Noct Faleris · Furnace Gear Midrange": "2026-10-31T01:22:33.815Z"
+  },
+  "notForSale": [
+    "w-bp01-074osr"
+  ],
+  "negotiable": [
+    "w-bp02-001ssp"
+  ],
+  "priceMult": {
+    "Shroomer Noct – Spores of the Void": 2
   }
 }
