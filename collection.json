@@ -1,9 +1,9 @@
 {
-  "version": "2026-10-31T01:51:51.000Z",
+  "version": "2026-10-31T01:52:35.000Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
-    "cards": 222,
-    "total": 1101,
+    "cards": 224,
+    "total": 1116,
     "deck": 0
   },
   "counts": {
@@ -241,7 +241,9 @@
     "w-bp02-076sr": 3,
     "w-bp02-087": 14,
     "w-bp02-087sr": 3,
-    "w-bp02-077": 10
+    "w-bp02-077": 10,
+    "w-bp02-078": 13,
+    "w-bp02-078sr": 2
   },
   "rarity": {},
   "deck": {},
