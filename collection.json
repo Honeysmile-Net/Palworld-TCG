@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-31T00:23:07.411Z",
+  "version": "2026-10-31T01:22:33.815Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 182,
@@ -321,6 +321,24 @@
       "w-td01-008": 4,
       "w-bp02-018": 4,
       "w-bp01-095osr": 4
+    },
+    "RP Shroomer Noct Faleris · Furnace Gear Midrange": {
+      "w-bp02-007": 4,
+      "w-bp01-012-pr": 1,
+      "w-bp01-012": 3,
+      "w-bp02-012": 4,
+      "w-bp02-008": 4,
+      "w-td01-004": 4,
+      "w-bp02-005": 4,
+      "w-bp02-077": 4,
+      "w-bp01-010": 2,
+      "w-bp02-003": 2,
+      "w-td01-008": 4,
+      "w-bp02-015": 2,
+      "w-bp01-016": 3,
+      "w-bp01-015": 3,
+      "w-bp01-020": 3,
+      "w-bp02-018": 3
     }
   },
   "album": [
@@ -569,6 +587,7 @@
     "GP Lyleen Shadowbeak · Night Reanimate Control": "2026-10-30T01:21:27.993Z",
     "BG Chillet Lyleen · Dragon Pengullet Midrange": "2026-10-30T01:21:27.993Z",
     "PR Mossanda Lux Shroomer Noct · Furnace Burn Combo": "2026-10-30T13:24:04.866Z",
-    "PR Mossanda Lux Shroomer Noct · Orserk Rocket Midrange": "2026-10-30T18:49:27.909Z"
+    "PR Mossanda Lux Shroomer Noct · Orserk Rocket Midrange": "2026-10-30T18:49:27.909Z",
+    "RP Shroomer Noct Faleris · Furnace Gear Midrange": "2026-10-31T01:22:33.815Z"
   }
 }
