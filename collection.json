@@ -533,24 +533,22 @@
       "bench": 2
     },
     "BP Broncherry Aqua Reptyro Cryst · Structure Wall Control": {
-      "w-bp01-030": 2,
-      "w-bp02-031": 2,
+      "w-bp01-030": 4,
+      "w-bp02-031": 3,
       "w-bp02-036": 4,
-      "w-bp02-073osr": 2,
+      "w-bp02-073osr": 1,
       "w-bp02-085": 4,
       "w-bp02-099": 4,
-      "w-td01-018": 2,
-      "w-bp01-039": 4,
       "w-bp01-042": 4,
       "bench": 2,
       "w-bp01-091": 4,
-      "w-bp02-039sr": 2,
-      "w-bp02-039": 2,
-      "w-bp02-041": 2,
-      "w-bp02-089": 2,
+      "w-bp02-041": 3,
       "w-bp01-046": 4,
       "w-bp02-077sr": 2,
-      "w-bp02-077": 2
+      "w-bp02-077": 2,
+      "w-td01-020": 3,
+      "w-bp01-040": 2,
+      "pengullet-sr": 4
     }
   },
   "album": [
@@ -844,7 +842,7 @@
     "PR Mossanda Lux Shroomer Noct · Orserk Rocket Midrange": "2026-10-31T04:53:44.000Z",
     "RP Shroomer Noct Faleris · Furnace Gear Midrange": "2026-10-31T04:53:44.000Z",
     "PR Mossanda Lux Shroomer Noct · Orserk Workbench Midrange": "2026-11-01T04:59:45.000Z",
-    "BP Broncherry Aqua Reptyro Cryst · Structure Wall Control": "2026-11-01T14:29:07.000Z"
+    "BP Broncherry Aqua Reptyro Cryst · Structure Wall Control": "2026-11-01T14:33:44.556Z"
   },
   "notForSale": [
     "w-bp01-074osr"
