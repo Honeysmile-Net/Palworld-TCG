@@ -554,7 +554,6 @@
     "PR Orserk Frostallion Noct · Leezpunk Machine Gun Midrange": {
       "w-bp01-012-pr": 1,
       "w-bp01-012": 1,
-      "w-bp01-014": 1,
       "w-bp02-001osr": 3,
       "w-bp02-001": 1,
       "w-bp02-006sr": 1,
@@ -573,7 +572,8 @@
       "w-bp01-016": 4,
       "w-bp02-015": 2,
       "w-etd01-006": 4,
-      "w-bp01-095osr": 4
+      "w-bp01-095osr": 4,
+      "w-bp02-085": 1
     }
   },
   "album": [
@@ -868,7 +868,7 @@
     "RP Shroomer Noct Faleris · Furnace Gear Midrange": "2026-10-31T04:53:44.000Z",
     "PR Mossanda Lux Shroomer Noct · Orserk Workbench Midrange": "2026-11-01T04:59:45.000Z",
     "BP Broncherry Aqua Reptyro Cryst · Fountain Wall Control": "2026-11-01T16:51:49.000Z",
-    "PR Orserk Frostallion Noct · Leezpunk Machine Gun Midrange": "2026-11-02T00:33:06.174Z"
+    "PR Orserk Frostallion Noct · Leezpunk Machine Gun Midrange": "2026-11-02T00:35:21.294Z"
   },
   "notForSale": [
     "w-bp01-074osr"
