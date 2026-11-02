@@ -35,6 +35,10 @@ window.PAL_EVENTS = {
     { time:'1:00 PM GMT+7 (Check-in 12:00 PM–1:00 PM)', title:'[EN] Palworld OFFICIAL CARD GAME - Legends Awaken Release Tournament · Sanctioned / Standard · Event Code: NQTLN · first-come · รับ 100 คน · แผน: แข่งรอบ 1 แล้ว drop → ไป Haven (เช็คอินปิด 3:00 PM)', place:'GUNPLA Village', addr:'921 Maha Chai Rd, Wang Burapha Phirom, Phra Nakhon Thailand · TEL (66)655915442' },
     { time:'3:00 PM GMT+7 (Check-in 2:00 PM–3:00 PM)', title:'[EN][Weekly] Palworld OFFICIAL CARD GAME - November 2026 Shop Tournament · Sanctioned / Standard · Event Code: GWQKH · first-come · รับ 16 คน', place:'Haven TCG', addr:'23 12 ชั้น2 ซอยประดิพัทธ์ 6 Phaya Thai, Bangkok 10400, Thailand · TEL (66)925425469' },
   ],
+  '2026-11-15': [
+    { time:'12:00 PM GMT+7 (Check-in 10:00–11:30 AM)', title:'[EN] Palworld OFFICIAL CARD GAME Masters League · Official / Standard · Event Code: ZYMJA · first-come · รับ 120 คน · Swiss BO1 30 นาที · ผู้ชนะอันดับต้นได้สิทธิ์ World Finals', place:'Bushiroad International', addr:'Imperial World Samrong, 999 Sukhumvit Rd, Samrong Nuea, Mueang Samut Prakan District, Samut Prakan 10270 Thailand' },
+    { time:'3:00 PM GMT+7 (Check-in 2:00–3:00 PM)', title:'[EN] Palworld Masters League 26/27 Side Event - Release Tournament · Official / Standard · Event Code: YHLMQ · first-come · รับ 32 คน · ลงได้ถ้า drop จาก Masters League ก่อน 3:00 PM', place:'Bushiroad International', addr:'Imperial World Samrong, 999 Sukhumvit Rd, Samrong Nuea, Mueang Samut Prakan District, Samut Prakan 10270 Thailand' },
+  ],
   '2026-11-21': [
     { time:'2:30 PM GMT+7 (Check-in 1:30 PM–2:30 PM)', title:'[EN] Palworld OFFICIAL CARD GAME - Legends Awaken Release Tournament · Sanctioned / Standard · Event Code: GPSCQ · first-come · รับ 24 คน', place:'GL Card game shop', addr:'Satorn11 yeak5 Yannawa-sathorn 135/1-2 Ariya sathorn 2nd floor Bangkok 10120 Thailand · TEL (66)0918044990' },
   ],
