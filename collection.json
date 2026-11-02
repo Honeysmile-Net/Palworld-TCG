@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-02T03:20:13.234Z",
+  "version": "2026-11-02T17:58:40.499Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 336,
@@ -596,6 +596,26 @@
       "w-bp02-041": 2,
       "w-bp01-046": 3,
       "medical": 2
+    },
+    "RB Faleris Quivern · Foxparks Gear Midrange": {
+      "w-bp02-003osr": 2,
+      "w-bp02-003": 2,
+      "w-bp01-005": 4,
+      "w-ss01-005osr": 3,
+      "w-ss01-005": 1,
+      "w-bp02-099": 3,
+      "w-td01-016": 4,
+      "w-td01-004": 4,
+      "w-bp01-006": 4,
+      "w-bp02-018sr": 3,
+      "w-bp02-018": 1,
+      "w-bp02-043sr": 1,
+      "w-bp02-043": 3,
+      "w-bp02-019": 3,
+      "w-bp01-019sr": 1,
+      "w-bp01-019": 3,
+      "w-bp01-023": 4,
+      "sphere": 4
     }
   },
   "album": [
@@ -891,7 +911,8 @@
     "PR Mossanda Lux Shroomer Noct · Orserk Workbench Midrange": "2026-11-01T04:59:45.000Z",
     "BP Broncherry Aqua Reptyro Cryst · Fountain Wall Control": "2026-11-01T16:51:49.000Z",
     "PR Orserk Frostallion Noct · Leezpunk Machine Gun Midrange": "2026-11-02T00:35:21.294Z",
-    "BP Broncherry Aqua Menasting Frostallion Noct · Antique Structure Control": "2026-11-02T03:20:13.234Z"
+    "BP Broncherry Aqua Menasting Frostallion Noct · Antique Structure Control": "2026-11-02T03:20:13.234Z",
+    "RB Faleris Quivern · Foxparks Gear Midrange": "2026-11-02T17:58:40.499Z"
   },
   "notForSale": [
     "w-bp01-074osr"
