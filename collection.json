@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-01T14:27:10.126Z",
+  "version": "2026-11-02T03:20:13.234Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 336,
@@ -574,6 +574,28 @@
       "w-etd01-006": 4,
       "w-bp01-095osr": 4,
       "w-bp02-085": 1
+    },
+    "BP Broncherry Aqua Menasting Frostallion Noct · Antique Structure Control": {
+      "w-bp02-031": 3,
+      "w-bp01-074osr": 2,
+      "menasting": 2,
+      "w-bp02-073osr": 1,
+      "w-bp01-030": 3,
+      "pyrin": 4,
+      "w-bp01-038-pr": 3,
+      "cryolinx": 1,
+      "w-td01-016": 2,
+      "leezpunk": 4,
+      "w-bp01-042": 4,
+      "w-bp01-091": 3,
+      "bench": 2,
+      "w-bp02-039sr": 2,
+      "w-bp02-039": 1,
+      "w-bp01-039": 3,
+      "w-bp02-089": 3,
+      "w-bp02-041": 2,
+      "w-bp01-046": 3,
+      "medical": 2
     }
   },
   "album": [
@@ -868,7 +890,8 @@
     "RP Shroomer Noct Faleris · Furnace Gear Midrange": "2026-10-31T04:53:44.000Z",
     "PR Mossanda Lux Shroomer Noct · Orserk Workbench Midrange": "2026-11-01T04:59:45.000Z",
     "BP Broncherry Aqua Reptyro Cryst · Fountain Wall Control": "2026-11-01T16:51:49.000Z",
-    "PR Orserk Frostallion Noct · Leezpunk Machine Gun Midrange": "2026-11-02T00:35:21.294Z"
+    "PR Orserk Frostallion Noct · Leezpunk Machine Gun Midrange": "2026-11-02T00:35:21.294Z",
+    "BP Broncherry Aqua Menasting Frostallion Noct · Antique Structure Control": "2026-11-02T03:20:13.234Z"
   },
   "notForSale": [
     "w-bp01-074osr"
