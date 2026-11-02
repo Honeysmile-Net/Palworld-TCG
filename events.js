@@ -24,4 +24,22 @@ window.PAL_EVENTS = {
   '2026-11-1': [
     { time:'2:30 PM GMT+7 (Check-in 2:00–2:30 PM)', title:'[EN] Palworld OFFICIAL CARD GAME - Legends Awaken Release Tournament · Sanctioned / Standard · Event Code: WFAEK · Selected (ได้สิทธิ์แล้ว) · รับ 64 คน', place:'RFT Rare Finds Trading', addr:'Room B309, Village Hub LaSalle, 565 Bearing-LaSalle Road, Bang Na Tai, Bang Na, Bangkok 10260 Thailand · TEL (66)816242361' },
   ],
+  '2026-11-7': [
+    { time:'1:00 PM GMT+7 (Check-in 12:00 PM–1:00 PM)', title:'[EN] Palworld OFFICIAL CARD GAME - Legends Awaken Release Tournament · Sanctioned / Standard · Event Code: FTLSU · first-come · รับ 100 คน · แผน: แข่งรอบ 1 แล้ว drop → ไป Haven (เช็คอินปิด 3:00 PM)', place:'Halouis Home', addr:'921 Always One Plaza 4 Floor Phra Nakhon Bangkok Thailand · TEL (66)879939936' },
+    { time:'3:00 PM GMT+7 (Check-in 2:00 PM–3:00 PM)', title:'[EN] Palworld OFFICIAL CARD GAME - Legends Awaken Release Tournament · Sanctioned / Standard · Event Code: CZYET · first-come · รับ 16 คน', place:'Haven TCG', addr:'23 12 ชั้น2 ซอยประดิพัทธ์ 6 Phaya Thai, Bangkok 10400, Thailand · TEL (66)925425469' },
+  ],
+  '2026-11-8': [
+    { time:'1:00 PM GMT+7 (Check-in 12:00 PM–1:00 PM)', title:'[EN] Palworld OFFICIAL CARD GAME - Legends Awaken Release Tournament · Sanctioned / Standard · Event Code: RKGDL · first-come · รับ 100 คน', place:'Card Harbor', addr:'921 Always One Plaza 4 Floor Phra Nakhon Bangkok Thailand · TEL (66)818544483' },
+  ],
+  '2026-11-14': [
+    { time:'1:00 PM GMT+7 (Check-in 12:00 PM–1:00 PM)', title:'[EN] Palworld OFFICIAL CARD GAME - Legends Awaken Release Tournament · Sanctioned / Standard · Event Code: NQTLN · first-come · รับ 100 คน · แผน: แข่งรอบ 1 แล้ว drop → ไป Haven (เช็คอินปิด 3:00 PM)', place:'GUNPLA Village', addr:'921 Maha Chai Rd, Wang Burapha Phirom, Phra Nakhon Thailand · TEL (66)655915442' },
+    { time:'3:00 PM GMT+7 (Check-in 2:00 PM–3:00 PM)', title:'[EN][Weekly] Palworld OFFICIAL CARD GAME - November 2026 Shop Tournament · Sanctioned / Standard · Event Code: GWQKH · first-come · รับ 16 คน', place:'Haven TCG', addr:'23 12 ชั้น2 ซอยประดิพัทธ์ 6 Phaya Thai, Bangkok 10400, Thailand · TEL (66)925425469' },
+  ],
+  '2026-11-21': [
+    { time:'2:30 PM GMT+7 (Check-in 1:30 PM–2:30 PM)', title:'[EN] Palworld OFFICIAL CARD GAME - Legends Awaken Release Tournament · Sanctioned / Standard · Event Code: GPSCQ · first-come · รับ 24 คน', place:'GL Card game shop', addr:'Satorn11 yeak5 Yannawa-sathorn 135/1-2 Ariya sathorn 2nd floor Bangkok 10120 Thailand · TEL (66)0918044990' },
+  ],
+  '2026-11-28': [
+    { time:'1:00 PM GMT+7 (Check-in 12:00 PM–1:00 PM)', title:'[EN] Palworld OFFICIAL CARD GAME - Legends Awaken Release Tournament · Sanctioned / Standard · Event Code: WSMQR · first-come · รับ 64 คน · แจ้งผู้จัดว่าจะลง Weekly 3:00 PM ต่อ', place:'GH_Cardgames', addr:'921 Always One Plaza, Maha Chai Rd, Wang Burapha Phirom, Phra Nakhon, Bangkok Thailand · TEL (66)827830670' },
+    { time:'3:00 PM GMT+7 (Check-in 2:00 PM–3:00 PM)', title:'[EN][Weekly] Palworld OFFICIAL CARD GAME - November 2026 Shop Tournament · Sanctioned / Standard · Event Code: VBFPV · first-come · รับ 16 คน', place:'GH_Cardgames', addr:'921 Always One Plaza, Maha Chai Rd, Wang Burapha Phirom, Phra Nakhon, Bangkok Thailand · TEL (66)827830670' },
+  ],
 };
