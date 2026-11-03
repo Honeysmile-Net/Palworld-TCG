@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-03T15:15:43.000Z",
+  "version": "2026-11-03T15:21:49.000Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 336,
@@ -912,7 +912,8 @@
     "RB Faleris Quivern · Foxparks Gear Midrange": "2026-11-02T17:59:45.000Z"
   },
   "notForSale": [
-    "w-bp01-074osr"
+    "w-bp01-074osr",
+    "w-bp02-003osr"
   ],
   "negotiable": [
     "w-bp02-001ssp"
