@@ -28,6 +28,21 @@ labels = [int(re.match(r'(\d+)', r[0]).group(1)) for r in mx[1:] if re.match(r'(
 cells = [[(int(c.rstrip('%')) if re.match(r'^\d+%$', c) else None) for c in r[1:]] for r in mx[1:]]
 ptg = {'updated': d['updated'], 'games': sum(a['games'] for a in archs), 'archs': archs, 'matrix': {'ranks': labels, 'cells': cells}}
 s = open(mjs, encoding='utf-8').read()
+# เก็บรอบก่อนไว้เทียบ (เมื่อ palworldtcg.gg อัปเดตวันใหม่)
+def akey(colors):
+    cs = sorted(colors.split(' / ')); return 'Mono-' + cs[0] if len(cs) == 1 else '/'.join(cs)
+def arch_sum(archs):
+    out = {}
+    for a in archs:
+        w = round(a['games'] * a['wr'] / 100); x = out.setdefault(akey(a['colors']), [0, 0, 0]); x[0] += 1; x[1] += w; x[2] += a['games'] - w
+    return out
+m = re.search(r'\nwindow\.PAL_META\.ptg = (.*);\n', s)
+if m:
+    old_ptg = json.loads(m.group(1))
+    if old_ptg.get('updated') != ptg['updated']:
+        ptg['prev'] = {'updated': old_ptg.get('updated'), 'arch': arch_sum(old_ptg.get('archs', []))}
+    elif old_ptg.get('prev'):
+        ptg['prev'] = old_ptg['prev']
 s = re.sub(r'\nwindow\.PAL_META\.ptg = .*;\n', '\n', s)
 s += 'window.PAL_META.ptg = ' + json.dumps(ptg, ensure_ascii=False, separators=(',', ':')) + ';\n'
 open(mjs, 'w', encoding='utf-8').write(s)
