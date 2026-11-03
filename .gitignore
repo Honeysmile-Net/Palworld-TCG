@@ -1,0 +1,5 @@
+tools/stats/decks_new.json
+tools/stats/ids_fetch.txt
+tools/stats/ids_dated_new.json
+tools/stats/ptg_meta_new.json
+tools/stats/*.log
