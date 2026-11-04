@@ -3,3 +3,6 @@ tools/stats/ids_fetch.txt
 tools/stats/ids_dated_new.json
 tools/stats/ptg_meta_new.json
 tools/stats/*.log
+tools/prices/all_tcg_new.json
+tools/prices/all_tcg_prev.json
+tools/prices/*.log
