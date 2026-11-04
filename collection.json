@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-03T17:12:28.000Z",
+  "version": "2026-11-04T06:28:59.000Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 336,
@@ -955,16 +955,14 @@
   ],
   "reserved": {
     "w-bp02-003": {
-      "n": 2,
-      "note": "แลก Faleris OSR"
-    },
-    "w-bp02-043": {
-      "n": 2,
-      "note": "แลก Stun Baton SR (คู่กับ Rocket Launcher 1)"
-    },
-    "w-bp02-018": {
       "n": 1,
-      "note": "แลก Stun Baton SR (คู่กับ Stun Baton 2)"
+      "note": "แลก Mossanda Lux SR (คู่กับ Shroomer Noct R)",
+      "at": "2026-11-04"
+    },
+    "w-bp02-077": {
+      "n": 1,
+      "note": "แลก Mossanda Lux SR (คู่กับ Faleris RR)",
+      "at": "2026-11-04"
     }
   },
   "negotiable": [
