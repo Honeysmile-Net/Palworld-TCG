@@ -27,6 +27,7 @@ window.PAL_EVENTS = {
   '2026-11-7': [
     { time:'1:00 PM GMT+7 (Check-in 12:00 PM–1:00 PM)', title:'[EN] Palworld OFFICIAL CARD GAME - Legends Awaken Release Tournament · Sanctioned / Standard · Event Code: FTLSU · ลงทะเบียนแล้ว 3 พ.ย. (My Events) · first-come · รับ 100 คน · แผน: แข่งรอบ 1 แล้ว drop → ไป Haven (เช็คอินปิด 3:00 PM)', place:'Halouis Home', addr:'921 Always One Plaza 4 Floor Phra Nakhon Bangkok Thailand · TEL (66)879939936' },
     { time:'3:00 PM GMT+7 (Check-in 2:00 PM–3:00 PM)', title:'[EN] Palworld OFFICIAL CARD GAME - Legends Awaken Release Tournament · Sanctioned / Standard · Event Code: CZYET · ลงทะเบียนแล้ว 3 พ.ย. (My Events) · first-come · รับ 16 คน', place:'Haven TCG', addr:'23 12 ชั้น2 ซอยประดิพัทธ์ 6 Phaya Thai, Bangkok 10400, Thailand · TEL (66)925425469' },
+    { time:'6:00 PM GMT+7 (Check-in 5:00 PM–6:00 PM)', title:'[EN][Weekly] Palworld OFFICIAL CARD GAME - November 2026 Shop Tournament · Sanctioned / Standard · Event Code: DUPAH · จะไปแข่ง (แจ้ง 4 พ.ย.) · first-come · รับ 16 คน (สมัคร 9/16 ณ 4 พ.ย.) · 30 นาที Bo1 Swiss', place:'Haven TCG', addr:'23 12 ชั้น2 ซอยประดิพัทธ์ 6 Phaya Thai, Bangkok 10400, Thailand · TEL (66)925425469' },
   ],
   '2026-11-8': [
     { time:'1:00 PM GMT+7 (Check-in 12:00 PM–1:00 PM)', title:'[EN] Palworld OFFICIAL CARD GAME - Legends Awaken Release Tournament · Sanctioned / Standard · Event Code: RKGDL · ลงทะเบียนแล้ว 3 พ.ย. (My Events) · first-come · รับ 100 คน', place:'Card Harbor', addr:'921 Always One Plaza 4 Floor Phra Nakhon Bangkok Thailand · TEL (66)818544483' },
