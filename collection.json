@@ -955,14 +955,20 @@
   ],
   "reserved": {
     "w-bp02-003": {
+      "n": 3,
+      "note": "แลก Faleris OSR ×2 · แลก Mossanda Lux SR ×1 (คู่กับ Shroomer Noct R)"
+    },
+    "w-bp02-043": {
+      "n": 2,
+      "note": "แลก Stun Baton SR (คู่กับ Rocket Launcher 1)"
+    },
+    "w-bp02-018": {
       "n": 1,
-      "note": "แลก Mossanda Lux SR (คู่กับ Shroomer Noct R)",
-      "at": "2026-11-04"
+      "note": "แลก Stun Baton SR (คู่กับ Stun Baton 2)"
     },
     "w-bp02-077": {
       "n": 1,
-      "note": "แลก Mossanda Lux SR (คู่กับ Faleris RR)",
-      "at": "2026-11-04"
+      "note": "แลก Mossanda Lux SR (คู่กับ Faleris RR)"
     }
   },
   "negotiable": [
