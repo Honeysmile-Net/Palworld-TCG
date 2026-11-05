@@ -18,9 +18,10 @@ def local_img(url, w):
     if not os.path.exists(path):
         try:
             from PIL import Image
-            im = Image.open(io.BytesIO(fetch(url))).convert('RGB'); im.thumbnail((w, w * 2)); im.save(path, 'WEBP', quality=82)
+            im = Image.open(io.BytesIO(fetch(url))).convert('RGB'); im.thumbnail((w, w * 2)); im.save(path, 'WEBP', quality=72)
         except Exception as e: print('img fail', url[:80], e); return ''
-    return 'news/img/' + name
+    import base64
+    return 'data:image/webp;base64,' + base64.b64encode(open(path, 'rb').read()).decode()   # inline: artifact has a file-count limit
 def mark(key):
     if key not in seen: seen[key] = stamp
     return (not first_run) and seen[key] >= (now - datetime.timedelta(days=3)).strftime('%Y-%m-%d %H:%M')
@@ -37,7 +38,7 @@ for c in raw.get('upcoming', []):
     uids.add(c['code']); up.append({'code': c['code'], 'name': c['name'], 'set': c.get('set', ''), 'setName': c.get('setName', '').title(), 'url': c['url'], 'img': local_img(c.get('img'), 360), 'isNew': mark('card:' + c['code'])})
 rv = [{'code': c['code'], 'name': c['name'], 'url': c['url']} for c in raw.get('reveals', [])][:40]
 items.sort(key=lambda x: x.get('date') or '', reverse=True)
-N = {'updated': stamp, 'upSets': raw.get('upSets', []), 'items': items[:80], 'upcoming': up, 'reveals': rv, 'revealHead': raw.get('revealHead', ''), 'sets': raw.get('sets', []), 'x': {'handle': 'PalworldOCG_EN'}}
+N = {'updated': stamp, 'upSets': raw.get('upSets', []), 'items': items[:60], 'upcoming': up, 'reveals': rv, 'revealHead': raw.get('revealHead', ''), 'sets': raw.get('sets', []), 'x': {'handle': 'PalworldOCG_EN'}}
 open(R + '/news.js', 'w', encoding='utf-8').write('// Palworld OCG news — built by tools/news (official site, palworldtcg.gg spoilers, palify sets, web search for X posts and leaks)\nwindow.PAL_NEWS = ' + json.dumps(N, ensure_ascii=False, indent=0) + ';\n')
 json.dump(seen, open(H + '/seen.json', 'w'), ensure_ascii=False, indent=0)
 print('news.js', len(items), 'items', len(up), 'upcoming', len(rv), 'reveals')
