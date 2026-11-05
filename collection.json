@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-04T14:31:06.000Z",
+  "version": "2026-11-05T01:38:11.000Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 336,
@@ -672,6 +672,28 @@
       "w-bp02-018": 1,
       "w-bp02-043sr": 1,
       "w-bp02-043": 3
+    },
+    "BP Broncherry Aqua Frostallion Noct · Antique Wall Control": {
+      "pengullet-sr": 1,
+      "pengullet-r": 3,
+      "w-bp01-030": 4,
+      "w-bp01-038-pr": 3,
+      "cryolinx": 1,
+      "lyleen": 2,
+      "w-bp02-031": 4,
+      "w-bp02-036": 4,
+      "w-bp02-073osr": 2,
+      "w-td01-016": 2,
+      "w-bp01-039": 2,
+      "w-bp01-042": 4,
+      "w-bp01-091": 4,
+      "w-bp02-039sr": 2,
+      "w-bp02-039": 1,
+      "w-bp02-040": 3,
+      "w-bp01-046": 3,
+      "sphere": 3,
+      "w-bp02-046osr": 1,
+      "w-bp02-046": 1
     }
   },
   "album": [
@@ -971,7 +993,8 @@
     "RB Faleris Quivern · Foxparks Gear Midrange": "2026-11-02T17:59:45.000Z",
     "Test RP2": "2026-11-03T17:11:50.000Z",
     "RP ver2": "2026-11-03T17:12:28.000Z",
-    "RB Faleris Sweepa · Swee Rocket Gear Midrange": "2026-11-04T14:31:06.000Z"
+    "RB Faleris Sweepa · Swee Rocket Gear Midrange": "2026-11-04T14:31:06.000Z",
+    "BP Broncherry Aqua Frostallion Noct · Antique Wall Control": "2026-11-05T01:38:11.000Z"
   },
   "notForSale": [
     "w-bp01-074osr",
