@@ -6,3 +6,5 @@ tools/stats/*.log
 tools/prices/all_tcg_new.json
 tools/prices/all_tcg_prev.json
 tools/prices/*.log
+tools/news/fetch.log
+tools/news/news_raw.json
