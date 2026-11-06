@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-06T17:35:58.000Z",
+  "version": "2026-11-06T17:45:59.276Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 338,
@@ -407,8 +407,8 @@
       "w-bp02-021": 2,
       "w-bp02-007sr": 2,
       "w-bp01-012-pr": 1,
-      "w-bp01-012": 2,
-      "w-bp02-008sr": 3,
+      "w-bp01-012": 3,
+      "w-bp02-008sr": 2,
       "w-bp02-085": 1
     }
   },
@@ -696,7 +696,7 @@
   ],
   "savedDecksAt": {
     "RP Mossanda Lux Shroomer Noct Frostallion Noct · Machine Gun Furnace Burn": "2026-11-06T16:37:08.000Z",
-    "RP Mossanda Lux Shroomer Noct Frostallion Noct · Rocket Launcher Furnace Burn": "2026-11-06T17:35:58.000Z"
+    "RP Mossanda Lux Shroomer Noct Frostallion Noct · Rocket Launcher Furnace Burn": "2026-11-06T17:45:59.276Z"
   },
   "notForSale": [
     "w-bp01-074osr",
