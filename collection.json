@@ -1,9 +1,9 @@
 {
-  "version": "2026-11-06T15:15:21.000Z",
+  "version": "2026-11-06T16:37:08.000Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 338,
-    "total": 2951,
+    "total": 2948,
     "deck": 0
   },
   "counts": {
@@ -226,8 +226,8 @@
     "w-bp02-005sr": 1,
     "w-bp02-006": 14,
     "w-bp02-001": 4,
-    "w-bp02-003": 7,
-    "w-bp02-018": 14,
+    "w-bp02-003": 4,
+    "w-bp02-018": 13,
     "w-bp02-004": 14,
     "w-bp02-004sr": 3,
     "w-bp02-002": 3,
@@ -241,7 +241,7 @@
     "w-bp02-076sr": 3,
     "w-bp02-087": 14,
     "w-bp02-087sr": 3,
-    "w-bp02-077": 11,
+    "w-bp02-077": 10,
     "w-bp02-078": 14,
     "w-bp02-078sr": 2,
     "w-bp02-094": 8,
@@ -259,8 +259,8 @@
     "w-bp02-039sr": 2,
     "w-bp02-028": 14,
     "w-bp02-028sr": 1,
-    "w-bp02-043": 12,
-    "w-bp02-043sr": 1,
+    "w-bp02-043": 10,
+    "w-bp02-043sr": 2,
     "w-bp02-025": 11,
     "w-bp02-050sp": 2,
     "w-bp02-075sp": 1,
@@ -273,7 +273,7 @@
     "w-bp02-026osr": 1,
     "w-bp02-050osr": 1,
     "w-bp02-027osr": 2,
-    "w-bp02-003osr": 2,
+    "w-bp02-003osr": 4,
     "w-bp02-073osr": 2,
     "w-bp02-025osr": 3,
     "w-bp02-074osr": 3,
@@ -285,7 +285,7 @@
     "w-bp02-001ssp": 1,
     "w-bp02-097": 8,
     "w-bp02-100sr": 1,
-    "w-bp02-006sr": 1,
+    "w-bp02-006sr": 2,
     "w-bp02-002osr": 1,
     "w-bp02-001osr": 3,
     "w-bp02-077sr": 2,
@@ -365,8 +365,7 @@
       "w-bp02-073osr": 2,
       "w-bp02-077sr": 2,
       "w-bp02-077": 1,
-      "w-bp02-006sr": 1,
-      "w-bp02-006": 1,
+      "w-bp02-006sr": 2,
       "w-bp02-007sr": 2,
       "w-bp02-007": 1,
       "w-bp02-008sr": 3,
@@ -672,7 +671,7 @@
     ]
   ],
   "savedDecksAt": {
-    "RP Mossanda Lux Shroomer Noct Frostallion Noct · Machine Gun Furnace Burn": "2026-11-06T15:15:21.000Z"
+    "RP Mossanda Lux Shroomer Noct Frostallion Noct · Machine Gun Furnace Burn": "2026-11-06T16:37:08.000Z"
   },
   "notForSale": [
     "w-bp01-074osr",
@@ -680,20 +679,8 @@
   ],
   "reserved": {
     "w-bp02-003": {
-      "n": 5,
-      "note": "แลก Faleris OSR ×2 · แลก Mossanda Lux SR ×1 (คู่กับ Shroomer Noct R) · จองขาย ×2 รวม 500 บาท"
-    },
-    "w-bp02-043": {
       "n": 2,
-      "note": "แลก Stun Baton SR (คู่กับ Rocket Launcher 1)"
-    },
-    "w-bp02-018": {
-      "n": 1,
-      "note": "แลก Stun Baton SR (คู่กับ Stun Baton 2)"
-    },
-    "w-bp02-077": {
-      "n": 1,
-      "note": "แลก Mossanda Lux SR (คู่กับ Faleris RR)"
+      "note": "จองขาย ×2 รวม 500 บาท"
     }
   },
   "negotiable": [
