@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-05T15:14:00.000Z",
+  "version": "2026-11-06T05:24:11.000Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 336,
@@ -694,6 +694,25 @@
       "sphere": 3,
       "w-bp02-046osr": 1,
       "w-bp02-046": 1
+    },
+    "GP Lyleen Shroomer Noct · Ranch Farm Midrange": {
+      "w-bp01-063": 3,
+      "w-bp02-077sr": 2,
+      "w-bp02-077": 2,
+      "w-bp01-095osr": 4,
+      "w-bp02-050osr": 1,
+      "w-bp02-050": 3,
+      "w-bp01-066": 4,
+      "w-bp02-066": 4,
+      "w-bp02-062": 4,
+      "w-bp01-049-osr": 2,
+      "w-bp01-049": 2,
+      "w-bp02-080": 4,
+      "blazehowl": 4,
+      "w-bp02-064": 3,
+      "w-td02-003tsr": 1,
+      "w-td02-003": 3,
+      "w-bp01-052": 4
     }
   },
   "album": [
@@ -994,7 +1013,8 @@
     "Test RP2": "2026-11-03T17:11:50.000Z",
     "RP ver2": "2026-11-05T15:14:00.000Z",
     "RB Faleris Sweepa · Swee Rocket Gear Midrange": "2026-11-04T14:31:06.000Z",
-    "BP Broncherry Aqua Frostallion Noct · Antique Wall Control": "2026-11-05T01:38:11.000Z"
+    "BP Broncherry Aqua Frostallion Noct · Antique Wall Control": "2026-11-05T01:38:11.000Z",
+    "GP Lyleen Shroomer Noct · Ranch Farm Midrange": "2026-11-06T05:24:11.000Z"
   },
   "notForSale": [
     "w-bp01-074osr",
