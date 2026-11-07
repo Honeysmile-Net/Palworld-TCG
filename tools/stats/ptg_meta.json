@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "games": "",
  "rows": [
   {
-   "text": "1 Faleris · Stun Baton Red / Blue 61.3%raw 57.4% 57.9% ▼ 0.6 29.8% ▲▲ 17.0 17,065 1ST +6 $19",
+   "text": "1 Faleris · Stun Baton Red / Blue 60.9%raw 57.0% 57.3% ▼ 0.9 30.2% ▲▲ 17.4 19,173 1ST +6 $19",
    "slug": "blue-red-faleris-stun-baton",
    "list": [
     [
@@ -74,298 +74,313 @@
    "usage": [
     [
      "bp02-018-rocket-launcher",
-     57.6,
-     5
+     57.3,
+     5.5
     ],
     [
      "bp02-003-faleris-marcus-soaring-wings",
-     57.8,
-     20.5
+     57.4,
+     21.6
     ],
     [
      "bp02-043-stun-baton",
-     57.9,
-     5.4
-    ],
-    [
-     "bp02-019-flamethrower",
-     58,
-     3.5
-    ],
-    [
-     "bp01-005-reptyro-ore-gorger",
-     58.1,
-     4.4
-    ],
-    [
-     "bp01-047-pal-sphere",
-     58.4,
+     57.5,
      5.6
     ],
     [
+     "bp02-019-flamethrower",
+     57.6,
+     3.7
+    ],
+    [
+     "bp01-005-reptyro-ore-gorger",
+     57.7,
+     4.8
+    ],
+    [
+     "bp01-047-pal-sphere",
+     57.9,
+     6.2
+    ],
+    [
      "bp01-023-axel-s-strategy",
-     58.1,
-     -0.4
+     57.8,
+     -0.3
     ],
     [
      "bp02-023-marcus-turf",
-     58,
-     4.4
+     57.7,
+     4
     ],
     [
      "bp02-009-arsox-blazing-fury",
-     58.2,
-     3.4
+     57.6,
+     3.5
     ],
     [
      "td01-004-foxparks-a-toasty-hug",
-     56.1,
-     3.8
+     55.7,
+     4
     ],
     [
      "ss01-005-quivern-wyvern-s-breath",
-     58.5,
-     3.7
-    ],
-    [
-     "bp02-012-jolthog-10-million-volt-barrier",
-     55.7,
-     5.2
+     58.1,
+     4.3
     ],
     [
      "td01-016-reindrix-icy-gaze",
-     58.9,
-     4.9
+     58.5,
+     5
     ],
     [
-     "bp02-002-katress-ignis-scathing-counter",
-     58,
-     6.8
+     "bp02-012-jolthog-10-million-volt-barrier",
+     55.4,
+     5.4
     ],
     [
      "bp01-038-cryolinx-arctic-ordeal",
-     59.5,
-     4.5
+     59.1,
+     4.7
+    ],
+    [
+     "bp02-002-katress-ignis-scathing-counter",
+     57.8,
+     6.8
     ],
     [
      "bp01-006-foxparks-light-of-courage",
-     56.4,
-     6.5
-    ],
-    [
-     "bp01-019-foxparks-harness",
-     56.5,
-     0.1
+     56.1,
+     7.4
     ],
     [
      "bp02-099-eikthyrdeer-warden-of-the-woods",
-     60.1,
-     2
+     59.6,
+     3.1
+    ],
+    [
+     "bp01-019-foxparks-harness",
+     56.2,
+     0.7
     ],
     [
      "bp02-046-victor-s-gambit",
-     58.3,
-     -0.7
+     57.5,
+     0.1
     ],
     [
      "bp02-013-foxparks-breathing-practice",
-     56.1,
-     1.7
+     55.8,
+     2.7
     ],
     [
      "bp01-028-pengullet-yearning-for-the-sky",
-     59.4,
-     0.4
+     58.5,
+     1.1
     ],
     [
      "bp02-005-rayhound-soaring-flash",
-     57.2,
-     0.6
+     56.9,
+     0.9
     ],
     [
      "td01-010-single-shot-rifle",
-     55.9,
-     1.8
+     55.7,
+     2.4
     ],
     [
      "bp02-020-musket",
-     61.8,
-     3.3
-    ],
-    [
-     "bp01-014-blazehowl-hellflame-defender",
-     56,
-     4.4
+     61.1,
+     4
     ],
     [
      "bp02-036-celaray-carefree-wanderer",
-     52.9,
-     -0.6
+     52.4,
+     0.6
+    ],
+    [
+     "bp01-014-blazehowl-hellflame-defender",
+     55.6,
+     5.6
     ],
     [
      "bp02-015-improved-furnace",
-     51.2,
-     3.7
-    ],
-    [
-     "bp01-045-grappling-gun",
-     58.9,
-     -4.2
+     51.1,
+     3.2
     ],
     [
      "bp02-033-pengullet-locked-and-loaded",
-     57.6,
-     3.3
+     57.1,
+     2.5
+    ],
+    [
+     "bp01-045-grappling-gun",
+     58.3,
+     -4.8
     ],
     [
      "bp01-016-primitive-furnace",
      48.7,
-     3.4
+     3
     ],
     [
      "bp01-012-flambelle-scorching-tears",
-     50.4,
-     3.3
+     50.2,
+     2.2
     ],
     [
      "bp01-020-pump-action-shotgun",
-     50.4,
-     1.1
+     49.6,
+     2.7
     ],
     [
      "bp01-001-jormuntide-ignis-savage-lava-dragon",
      50,
-     -0.6
+     0.5
     ],
     [
      "bp02-022-axel-s-gambit",
-     49.7,
-     -1.9
+     48.8,
+     -3.8
     ],
     [
      "bp02-001-orserk-thunderclap-roar",
-     46.6,
-     8.4
+     45.8,
+     7.8
     ],
     [
      "bp02-007-flambelle-feverish-tears",
-     48.9,
-     9.9
-    ],
-    [
-     "bp02-038-suzaku-aqua-tide-summoner",
-     54.7,
-     -0.7
+     48.4,
+     11.1
     ],
     [
      "bp01-004-bushi-ephemeral-blade",
-     53.5,
-     -2.3
+     52.4,
+     -2.2
     ],
     [
-     "bp01-002-suzaku-hellfire-wings",
-     49.8,
-     -0.3
+     "bp02-038-suzaku-aqua-tide-summoner",
+     54.1,
+     1.9
     ],
     [
      "td01-021-single-shot-sphere-launcher",
-     63.6,
-     -2.7
+     60.3,
+     -2.5
+    ],
+    [
+     "bp01-002-suzaku-hellfire-wings",
+     49.6,
+     0
     ],
     [
      "ss01-001-grizzbolt-raining-lightning",
      56.8,
-     -2.6
+     0.2
     ],
     [
      "bp02-025-frostallion-everlasting-rime",
-     47.1,
-     -1.7
-    ],
-    [
-     "bp01-007-kitsun-wyrmbane-fangs",
-     55.6,
-     -1.4
+     47.7,
+     -6
     ],
     [
      "bp01-021-makeshift-handgun",
-     52.1,
-     17.6
+     54.3,
+     14.5
+    ],
+    [
+     "bp01-007-kitsun-wyrmbane-fangs",
+     54.6,
+     -4.7
     ],
     [
      "bp01-044-pengullet-rocket-launcher",
-     51.7,
-     -7
-    ],
-    [
-     "bp02-006-dazzi-thunder-maiden",
-     46.8,
-     7.4
+     50.3,
+     -6.8
     ],
     [
      "td01-007-blazamut-molten-sovereign",
-     56,
-     -2.3
+     55.8,
+     -0.8
     ],
     [
-     "bp01-046-victor-s-strategy",
-     53.9,
-     -9.4
+     "bp02-006-dazzi-thunder-maiden",
+     47,
+     7.5
     ],
     [
      "td01-014-pengullet-frequent-flyer",
-     50.3,
-     -1.4
+     48.6,
+     -3.5
     ],
     [
-     "bp02-024-flame-funnel",
-     54.6,
-     6.2
-    ],
-    [
-     "td01-008-stone-pit",
-     44,
-     11.9
-    ],
-    [
-     "bp01-009-univolt-valiant-thunderclap",
-     56.5,
-     -1.8
-    ],
-    [
-     "td01-023-lamball-my-first-pal",
-     43.3,
-     5.9
-    ],
-    [
-     "td01-012-elphidran-aqua-gentle-ripples",
-     57.5,
-     5
+     "bp01-046-victor-s-strategy",
+     53.2,
+     -10
     ],
     [
      "bp01-010-ragnahawk-emberwing-striker",
-     45.7,
-     3.2
+     48.4,
+     3.6
+    ],
+    [
+     "td01-008-stone-pit",
+     43.5,
+     11.3
+    ],
+    [
+     "bp01-009-univolt-valiant-thunderclap",
+     53.1,
+     -1.8
+    ],
+    [
+     "bp02-024-flame-funnel",
+     54.4,
+     6.6
+    ],
+    [
+     "td01-023-lamball-my-first-pal",
+     43.8,
+     4.2
+    ],
+    [
+     "td01-012-elphidran-aqua-gentle-ripples",
+     58.1,
+     10.3
     ],
     [
      "bp01-017-flame-cauldron",
-     44.2,
-     -2.2
-    ],
-    [
-     "bp01-032-fuack-manic-wave-ripper",
-     52.3,
-     1.2
+     46.1,
+     0.3
     ],
     [
      "td02-023-cattiva-my-first-pal",
-     44.1,
-     -4.2
+     44.8,
+     -9.1
+    ],
+    [
+     "bp01-032-fuack-manic-wave-ripper",
+     51.5,
+     0.3
     ],
     [
      "bp01-015-mounted-machine-gun",
-     37.2,
-     -8.5
+     37.3,
+     -5.1
+    ],
+    [
+     "td01-002-jolthog-shocking-yet-innocent",
+     46.7,
+     -4.4
+    ],
+    [
+     "bp01-003-gobfin-ignis-blazing-hothead",
+     29.8,
+     10.5
+    ],
+    [
+     "bp02-017-mine",
+     49,
+     -0.7
     ],
     [
      "bp02-032-kingpaca-cryst-prideful-solitude",
@@ -373,29 +388,14 @@
      2
     ],
     [
-     "td01-002-jolthog-shocking-yet-innocent",
-     48,
-     -6.6
-    ],
-    [
-     "bp01-003-gobfin-ignis-blazing-hothead",
-     29.7,
-     9.4
-    ],
-    [
-     "bp02-017-mine",
-     49.5,
-     -2.3
-    ],
-    [
      "bp02-044-frostallion-saddle",
-     55.7,
-     8.5
+     52.6,
+     3.4
     ],
     [
      "bp02-006-mossanda-lux-apex-grenadier",
-     38.8,
-     16.2
+     37.6,
+     11.9
     ],
     [
      "bp02-011-leezpunk-ignis-hot-blooded-finish",
@@ -404,32 +404,37 @@
     ],
     [
      "bp01-024-treasure-chest-found",
-     51.3,
-     6.2
-    ],
-    [
-     "bp02-010-relaxaurus-lux-party-time",
-     31.4,
-     -12.7
+     50.6,
+     7.7
     ],
     [
      "bp01-041-hot-spring",
-     54.8,
-     -18.2
+     46.8,
+     -15.9
+    ],
+    [
+     "bp02-010-relaxaurus-lux-party-time",
+     31.9,
+     -11.7
     ],
     [
      "bp02-045-sweepa-saddle",
-     45.2,
-     -0.5
+     44.6,
+     -1.3
+    ],
+    [
+     "td01-022-crystal-breath",
+     44.4,
+     -17
     ]
    ],
    "tier": "S",
-   "wr": "57.4",
+   "wr": "57.0",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "2 Improved Furnace · Mossanda Lux's Grenade Launcher Red / Purple 55.3%raw 54.5% 53.0% ▼ 0.5 14.4% ▲▲ 8.8 8,266 2ND +1 $49",
+   "text": "2 Improved Furnace · Mossanda Lux's Grenade Launcher Red / Purple 55.0%raw 54.2% 52.7% ▼ 0.5 14.4% ▲▲ 7.9 9,121 2ND +1 $49",
    "slug": "purple-red-improved-furnace-mossanda-luxs-grenade-launcher",
    "list": [
     [
@@ -492,422 +497,432 @@
    "usage": [
     [
      "bp02-077-shroomer-noct-spores-of-the-void",
-     55.2,
-     20.9
+     54.9,
+     21.7
     ],
     [
      "bp02-012-jolthog-10-million-volt-barrier",
-     54.9,
-     15.6
+     54.6,
+     16.3
     ],
     [
      "bp01-016-primitive-furnace",
-     55.2,
-     14
+     54.9,
+     14.1
     ],
     [
      "bp01-095-zoe-s-strategy",
-     55.5,
-     8.1
+     55.3,
+     8.8
     ],
     [
      "td01-008-stone-pit",
-     55.5,
-     17.1
+     55.2,
+     17.3
     ],
     [
      "bp01-015-mounted-machine-gun",
-     55.5,
-     11.7
+     55.3,
+     12.8
     ],
     [
      "td01-004-foxparks-a-toasty-hug",
-     55.1,
-     8.6
+     54.8,
+     8.8
     ],
     [
      "bp02-006-mossanda-lux-apex-grenadier",
-     55.8,
-     17.8
+     55.5,
+     18.4
     ],
     [
      "bp02-015-improved-furnace",
-     56.3,
-     11.4
+     56,
+     12
     ],
     [
      "bp02-021-mossanda-lux-s-grenade-launcher",
-     56.3,
-     9.4
-    ],
-    [
-     "bp01-012-flambelle-scorching-tears",
-     56.2,
-     18.9
-    ],
-    [
-     "bp02-085-bushi-noct-blade-of-regret",
-     56.2,
-     11.8
-    ],
-    [
-     "bp01-014-blazehowl-hellflame-defender",
-     55.6,
-     8.5
-    ],
-    [
-     "bp01-076-tombat-out-of-nowhere",
-     58,
-     7.4
-    ],
-    [
-     "bp02-018-rocket-launcher",
-     54.2,
-     9.5
-    ],
-    [
-     "bp01-011-rooby-brave-sparks",
-     57.5,
+     56.1,
      9.6
     ],
     [
+     "bp01-012-flambelle-scorching-tears",
+     55.8,
+     18.8
+    ],
+    [
+     "bp02-085-bushi-noct-blade-of-regret",
+     55.9,
+     11.1
+    ],
+    [
+     "bp01-014-blazehowl-hellflame-defender",
+     55.4,
+     8.8
+    ],
+    [
+     "bp01-076-tombat-out-of-nowhere",
+     57.6,
+     7.9
+    ],
+    [
+     "bp02-018-rocket-launcher",
+     53.4,
+     10.7
+    ],
+    [
+     "bp01-011-rooby-brave-sparks",
+     57.7,
+     9
+    ],
+    [
      "bp02-001-orserk-thunderclap-roar",
-     50.7,
+     50.5,
      4.7
     ],
     [
      "bp02-007-flambelle-feverish-tears",
-     50.7,
-     10.8
+     50.5,
+     10.7
     ],
     [
      "bp02-016-coal-quarry",
-     51.1,
-     3.8
+     51.6,
+     3.4
     ],
     [
      "bp02-073-frostallion-noct-eternal-darkness",
-     53.7,
-     4.3
+     53,
+     5.1
     ],
     [
      "bp02-006-dazzi-thunder-maiden",
-     52,
-     4.8
-    ],
-    [
-     "bp01-078-lyleen-noct-providence-of-the-goddess",
-     57.5,
-     -3
-    ],
-    [
-     "td02-014-leezpunk-treasure-bandit",
      51,
      5
     ],
     [
+     "bp01-078-lyleen-noct-providence-of-the-goddess",
+     56.7,
+     -3
+    ],
+    [
+     "td02-014-leezpunk-treasure-bandit",
+     50.8,
+     3.3
+    ],
+    [
      "bp02-002-katress-ignis-scathing-counter",
-     50.1,
-     11.5
+     50.2,
+     10.5
     ],
     [
      "td01-023-lamball-my-first-pal",
-     53.6,
-     8.1
-    ],
-    [
-     "td02-023-cattiva-my-first-pal",
-     49,
-     10
-    ],
-    [
-     "td02-017-blazehowl-noct-darkflame-defender",
-     52.1,
-     14.9
-    ],
-    [
-     "bp02-099-eikthyrdeer-warden-of-the-woods",
-     52.2,
-     8.1
-    ],
-    [
-     "bp01-006-foxparks-light-of-courage",
-     42.6,
-     3.4
-    ],
-    [
-     "bp01-097-black-marketeer",
-     53.7,
-     4.5
-    ],
-    [
-     "td01-009-weapon-workbench",
-     48.1,
-     4.9
-    ],
-    [
-     "bp01-020-pump-action-shotgun",
-     46.9,
-     0.1
-    ],
-    [
-     "td01-010-single-shot-rifle",
-     57.5,
+     53.4,
      8.3
     ],
     [
-     "bp02-005-rayhound-soaring-flash",
-     48.9,
-     13.1
+     "td02-017-blazehowl-noct-darkflame-defender",
+     52.2,
+     14.6
     ],
     [
-     "td01-024-ribbuny-little-princess",
-     54.9,
-     9.8
+     "td02-023-cattiva-my-first-pal",
+     49.1,
+     10.1
     ],
     [
-     "ss01-005-quivern-wyvern-s-breath",
-     50,
-     2.3
+     "bp02-099-eikthyrdeer-warden-of-the-woods",
+     52.6,
+     8.5
     ],
     [
-     "bp02-019-flamethrower",
-     50.2,
-     6.3
-    ],
-    [
-     "td02-021-strike-from-the-darkness",
-     48,
-     8.4
-    ],
-    [
-     "td01-006-mossanda-lux-vanguard-captain",
-     50.8,
-     14.8
-    ],
-    [
-     "bp02-011-leezpunk-ignis-hot-blooded-finish",
-     56.6,
-     7.3
-    ],
-    [
-     "bp01-077-pyrin-noct-steed-of-azure-flames",
-     51.5,
-     6.6
-    ],
-    [
-     "bp02-093-poison-arrow-crossbow",
-     45.8,
-     18.7
-    ],
-    [
-     "td01-002-jolthog-shocking-yet-innocent",
-     52.8,
-     6.7
-    ],
-    [
-     "bp01-090-medieval-medicine-workbench",
-     45.2,
-     2
-    ],
-    [
-     "bp02-003-faleris-marcus-soaring-wings",
-     43.9,
-     18.5
-    ],
-    [
-     "bp02-089-bear-trap-small",
-     54.1,
-     -4.9
-    ],
-    [
-     "bp01-019-foxparks-harness",
-     39.7,
+     "bp01-006-foxparks-light-of-courage",
+     43.4,
      6
     ],
     [
-     "bp01-023-axel-s-strategy",
+     "td01-009-weapon-workbench",
+     47.3,
+     7.2
+    ],
+    [
+     "bp01-020-pump-action-shotgun",
      46.2,
-     -5.2
+     1.8
     ],
     [
-     "bp02-013-foxparks-breathing-practice",
-     46.1,
-     -0.9
+     "bp01-097-black-marketeer",
+     53.6,
+     5.8
     ],
     [
-     "bp02-094-zoe-s-gambit",
-     41,
-     -6
-    ],
-    [
-     "bp02-083-wixen-noct-honeyed-temptation",
-     44.6,
-     12.3
-    ],
-    [
-     "bp01-005-reptyro-ore-gorger",
-     40.7,
-     0.6
-    ],
-    [
-     "bp02-009-arsox-blazing-fury",
-     47.1,
-     18.6
-    ],
-    [
-     "td01-005-arsox-burning-spoils",
-     50,
-     14
-    ],
-    [
-     "bp02-084-killamari-abyssal-terror",
-     65.1,
-     -1.3
-    ],
-    [
-     "bp01-082-daedream-deep-slumber",
-     42.8,
-     0.2
-    ],
-    [
-     "bp01-094-daedream-s-necklace",
-     42.8,
-     4.8
-    ],
-    [
-     "bp01-079-depresso-late-night-hustler",
-     41.6,
-     4.1
-    ],
-    [
-     "bp01-089-shoddy-bed",
-     43.3,
-     -7.2
-    ],
-    [
-     "bp02-095-saya-s-crescent-moon",
-     43.6,
-     -3.3
-    ],
-    [
-     "bp01-024-treasure-chest-found",
-     50.8,
-     -6.4
-    ],
-    [
-     "bp02-023-marcus-turf",
+     "bp02-005-rayhound-soaring-flash",
      47.6,
-     7.8
+     11.7
     ],
     [
-     "bp02-087-electric-medicine-workbench",
-     39.3,
-     -18.6
+     "td02-021-strike-from-the-darkness",
+     47.5,
+     3.2
     ],
     [
-     "bp02-076-prixter-nightfall-stinger",
-     44.6,
-     19.8
+     "td01-010-single-shot-rifle",
+     57,
+     7.7
     ],
     [
-     "bp01-084-menasting-darkness-dwelling-scorpion",
-     43.8,
-     -11.9
-    ],
-    [
-     "bp01-010-ragnahawk-emberwing-striker",
-     45,
-     -7.9
-    ],
-    [
-     "bp01-080-daedream-first-slumber",
-     45.3,
-     10.3
-    ],
-    [
-     "td02-015-cawgnito-looming-shadow",
-     41.3,
-     -12.7
-    ],
-    [
-     "bp01-003-gobfin-ignis-blazing-hothead",
-     43.1,
-     -7.3
-    ],
-    [
-     "bp01-001-jormuntide-ignis-savage-lava-dragon",
-     42.6,
+     "bp02-011-leezpunk-ignis-hot-blooded-finish",
+     56,
      9.1
     ],
     [
-     "bp01-018-alarm-bell",
-     34.7,
-     -13.9
+     "bp02-019-flamethrower",
+     50.1,
+     6.6
     ],
     [
-     "bp01-002-suzaku-hellfire-wings",
-     45.7,
-     -23.2
+     "td01-024-ribbuny-little-princess",
+     54.5,
+     9.3
+    ],
+    [
+     "ss01-005-quivern-wyvern-s-breath",
+     49.8,
+     1.4
+    ],
+    [
+     "td01-006-mossanda-lux-vanguard-captain",
+     51.4,
+     15.9
+    ],
+    [
+     "bp01-077-pyrin-noct-steed-of-azure-flames",
+     51.1,
+     4
+    ],
+    [
+     "bp02-093-poison-arrow-crossbow",
+     45.4,
+     15.1
+    ],
+    [
+     "td01-002-jolthog-shocking-yet-innocent",
+     53,
+     8.2
+    ],
+    [
+     "bp01-090-medieval-medicine-workbench",
+     46.3,
+     0.9
+    ],
+    [
+     "bp02-089-bear-trap-small",
+     51.5,
+     -7.3
+    ],
+    [
+     "bp02-003-faleris-marcus-soaring-wings",
+     44.4,
+     20.8
+    ],
+    [
+     "bp02-083-wixen-noct-honeyed-temptation",
+     47.9,
+     19.4
+    ],
+    [
+     "bp02-094-zoe-s-gambit",
+     41.4,
+     1.1
+    ],
+    [
+     "bp01-019-foxparks-harness",
+     38.9,
+     9.6
+    ],
+    [
+     "bp01-005-reptyro-ore-gorger",
+     42,
+     2.9
+    ],
+    [
+     "bp02-013-foxparks-breathing-practice",
+     45,
+     -0.4
+    ],
+    [
+     "bp01-023-axel-s-strategy",
+     45.1,
+     -4.1
+    ],
+    [
+     "bp02-009-arsox-blazing-fury",
+     45.2,
+     18.9
+    ],
+    [
+     "td01-005-arsox-burning-spoils",
+     49.5,
+     13.9
+    ],
+    [
+     "bp02-084-killamari-abyssal-terror",
+     63.6,
+     -0.6
+    ],
+    [
+     "bp01-082-daedream-deep-slumber",
+     41.7,
+     -0.8
+    ],
+    [
+     "bp01-094-daedream-s-necklace",
+     41.7,
+     3.1
+    ],
+    [
+     "bp01-079-depresso-late-night-hustler",
+     40.6,
+     4.3
+    ],
+    [
+     "bp01-089-shoddy-bed",
+     42.1,
+     -1.4
+    ],
+    [
+     "bp02-095-saya-s-crescent-moon",
+     42.4,
+     -4
+    ],
+    [
+     "bp01-010-ragnahawk-emberwing-striker",
+     42.7,
+     -9.5
+    ],
+    [
+     "bp01-024-treasure-chest-found",
+     50.7,
+     -3.9
+    ],
+    [
+     "bp02-076-prixter-nightfall-stinger",
+     42.9,
+     23.8
+    ],
+    [
+     "bp02-023-marcus-turf",
+     47,
+     7.7
+    ],
+    [
+     "bp01-080-daedream-first-slumber",
+     43.5,
+     10.4
+    ],
+    [
+     "td02-015-cawgnito-looming-shadow",
+     42.5,
+     -13.2
+    ],
+    [
+     "bp02-087-electric-medicine-workbench",
+     38.7,
+     -19.6
+    ],
+    [
+     "bp01-003-gobfin-ignis-blazing-hothead",
+     43.6,
+     -7
+    ],
+    [
+     "bp01-084-menasting-darkness-dwelling-scorpion",
+     43,
+     -11.2
+    ],
+    [
+     "bp01-018-alarm-bell",
+     35.6,
+     -14.4
     ],
     [
      "bp01-088-lamp",
-     43,
-     19.1
+     41.7,
+     18
+    ],
+    [
+     "bp01-001-jormuntide-ignis-savage-lava-dragon",
+     42.2,
+     8.4
+    ],
+    [
+     "bp01-002-suzaku-hellfire-wings",
+     45,
+     -22.6
     ],
     [
      "bp02-096-poison-fog",
-     31.7,
-     8.9
+     32.7,
+     -1
     ],
     [
      "bp02-024-flame-funnel",
-     41.9,
-     4.6
-    ],
-    [
-     "bp02-022-axel-s-gambit",
-     41.7,
-     -2
+     37.6,
+     4.7
     ],
     [
      "bp01-004-bushi-ephemeral-blade",
-     32.8,
-     -11.7
+     34.1,
+     0.6
+    ],
+    [
+     "bp02-022-axel-s-gambit",
+     36.9,
+     -1.8
     ],
     [
      "bp01-091-wooden-wall",
-     32.3,
-     -12.1
+     29.3,
+     -11
     ],
     [
-     "bp01-007-kitsun-wyrmbane-fangs",
-     38.3,
-     3.4
+     "bp01-074-shadowbeak-seed-of-despair",
+     41.7,
+     9.5
     ],
     [
      "bp01-017-flame-cauldron",
-     31.7,
-     20.3
+     32.9,
+     16.9
+    ],
+    [
+     "bp01-007-kitsun-wyrmbane-fangs",
+     37.7,
+     6.7
     ],
     [
      "bp02-017-mine",
-     36.2,
-     2.5
+     35,
+     0
     ],
     [
      "bp02-082-daedream-blissful-dreams",
      51.8,
      -9.1
+    ],
+    [
+     "bp02-088-chandelier",
+     41.1,
+     -7
     ]
    ],
    "tier": "A",
-   "wr": "54.5",
+   "wr": "54.2",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "3 Mammorest · Shroomer Noct Green / Purple 39.3%raw 41.5% 36.8% ▼ 0.7 12.6% ▲▲ 5.9 7,195 2ND +3 $55",
+   "text": "3 Mammorest · Shroomer Noct Green / Purple 39.4%raw 41.6% 37.1% ▼ 0.3 12.3% ▲▲ 5.0 7,783 2ND +3 $55",
    "slug": "green-purple-mau-shroomer-noct",
    "list": [
     [
@@ -978,7 +993,7 @@
    "usage": [
     [
      "bp01-066-ranch",
-     41.7,
+     41.8,
      12.3
     ],
     [
@@ -989,347 +1004,362 @@
     [
      "bp02-077-shroomer-noct-spores-of-the-void",
      41.8,
-     15.5
+     15.7
     ],
     [
      "bp02-066-pioneer-ranch",
      42.2,
-     14.4
+     14.5
     ],
     [
      "bp01-095-zoe-s-strategy",
-     42.2,
-     2.9
+     42.3,
+     3.5
     ],
     [
      "td02-004-dinossom-radiant-fragrance",
-     41.7,
-     9.9
+     41.6,
+     10.2
     ],
     [
      "bp01-063-breeding-farm",
      41.8,
-     6.4
+     6.5
     ],
     [
      "td02-008-berry-plantation",
-     43.6,
-     9.9
+     43.3,
+     10.5
     ],
     [
      "bp02-050-mammorest-gaia-crusher",
-     40.5,
-     3.6
+     40.7,
+     3.8
     ],
     [
      "bp01-074-shadowbeak-seed-of-despair",
      42.2,
-     10.6
+     10.8
     ],
     [
      "bp01-052-rushoar-reckless-destruction",
-     44.6,
-     10.7
+     44.7,
+     10.5
     ],
     [
      "td02-021-strike-from-the-darkness",
      41.3,
-     9.9
+     10.1
     ],
     [
      "bp01-049-lyleen-blessing-of-the-goddess",
-     42.8,
-     12.5
+     43.3,
+     12.2
     ],
     [
      "td02-014-leezpunk-treasure-bandit",
-     41.9,
-     4.2
+     41.8,
+     4.3
     ],
     [
      "bp02-062-dazemu-stride-of-oblivion",
-     42.8,
-     4.1
+     43.5,
+     5.9
     ],
     [
      "bp02-085-bushi-noct-blade-of-regret",
-     40.1,
-     6.2
-    ],
-    [
-     "td02-017-blazehowl-noct-darkflame-defender",
-     43.2,
-     5.6
+     40.3,
+     6.6
     ],
     [
      "bp02-061-surfent-terra-conqueror-of-the-sands",
-     41.9,
-     6.4
+     42,
+     6.3
+    ],
+    [
+     "td02-017-blazehowl-noct-darkflame-defender",
+     43.3,
+     4.9
     ],
     [
      "ss01-005-quivern-wyvern-s-breath",
-     43.5,
-     12.6
+     43.6,
+     12.5
     ],
     [
      "bp01-078-lyleen-noct-providence-of-the-goddess",
-     42.3,
-     4.8
-    ],
-    [
-     "bp01-064-cola-vending-machine",
-     40,
-     3.1
+     42,
+     4.1
     ],
     [
      "bp02-099-eikthyrdeer-warden-of-the-woods",
-     42.5,
-     7.2
+     42.2,
+     7.7
+    ],
+    [
+     "bp01-064-cola-vending-machine",
+     40.5,
+     2.8
     ],
     [
      "bp02-073-frostallion-noct-eternal-darkness",
-     39.2,
-     3.4
+     39.4,
+     4.3
     ],
     [
      "bp02-058-digtoise-pulverizing-whirl",
-     39.7,
-     5.2
+     39.2,
+     7
     ],
     [
      "bp01-070-lily-s-strategy",
-     37.1,
-     -1.7
+     37.5,
+     -1.5
     ],
     [
      "bp01-057-dumud-mellow-bounty",
-     39.9,
-     11.9
+     39.5,
+     11.1
     ],
     [
      "td02-003-flopie-snack-lover",
-     37.5,
-     8.1
+     38.6,
+     8.3
     ],
     [
      "bp02-052-fuddler-claw-honing-mole",
      42.3,
-     7.1
+     6.5
     ],
     [
      "bp01-090-medieval-medicine-workbench",
-     40.1,
-     1.9
-    ],
-    [
-     "bp01-084-menasting-darkness-dwelling-scorpion",
-     40.4,
-     11.7
-    ],
-    [
-     "bp01-060-tanzee-cheerful-worker",
-     47.6,
-     7.9
-    ],
-    [
-     "bp02-083-wixen-noct-honeyed-temptation",
-     39.8,
-     4.4
-    ],
-    [
-     "bp02-055-beegarde-faithful-honor",
-     37.8,
-     -2.8
-    ],
-    [
-     "bp02-064-mill",
-     38,
-     -0.1
-    ],
-    [
-     "bp02-098-melpaca-a-fluffy-gift",
-     41.2,
-     -2.9
-    ],
-    [
-     "bp02-094-zoe-s-gambit",
-     42.4,
-     7.3
-    ],
-    [
-     "bp02-063-beware-of-mammorest-sign",
-     36.7,
-     12.7
-    ],
-    [
-     "bp01-051-petallia-sweet-blessings",
-     44.3,
-     -6.1
-    ],
-    [
-     "bp01-071-found-an-egg",
-     43.2,
-     0.5
-    ],
-    [
-     "bp01-077-pyrin-noct-steed-of-azure-flames",
-     40.6,
-     13.4
-    ],
-    [
-     "bp02-087-electric-medicine-workbench",
-     38.3,
+     39.3,
      1.4
     ],
     [
-     "bp01-062-wumpo-botan-tropical-sentinel",
-     39.2,
-     8.7
+     "bp01-084-menasting-darkness-dwelling-scorpion",
+     39.9,
+     11
     ],
     [
-     "bp02-051-bristla-regal-gaze",
-     46.1,
-     5.3
+     "bp02-083-wixen-noct-honeyed-temptation",
+     39.1,
+     4.8
     ],
     [
-     "bp02-054-quivern-botan-meadow-s-grace",
-     31.6,
+     "bp01-060-tanzee-cheerful-worker",
+     47.9,
+     7.1
+    ],
+    [
+     "bp02-055-beegarde-faithful-honor",
+     38,
+     -2.2
+    ],
+    [
+     "bp02-064-mill",
+     38.7,
+     1.1
+    ],
+    [
+     "bp02-098-melpaca-a-fluffy-gift",
+     42,
+     -4.2
+    ],
+    [
+     "bp02-094-zoe-s-gambit",
+     42.7,
+     8.3
+    ],
+    [
+     "bp02-063-beware-of-mammorest-sign",
+     36.6,
+     13.7
+    ],
+    [
+     "bp01-051-petallia-sweet-blessings",
+     44.4,
+     -6.7
+    ],
+    [
+     "bp01-071-found-an-egg",
+     42.8,
      2.7
     ],
     [
-     "bp02-065-electric-kitchen",
-     37.3,
-     1
+     "bp01-077-pyrin-noct-steed-of-azure-flames",
+     40.5,
+     14.6
     ],
     [
-     "td02-007-mammorest-roar-of-the-wilds",
-     37.2,
-     12.7
+     "bp01-062-wumpo-botan-tropical-sentinel",
+     39.1,
+     8
+    ],
+    [
+     "bp02-087-electric-medicine-workbench",
+     38.4,
+     2.8
+    ],
+    [
+     "bp02-051-bristla-regal-gaze",
+     46.5,
+     7.8
+    ],
+    [
+     "bp02-054-quivern-botan-meadow-s-grace",
+     32.4,
+     3.7
+    ],
+    [
+     "bp02-065-electric-kitchen",
+     38,
+     -0.2
     ],
     [
      "td02-024-chikipi-my-first-pal",
      40.1,
-     10.4
+     11.3
+    ],
+    [
+     "td02-007-mammorest-roar-of-the-wilds",
+     37.1,
+     13.8
     ],
     [
      "td01-023-lamball-my-first-pal",
-     38.8,
-     10.5
+     38.6,
+     10.3
     ],
     [
      "bp01-054-warsect-iron-fortress",
-     40.5,
-     1.5
+     41.3,
+     2.8
     ],
     [
      "bp01-050-digtoise-seismic-drillback",
-     37.3,
-     0.4
+     36.8,
+     -0.1
     ],
     [
      "td02-023-cattiva-my-first-pal",
-     43.6,
-     3.9
+     44.5,
+     7.2
     ],
     [
      "bp01-085-maraith-twilight-messenger",
-     39,
-     8.6
-    ],
-    [
-     "td02-009-campfire",
-     47.3,
-     1.2
+     38.4,
+     7.2
     ],
     [
      "bp02-072-seed-machine-gun",
-     40.9,
-     5.2
+     40.5,
+     4.8
+    ],
+    [
+     "td02-009-campfire",
+     46.9,
+     0.7
     ],
     [
      "bp02-057-eikthyrdeer-terra-will-of-nature",
-     37.4,
-     -6
+     36.9,
+     -6.4
     ],
     [
      "bp01-067-no-pals-beyond-sign",
-     37.2,
-     -3.6
+     38.2,
+     -6.2
     ],
     [
      "bp02-071-lily-s-gambit",
-     36.7,
-     -0.5
-    ],
-    [
-     "bp01-061-beegarde-knight-of-the-flower-garden",
-     38,
-     13.3
+     37.4,
+     -1.9
     ],
     [
      "bp01-059-digtoise-keen-needleback",
-     36.5,
-     7.7
+     36.8,
+     5
+    ],
+    [
+     "bp01-061-beegarde-knight-of-the-flower-garden",
+     39.6,
+     11.9
     ],
     [
      "bp02-096-poison-fog",
-     41,
-     -10.7
+     42,
+     -9.9
+    ],
+    [
+     "bp01-097-black-marketeer",
+     33.2,
+     -3.9
     ],
     [
      "bp01-096-dark-cannon",
-     43,
-     -11
+     43.3,
+     -10.5
     ],
     [
      "bp02-049-anubis-noble-reaper",
      43.5,
-     2.7
+     1.9
     ],
     [
      "bp02-089-bear-trap-small",
-     41.5,
-     -3.1
-    ],
-    [
-     "bp01-097-black-marketeer",
-     32.8,
-     -5.7
+     41.7,
+     -0.5
     ],
     [
      "td02-022-medical-supplies",
-     39.9,
-     9
-    ],
-    [
-     "bp01-076-tombat-out-of-nowhere",
-     45.3,
-     14.5
+     39.8,
+     4.2
     ],
     [
      "bp02-056-lifmunk-hidden-power",
-     38.5,
-     9.3
+     40.9,
+     12.5
+    ],
+    [
+     "bp01-076-tombat-out-of-nowhere",
+     46.2,
+     15
     ],
     [
      "td02-005-eikthyrdeer-terra-guardian-of-nature",
-     38.5,
-     -3.7
+     37,
+     -2.4
     ],
     [
      "bp01-091-wooden-wall",
-     40.7,
-     11.3
+     42.6,
+     14
     ],
     [
      "td02-002-gumoss-dreamy-seedling",
-     48.1,
-     17.1
+     49.1,
+     18.5
+    ],
+    [
+     "td02-019-hanging-trap",
+     49,
+     9.3
     ],
     [
      "bp01-094-daedream-s-necklace",
      29.2,
      -9
+    ],
+    [
+     "bp01-053-elizabee-queen-of-the-flower-garden",
+     32.3,
+     21.1
+    ],
+    [
+     "bp01-055-vaelet-bewitching-blossom",
+     52.3,
+     14.8
     ],
     [
      "bp02-091-dark-grenade",
@@ -1342,34 +1372,24 @@
      11.4
     ],
     [
+     "bp01-058-gumoss-curious-sprout",
+     47.6,
+     10.6
+    ],
+    [
      "bp01-065-feed-box",
-     28.9,
-     -10.7
+     28.6,
+     -9.5
     ],
     [
-     "bp01-053-elizabee-queen-of-the-flower-garden",
-     30.5,
-     19.3
-    ],
-    [
-     "bp01-055-vaelet-bewitching-blossom",
-     53.7,
-     15.5
+     "bp02-053-dumud-bountiful-earth",
+     46.8,
+     -2
     ],
     [
      "bp01-080-daedream-first-slumber",
-     35.1,
-     3.6
-    ],
-    [
-     "td02-019-hanging-trap",
-     45.7,
-     0.4
-    ],
-    [
-     "bp01-058-gumoss-curious-sprout",
-     45.5,
-     5.2
+     35.5,
+     0.5
     ],
     [
      "bp02-092-frostallion-noct-saddle",
@@ -1378,22 +1398,32 @@
     ],
     [
      "bp01-068-digtoise-s-headband",
-     29.4,
-     -8.3
+     29.8,
+     -4.8
+    ],
+    [
+     "bp02-069-refined-metal-axe",
+     23.9,
+     8.2
+    ],
+    [
+     "bp02-082-daedream-blissful-dreams",
+     23.9,
+     3.3
     ],
     [
      "bp02-093-poison-arrow-crossbow",
-     30,
-     10
+     32.6,
+     4.2
     ]
    ],
    "tier": "D",
-   "wr": "41.5",
+   "wr": "41.6",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "4 Broncherry Aqua · Antique Mirror Blue / Purple 38.3%raw 39.4% 37.3% ▲ 0.7 5.7% ▲▲ 3.5 3,283 1ST +3 $22",
+   "text": "4 Broncherry Aqua · Antique Mirror Blue / Purple 38.2%raw 39.3% 37.3% ▲ 1.0 5.7% ▲▲ 3.5 3,605 1ST +4 $22",
    "slug": "blue-purple-broncherry-aqua-antique-mirror",
    "list": [
     [
@@ -1460,287 +1490,287 @@
    "usage": [
     [
      "bp02-031-broncherry-aqua-the-shape-of-love",
-     39.7,
-     9.4
+     39.6,
+     10.8
     ],
     [
      "bp01-042-antique-mirror",
      40,
-     7.8
+     8.3
     ],
     [
      "bp01-091-wooden-wall",
-     40.2,
-     1.9
+     40.1,
+     2.7
     ],
     [
      "bp01-030-reptyro-cryst-glacial-devourer",
      40.3,
-     10.8
+     11.9
     ],
     [
      "bp01-039-antique-curtain",
-     41.4,
-     7.9
+     41.2,
+     8
     ],
     [
      "bp02-039-antique-cabinet",
-     41.1,
-     0.4
+     40.9,
+     0.8
     ],
     [
      "bp01-046-victor-s-strategy",
-     41.4,
+     41.2,
      3.9
     ],
     [
      "bp02-073-frostallion-noct-eternal-darkness",
-     42,
-     1.3
+     41.6,
+     2.5
     ],
     [
      "bp02-041-high-quality-hot-spring",
-     40.7,
-     -2.7
+     40.5,
+     -1.2
     ],
     [
      "bp01-038-cryolinx-arctic-ordeal",
      41.9,
-     3.7
+     4.5
     ],
     [
      "bp02-089-bear-trap-small",
-     41.3,
-     3.7
+     41.2,
+     4.3
     ],
     [
      "bp02-047-love-overload",
-     42.1,
-     -3.2
+     41.8,
+     0.1
     ],
     [
      "td02-017-blazehowl-noct-darkflame-defender",
      44.6,
-     4.5
+     7
     ],
     [
      "ss01-005-quivern-wyvern-s-breath",
-     44.7,
-     7.9
+     44.6,
+     7.7
     ],
     [
      "bp02-099-eikthyrdeer-warden-of-the-woods",
-     43.5,
-     9.6
+     43.3,
+     10.5
     ],
     [
      "bp02-036-celaray-carefree-wanderer",
-     37,
-     2.3
+     37.1,
+     3.3
     ],
     [
      "bp01-092-viewing-cage",
-     44.7,
-     -1.1
+     44.6,
+     -0.6
     ],
     [
      "bp01-090-medieval-medicine-workbench",
-     40,
-     -5.4
+     39.9,
+     -2.7
     ],
     [
      "td01-016-reindrix-icy-gaze",
-     34.5,
-     -2.5
+     34.2,
+     -1.4
     ],
     [
      "bp02-042-antique-partition",
-     42.7,
-     -3.5
+     42.2,
+     -3.9
     ],
     [
      "bp01-095-zoe-s-strategy",
-     33.3,
-     -2.4
+     33.4,
+     -2.7
+    ],
+    [
+     "bp01-028-pengullet-yearning-for-the-sky",
+     36.4,
+     11.4
+    ],
+    [
+     "bp02-040-water-fountain",
+     31.9,
+     1.8
     ],
     [
      "bp02-077-shroomer-noct-spores-of-the-void",
      33.3,
-     8.6
-    ],
-    [
-     "bp02-040-water-fountain",
-     31.5,
-     1.8
-    ],
-    [
-     "bp01-028-pengullet-yearning-for-the-sky",
-     34.7,
-     10.1
+     9.5
     ],
     [
      "bp02-085-bushi-noct-blade-of-regret",
-     32.7,
-     2.5
+     31.9,
+     3.4
     ],
     [
      "td02-021-strike-from-the-darkness",
-     32.2,
-     -0.3
+     33.5,
+     1.6
     ],
     [
      "bp01-047-pal-sphere",
-     32,
-     5.7
-    ],
-    [
-     "bp01-078-lyleen-noct-providence-of-the-goddess",
-     32.9,
-     7
-    ],
-    [
-     "bp01-041-hot-spring",
-     37.8,
-     -8.4
+     32.3,
+     6.8
     ],
     [
      "bp02-033-pengullet-locked-and-loaded",
-     33.1,
-     -3
+     35.9,
+     2.8
+    ],
+    [
+     "bp01-078-lyleen-noct-providence-of-the-goddess",
+     32.8,
+     6.8
+    ],
+    [
+     "bp01-041-hot-spring",
+     38.3,
+     -10.9
     ],
     [
      "bp01-044-pengullet-rocket-launcher",
-     28.2,
-     -4.1
+     28.6,
+     -5.8
     ],
     [
      "td01-020-primitive-workbench",
-     28.3,
-     4.6
+     27.6,
+     0.8
     ],
     [
      "bp02-094-zoe-s-gambit",
-     36,
-     1.7
+     36.4,
+     -1.7
     ],
     [
      "td02-019-hanging-trap",
-     30.6,
-     -9.8
-    ],
-    [
-     "bp01-040-antique-dresser",
-     25.9,
-     -6.3
-    ],
-    [
-     "bp02-046-victor-s-gambit",
-     38.6,
-     5.7
+     32.3,
+     -9.7
     ],
     [
      "bp01-074-shadowbeak-seed-of-despair",
      38.7,
-     0.3
+     2.2
     ],
     [
-     "bp02-025-frostallion-everlasting-rime",
-     25,
-     -7.4
+     "bp01-040-antique-dresser",
+     24.7,
+     -8.4
     ],
     [
-     "bp01-033-wumpo-frostpeak-sentinel",
-     42.2,
-     10.6
-    ],
-    [
-     "td01-018-mammorest-cryst-roar-of-the-tundra",
-     22,
-     7.5
-    ],
-    [
-     "bp01-084-menasting-darkness-dwelling-scorpion",
-     35.3,
-     23.6
-    ],
-    [
-     "bp02-027-sweepa-record-breaker",
-     28.9,
+     "bp02-046-victor-s-gambit",
+     38.7,
      7.8
     ],
     [
-     "bp02-087-electric-medicine-workbench",
-     24,
-     -7.3
+     "bp02-025-frostallion-everlasting-rime",
+     29.1,
+     -5.9
+    ],
+    [
+     "bp02-027-sweepa-record-breaker",
+     31.1,
+     9.8
+    ],
+    [
+     "bp01-084-menasting-darkness-dwelling-scorpion",
+     36,
+     14.5
+    ],
+    [
+     "td01-018-mammorest-cryst-roar-of-the-tundra",
+     22.9,
+     3.4
+    ],
+    [
+     "bp01-033-wumpo-frostpeak-sentinel",
+     42.4,
+     11.9
     ],
     [
      "td02-014-leezpunk-treasure-bandit",
-     33.6,
-     5.9
+     33.3,
+     5.6
+    ],
+    [
+     "bp02-087-electric-medicine-workbench",
+     24.4,
+     -4.9
     ],
     [
      "bp01-077-pyrin-noct-steed-of-azure-flames",
-     36.1,
-     17.8
+     35.9,
+     18.5
     ],
     [
      "td01-019-antique-wooden-chair",
-     24.6,
-     10
-    ],
-    [
-     "bp01-045-grappling-gun",
-     32.4,
-     0.2
-    ],
-    [
-     "bp02-038-suzaku-aqua-tide-summoner",
-     22.4,
-     1.9
+     30,
+     9.1
     ],
     [
      "td01-014-pengullet-frequent-flyer",
-     18.4,
-     13.1
+     19.5,
+     15.4
+    ],
+    [
+     "bp02-038-suzaku-aqua-tide-summoner",
+     21.3,
+     3.6
+    ],
+    [
+     "bp01-045-grappling-gun",
+     32.2,
+     -2.7
     ],
     [
      "td01-012-elphidran-aqua-gentle-ripples",
-     34.3,
-     -8.2
+     35.1,
+     -3
     ],
     [
      "bp01-097-black-marketeer",
-     36.7,
-     1.6
+     33.6,
+     -3.4
     ],
     [
      "bp01-032-fuack-manic-wave-ripper",
-     26.8,
-     12
+     34.3,
+     2.9
     ],
     [
      "bp01-088-lamp",
-     17.1,
-     1.5
+     16.7,
+     1.9
     ],
     [
      "bp01-043-sphere-workbench",
-     24.7,
-     -9.2
+     24.1,
+     -7.2
     ],
     [
      "bp02-083-wixen-noct-honeyed-temptation",
-     26.2,
-     23.3
+     27,
+     22.7
     ]
    ],
    "tier": "D",
-   "wr": "39.4",
+   "wr": "39.3",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "5 Chillet · Relaxaurus Blue / Purple 50.0%raw 51.5% 48.8% ▼▼ 2.1 4.3% ▼▼ 16.4 2,458 2ND +9 $111",
+   "text": "5 Chillet · Relaxaurus Blue / Purple 50.3%raw 51.8% 49.1% ▼▼ 1.6 4.3% ▼▼ 15.9 2,721 2ND +9 $111",
    "slug": "blue-purple-chillet-relaxaurus",
    "list": [
     [
@@ -1815,203 +1845,208 @@
    "usage": [
     [
      "bp01-025-chillet-dragon-whisperer",
-     53.3,
-     5.2
+     53.9,
+     5.3
     ],
     [
      "td01-012-elphidran-aqua-gentle-ripples",
-     52.9,
-     -7.1
+     53.5,
+     -6.8
     ],
     [
      "bp01-026-relaxaurus-hungry-gunner",
-     53.1,
-     -6.1
+     53.7,
+     -5.9
     ],
     [
      "bp01-095-zoe-s-strategy",
-     50.9,
-     -6.6
+     51.6,
+     -6.4
     ],
     [
      "bp01-028-pengullet-yearning-for-the-sky",
-     51.7,
-     -1.8
+     52,
+     -0.9
     ],
     [
      "td02-021-strike-from-the-darkness",
-     51.4,
-     -0.8
+     51.7,
+     -0.5
     ],
     [
      "td01-016-reindrix-icy-gaze",
-     52,
-     -0.3
+     52.5,
+     -1.6
     ],
     [
      "bp01-098-elphidran-gentle-radiance",
-     54.1,
-     -6.2
-    ],
-    [
-     "ss01-002-chillet-finishing-ice-blade",
-     54.5,
-     -11.4
+     54.6,
+     -5.5
     ],
     [
      "bp02-036-celaray-carefree-wanderer",
-     54.1,
-     4.7
+     54.2,
+     4.9
+    ],
+    [
+     "ss01-002-chillet-finishing-ice-blade",
+     55,
+     -10.4
     ],
     [
      "bp01-044-pengullet-rocket-launcher",
-     49.1,
-     -10.2
+     49.4,
+     -11.5
     ],
     [
      "bp01-038-cryolinx-arctic-ordeal",
-     48.2,
-     -7.7
+     48.6,
+     -6.5
     ],
     [
      "bp01-047-pal-sphere",
      46.6,
-     -5.7
+     -4.7
     ],
     [
      "ss01-005-quivern-wyvern-s-breath",
-     53.6,
-     4.2
-    ],
-    [
-     "bp01-048-aurora-guide",
-     52.6,
-     -4
+     54.4,
+     2
     ],
     [
      "td02-012-astegon-aegis-wyvern-of-death",
      52.4,
-     3.7
+     3.9
     ],
     [
-     "bp02-033-pengullet-locked-and-loaded",
-     50.9,
-     3.7
+     "bp01-048-aurora-guide",
+     52.7,
+     -2.8
     ],
     [
      "bp01-078-lyleen-noct-providence-of-the-goddess",
-     51.5,
-     -8.2
+     52.3,
+     -6.2
+    ],
+    [
+     "bp02-033-pengullet-locked-and-loaded",
+     51.1,
+     2.1
     ],
     [
      "bp01-027-jormuntide-surging-sea-serpent",
-     51.2,
-     -1.8
+     51.5,
+     -1.7
     ],
     [
      "bp02-085-bushi-noct-blade-of-regret",
-     54.9,
-     -4
+     54.7,
+     -3.6
     ],
     [
      "td01-014-pengullet-frequent-flyer",
      49.7,
-     6.4
+     3
     ],
     [
      "bp01-077-pyrin-noct-steed-of-azure-flames",
      48.2,
-     2.1
+     3
     ],
     [
      "bp02-040-water-fountain",
-     50.8,
-     -9.4
+     50.4,
+     -10.2
     ],
     [
      "td02-017-blazehowl-noct-darkflame-defender",
-     45.9,
-     1.9
-    ],
-    [
-     "td02-015-cawgnito-looming-shadow",
-     56,
-     -3.4
+     46.8,
+     0.6
     ],
     [
      "bp01-032-fuack-manic-wave-ripper",
-     54.3,
-     -9.8
+     54.8,
+     -12.2
     ],
     [
-     "td02-014-leezpunk-treasure-bandit",
-     51.2,
-     -4.3
-    ],
-    [
-     "bp02-027-sweepa-record-breaker",
-     46.2,
-     15.3
+     "td02-015-cawgnito-looming-shadow",
+     56.8,
+     -2.6
     ],
     [
      "td01-023-lamball-my-first-pal",
-     54.1,
-     -17.2
+     56.3,
+     -12.9
+    ],
+    [
+     "bp02-027-sweepa-record-breaker",
+     46.1,
+     16.6
+    ],
+    [
+     "td02-014-leezpunk-treasure-bandit",
+     51.9,
+     -5.2
+    ],
+    [
+     "td02-023-cattiva-my-first-pal",
+     57,
+     -2.5
+    ],
+    [
+     "bp02-038-suzaku-aqua-tide-summoner",
+     55.3,
+     -1.8
+    ],
+    [
+     "bp01-029-azurobe-water-dragon-waltz",
+     58,
+     -6
     ],
     [
      "bp02-096-poison-fog",
      50.4,
-     -8.8
-    ],
-    [
-     "bp02-038-suzaku-aqua-tide-summoner",
-     54,
-     -2.2
+     -8.5
     ],
     [
      "bp01-084-menasting-darkness-dwelling-scorpion",
-     43.8,
-     8.6
+     44,
+     8.4
     ],
     [
-     "bp01-029-azurobe-water-dragon-waltz",
-     58.4,
-     -4.5
+     "bp02-073-frostallion-noct-eternal-darkness",
+     41.8,
+     -17.8
     ],
     [
      "bp01-046-victor-s-strategy",
      44,
-     -9.6
-    ],
-    [
-     "td02-023-cattiva-my-first-pal",
-     54.4,
-     -6.8
-    ],
-    [
-     "bp02-073-frostallion-noct-eternal-darkness",
-     41.2,
-     -19.2
-    ],
-    [
-     "td01-021-single-shot-sphere-launcher",
-     48,
-     2.6
+     -7.7
     ],
     [
      "bp02-083-wixen-noct-honeyed-temptation",
-     45.1,
-     -2.7
+     46.6,
+     -2.8
+    ],
+    [
+     "td01-021-single-shot-sphere-launcher",
+     47.8,
+     2.3
+    ],
+    [
+     "bp02-094-zoe-s-gambit",
+     51.6,
+     -7
     ],
     [
      "bp02-045-sweepa-saddle",
-     41.7,
-     6.8
+     41.5,
+     5.4
     ],
     [
      "td02-020-cawgnito-hat",
-     52.9,
-     3.8
+     52.6,
+     4.5
     ],
     [
      "bp01-097-black-marketeer",
@@ -2020,23 +2055,18 @@
     ],
     [
      "bp02-097-jetragon-legendary-guardian-dragon",
-     53.5,
-     -10
-    ],
-    [
-     "bp02-094-zoe-s-gambit",
-     46.6,
-     -14.5
+     55.1,
+     -9.8
     ],
     [
      "bp01-096-dark-cannon",
-     52.6,
-     -11.8
+     52.7,
+     -10.2
     ],
     [
      "bp02-025-frostallion-everlasting-rime",
-     46.8,
-     -13.7
+     45.1,
+     -8.7
     ],
     [
      "bp02-099-eikthyrdeer-warden-of-the-woods",
@@ -2044,58 +2074,58 @@
      -7.4
     ],
     [
+     "td01-013-jolthog-cryst-stoic-yet-innocent",
+     56.6,
+     5.1
+    ],
+    [
      "bp02-035-kelpsea-spirited-splash",
-     57.3,
-     7.2
+     57.1,
+     5
     ],
     [
      "bp02-084-killamari-abyssal-terror",
-     54.5,
-     9.1
+     53.8,
+     7.6
     ],
     [
      "bp01-076-tombat-out-of-nowhere",
-     39.2,
-     -2.7
+     39.7,
+     0.8
     ],
     [
      "bp01-074-shadowbeak-seed-of-despair",
-     42,
-     9.5
-    ],
-    [
-     "td01-013-jolthog-cryst-stoic-yet-innocent",
-     54.1,
-     1.7
-    ],
-    [
-     "bp02-046-victor-s-gambit",
-     42.9,
-     -14.1
+     42.3,
+     9.7
     ],
     [
      "bp01-085-maraith-twilight-messenger",
-     50.9,
-     -37.1
+     50,
+     -31.5
     ],
     [
      "bp01-091-wooden-wall",
-     37.3,
-     -15.5
+     37.9,
+     -15.7
+    ],
+    [
+     "bp02-046-victor-s-gambit",
+     43.3,
+     -12.9
     ],
     [
      "bp01-045-grappling-gun",
-     47.7,
-     2.8
+     45.7,
+     -1
     ]
    ],
    "tier": "B",
-   "wr": "51.5",
+   "wr": "51.8",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "6 Chillet · Relaxaurus Red / Blue 50.7%raw 51.9% 50.1% → 0.1 4.2% ▲▲ 2.2 2,423 2ND +6 $87",
+   "text": "6 Chillet · Relaxaurus Red / Blue 50.8%raw 52.1% 50.3% → 0.2 4.2% ▲▲ 2.2 2,660 2ND +5 $87",
    "slug": "blue-red-chillet-relaxaurus-jormuntide-ignis",
    "list": [
     [
@@ -2166,193 +2196,198 @@
    "usage": [
     [
      "bp01-025-chillet-dragon-whisperer",
-     52,
-     18.5
+     52.1,
+     18.4
     ],
     [
      "td01-004-foxparks-a-toasty-hug",
-     52.4,
-     -4.4
-    ],
-    [
-     "td01-012-elphidran-aqua-gentle-ripples",
-     51.6,
-     -7.6
+     52.6,
+     -5.6
     ],
     [
      "bp01-026-relaxaurus-hungry-gunner",
+     52.1,
+     -7.7
+    ],
+    [
+     "td01-012-elphidran-aqua-gentle-ripples",
      51.8,
-     -8.5
+     -7.5
     ],
     [
      "bp01-098-elphidran-gentle-radiance",
-     52.4,
-     -7.8
+     52.8,
+     -8.5
     ],
     [
      "bp02-004-chillet-ignis-ember-clad-dragon",
-     52.3,
-     -11.4
+     52.7,
+     -10.9
     ],
     [
      "bp02-001-orserk-thunderclap-roar",
-     51.7,
-     -12.3
+     51.9,
+     -12.2
     ],
     [
      "bp02-012-jolthog-10-million-volt-barrier",
-     52.7,
-     -8.7
+     53,
+     -9.9
     ],
     [
      "ss01-002-chillet-finishing-ice-blade",
      52,
-     -8.2
+     -8.9
     ],
     [
      "bp01-001-jormuntide-ignis-savage-lava-dragon",
-     51.7,
-     -0.6
+     52.1,
+     -1.7
     ],
     [
      "ss01-005-quivern-wyvern-s-breath",
-     52.7,
-     -2.9
+     52.8,
+     -3.4
     ],
     [
      "bp01-006-foxparks-light-of-courage",
-     52.3,
-     -0.4
+     52.8,
+     -0.9
     ],
     [
      "bp01-019-foxparks-harness",
-     51.3,
-     -11
+     51.1,
+     -9
     ],
     [
      "bp01-023-axel-s-strategy",
-     51.3,
-     -12.3
-    ],
-    [
-     "td01-016-reindrix-icy-gaze",
-     55.1,
-     -10.6
+     50.9,
+     -11.5
     ],
     [
      "bp02-036-celaray-carefree-wanderer",
-     50.9,
-     -11.1
-    ],
-    [
-     "bp01-020-pump-action-shotgun",
-     52.3,
-     -7.7
-    ],
-    [
-     "bp01-047-pal-sphere",
-     54.4,
-     -5.2
-    ],
-    [
-     "bp02-013-foxparks-breathing-practice",
-     50.8,
-     -10
-    ],
-    [
-     "bp01-048-aurora-guide",
-     52.4,
-     -14.8
-    ],
-    [
-     "bp01-022-stone-pickaxe",
-     47.7,
-     -15.2
-    ],
-    [
-     "bp01-028-pengullet-yearning-for-the-sky",
-     54.3,
+     51.5,
      -9.4
     ],
     [
+     "td01-016-reindrix-icy-gaze",
+     54.8,
+     -12.1
+    ],
+    [
+     "bp01-020-pump-action-shotgun",
+     52,
+     -7.6
+    ],
+    [
+     "bp01-047-pal-sphere",
+     53.6,
+     -2.9
+    ],
+    [
+     "bp01-048-aurora-guide",
+     51.9,
+     -13.1
+    ],
+    [
+     "bp02-013-foxparks-breathing-practice",
+     50.4,
+     -8.6
+    ],
+    [
+     "bp01-022-stone-pickaxe",
+     47,
+     -15.4
+    ],
+    [
+     "bp01-028-pengullet-yearning-for-the-sky",
+     54.8,
+     -10.8
+    ],
+    [
      "td01-010-single-shot-rifle",
-     51,
-     -11.6
+     52.3,
+     -12
     ],
     [
      "bp01-012-flambelle-scorching-tears",
-     52.1,
-     1.8
+     52.3,
+     -0.3
     ],
     [
      "bp02-007-flambelle-feverish-tears",
-     47.7,
-     -6.2
+     48.9,
+     -5.5
     ],
     [
      "bp01-016-primitive-furnace",
-     53.7,
-     4.2
-    ],
-    [
-     "bp01-005-reptyro-ore-gorger",
      52.1,
-     -7.1
+     3.8
     ],
     [
      "bp02-010-relaxaurus-lux-party-time",
-     53.1,
-     -19.3
+     52.7,
+     -16.1
     ],
     [
-     "td02-023-cattiva-my-first-pal",
-     58,
-     -16.7
-    ],
-    [
-     "bp01-038-cryolinx-arctic-ordeal",
-     50.9,
-     -3.7
+     "bp01-005-reptyro-ore-gorger",
+     52.8,
+     -6.5
     ],
     [
      "bp02-006-dazzi-thunder-maiden",
-     54.9,
-     -14.2
+     56.9,
+     -14
+    ],
+    [
+     "td02-023-cattiva-my-first-pal",
+     57.8,
+     -17.9
     ],
     [
      "bp02-016-coal-quarry",
-     46.2,
-     -8.1
-    ],
-    [
-     "bp02-018-rocket-launcher",
-     50.2,
-     -10.3
-    ],
-    [
-     "bp01-032-fuack-manic-wave-ripper",
-     62.4,
-     -3.2
-    ],
-    [
-     "bp01-045-grappling-gun",
-     49.1,
+     47.8,
      -5.9
     ],
     [
-     "bp01-027-jormuntide-surging-sea-serpent",
-     53,
-     4.5
+     "bp01-038-cryolinx-arctic-ordeal",
+     49.4,
+     -1.6
     ],
     [
-     "bp02-002-katress-ignis-scathing-counter",
-     49.7,
-     9.9
+     "bp01-032-fuack-manic-wave-ripper",
+     62.6,
+     -3.8
+    ],
+    [
+     "bp01-027-jormuntide-surging-sea-serpent",
+     56.3,
+     -1.3
+    ],
+    [
+     "bp02-018-rocket-launcher",
+     49.5,
+     -10.6
     ],
     [
      "bp01-046-victor-s-strategy",
-     51.9,
-     -18.6
+     51.4,
+     -19
+    ],
+    [
+     "bp01-045-grappling-gun",
+     48.4,
+     -4.5
+    ],
+    [
+     "bp02-002-katress-ignis-scathing-counter",
+     49.2,
+     9.6
+    ],
+    [
+     "bp01-015-mounted-machine-gun",
+     50.6,
+     -3.8
     ],
     [
      "bp02-025-frostallion-everlasting-rime",
@@ -2360,54 +2395,64 @@
      0.5
     ],
     [
-     "bp01-015-mounted-machine-gun",
-     51.3,
-     -2.7
-    ],
-    [
      "bp02-043-stun-baton",
-     53.6,
-     -17.9
+     52.8,
+     -19.2
     ],
     [
      "bp02-033-pengullet-locked-and-loaded",
-     52,
-     7.9
+     51.3,
+     6.6
     ],
     [
      "td01-008-stone-pit",
-     44.1,
-     -25.5
+     45.1,
+     -23.4
     ],
     [
      "bp02-003-faleris-marcus-soaring-wings",
-     50.8,
-     18.3
-    ],
-    [
-     "bp02-019-flamethrower",
-     50,
-     -8.5
+     49.3,
+     17.5
     ],
     [
      "bp02-005-rayhound-soaring-flash",
-     52.7,
-     -2.6
+     54.2,
+     -8.4
     ],
     [
-     "bp02-038-suzaku-aqua-tide-summoner",
-     47.3,
-     -4.6
+     "bp02-019-flamethrower",
+     48.8,
+     -9.9
     ],
     [
      "bp01-017-flame-cauldron",
-     43.4,
-     -14.1
+     42.7,
+     -12.3
+    ],
+    [
+     "bp02-038-suzaku-aqua-tide-summoner",
+     47.8,
+     -5.4
     ],
     [
      "bp01-044-pengullet-rocket-launcher",
-     44,
-     -19.9
+     43.8,
+     -22.3
+    ],
+    [
+     "bp02-046-victor-s-gambit",
+     49.5,
+     8.7
+    ],
+    [
+     "td01-024-ribbuny-little-princess",
+     52.6,
+     16.2
+    ],
+    [
+     "bp01-029-azurobe-water-dragon-waltz",
+     51.2,
+     -10.3
     ],
     [
      "td01-023-lamball-my-first-pal",
@@ -2420,38 +2465,28 @@
      -1.7
     ],
     [
-     "bp02-046-victor-s-gambit",
-     51.3,
-     16.1
-    ],
-    [
-     "bp01-029-azurobe-water-dragon-waltz",
-     50.7,
-     -10.5
+     "bp01-007-kitsun-wyrmbane-fangs",
+     59.1,
+     13.1
     ],
     [
      "bp02-017-mine",
-     60.7,
-     8.6
+     61.9,
+     7.6
     ],
     [
      "bp01-014-blazehowl-hellflame-defender",
-     44.1,
-     -2.4
-    ],
-    [
-     "bp01-007-kitsun-wyrmbane-fangs",
-     68.5,
-     5.2
+     41.9,
+     -0.4
     ]
    ],
    "tier": "B",
-   "wr": "51.9",
+   "wr": "52.1",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "7 Chillet · Relaxaurus Blue / Green 56.6%raw 56.8% 56.0% ▲▲ 3.7 3.8% → 0.1 2,164 2ND +3 $75",
+   "text": "7 Chillet · Relaxaurus Blue / Green 57.0%raw 57.0% 56.2% ▲▲ 3.8 3.9% → 0.0 2,491 2ND +3 $75",
    "slug": "blue-green-pengullet-rocket-launcher-chillet",
    "list": [
     [
@@ -2510,193 +2545,193 @@
    "usage": [
     [
      "td02-004-dinossom-radiant-fragrance",
-     56.9,
-     -5.9
-    ],
-    [
-     "td01-012-elphidran-aqua-gentle-ripples",
-     57.6,
-     -11.1
+     57.1,
+     -6.3
     ],
     [
      "bp01-025-chillet-dragon-whisperer",
-     56.9,
-     8.3
+     57.1,
+     8.1
+    ],
+    [
+     "td01-012-elphidran-aqua-gentle-ripples",
+     57.7,
+     -10.6
     ],
     [
      "bp01-026-relaxaurus-hungry-gunner",
-     56.7,
-     -8.8
+     56.9,
+     -7.7
     ],
     [
      "bp01-028-pengullet-yearning-for-the-sky",
-     56.5,
-     -4.8
+     56.8,
+     -4.5
     ],
     [
      "bp02-036-celaray-carefree-wanderer",
-     57.5,
-     -11.1
+     57.7,
+     -9.6
     ],
     [
      "bp01-098-elphidran-gentle-radiance",
-     57.4,
-     -7.1
-    ],
-    [
-     "bp01-052-rushoar-reckless-destruction",
-     59,
-     -5.6
-    ],
-    [
-     "ss01-002-chillet-finishing-ice-blade",
-     57.6,
-     -12.2
-    ],
-    [
-     "bp01-049-lyleen-blessing-of-the-goddess",
-     58.4,
-     -2.7
-    ],
-    [
-     "bp02-033-pengullet-locked-and-loaded",
-     59.9,
-     -11.3
-    ],
-    [
-     "bp01-044-pengullet-rocket-launcher",
-     53.3,
-     -7.6
-    ],
-    [
-     "bp01-070-lily-s-strategy",
-     56.3,
-     -13.7
-    ],
-    [
-     "td01-014-pengullet-frequent-flyer",
-     52.5,
-     0.9
-    ],
-    [
-     "bp02-052-fuddler-claw-honing-mole",
-     59.2,
+     57.7,
      -7.8
     ],
     [
-     "bp02-072-seed-machine-gun",
+     "bp01-052-rushoar-reckless-destruction",
      59.1,
-     -8.9
+     -4.1
+    ],
+    [
+     "ss01-002-chillet-finishing-ice-blade",
+     57.9,
+     -11.4
+    ],
+    [
+     "bp01-049-lyleen-blessing-of-the-goddess",
+     58.6,
+     -2.3
+    ],
+    [
+     "bp02-033-pengullet-locked-and-loaded",
+     60,
+     -11.8
+    ],
+    [
+     "bp01-044-pengullet-rocket-launcher",
+     53.4,
+     -8.8
+    ],
+    [
+     "bp01-070-lily-s-strategy",
+     56.4,
+     -12.4
+    ],
+    [
+     "bp02-052-fuddler-claw-honing-mole",
+     58.6,
+     -10.7
+    ],
+    [
+     "td01-014-pengullet-frequent-flyer",
+     52.8,
+     -0.3
+    ],
+    [
+     "bp02-072-seed-machine-gun",
+     60.5,
+     -7.2
     ],
     [
      "bp01-046-victor-s-strategy",
-     57.5,
-     -16.7
+     57.2,
+     -15.6
     ],
     [
      "ss01-005-quivern-wyvern-s-breath",
-     57.2,
-     -12.6
-    ],
-    [
-     "bp02-054-quivern-botan-meadow-s-grace",
-     51.8,
-     -8.3
-    ],
-    [
-     "td01-016-reindrix-icy-gaze",
-     51.6,
-     -9.1
+     58.9,
+     -7.5
     ],
     [
      "bp01-029-azurobe-water-dragon-waltz",
-     61.9,
-     -9.3
+     60.4,
+     -11.6
+    ],
+    [
+     "bp02-054-quivern-botan-meadow-s-grace",
+     51.3,
+     -7.3
+    ],
+    [
+     "td01-016-reindrix-icy-gaze",
+     52.2,
+     -9.6
     ],
     [
      "bp01-032-fuack-manic-wave-ripper",
-     60.1,
-     1.9
+     60.7,
+     -1.7
     ],
     [
      "bp01-038-cryolinx-arctic-ordeal",
-     51.3,
+     52.3,
      4.9
     ],
     [
+     "bp02-061-surfent-terra-conqueror-of-the-sands",
+     52.9,
+     -11
+    ],
+    [
      "td01-013-jolthog-cryst-stoic-yet-innocent",
-     57.7,
-     -9.3
+     59,
+     -9
     ],
     [
      "bp02-040-water-fountain",
-     52.6,
-     4.2
+     52.2,
+     5.7
     ],
     [
      "bp01-051-petallia-sweet-blessings",
-     54.3,
-     -9.8
+     54.8,
+     -10.5
     ],
     [
      "bp01-047-pal-sphere",
-     47.4,
-     -0.2
-    ],
-    [
-     "bp02-061-surfent-terra-conqueror-of-the-sands",
-     50.4,
-     -8.7
+     47.6,
+     -1.1
     ],
     [
      "bp01-048-aurora-guide",
-     50.2,
-     -14
-    ],
-    [
-     "bp01-027-jormuntide-surging-sea-serpent",
-     52.7,
-     -9.8
+     49.1,
+     -13.9
     ],
     [
      "bp02-099-eikthyrdeer-warden-of-the-woods",
-     55.6,
-     -16.4
+     56.2,
+     -13.6
+    ],
+    [
+     "bp01-027-jormuntide-surging-sea-serpent",
+     52.4,
+     -9
     ],
     [
      "bp02-025-frostallion-everlasting-rime",
-     53.7,
-     -0.8
+     54.4,
+     -3
     ],
     [
      "td02-023-cattiva-my-first-pal",
-     58.1,
-     -1.2
+     57.8,
+     -3
     ],
     [
      "bp02-048-iceberg",
-     59.7,
-     -13.2
-    ],
-    [
-     "td01-021-single-shot-sphere-launcher",
-     56.9,
-     -10.3
-    ],
-    [
-     "td01-023-lamball-my-first-pal",
-     63.7,
-     0.1
+     58.6,
+     -10.7
     ],
     [
      "bp02-062-dazemu-stride-of-oblivion",
-     48.5,
-     -5.5
+     50.4,
+     4.3
+    ],
+    [
+     "td01-021-single-shot-sphere-launcher",
+     56.1,
+     -9.8
+    ],
+    [
+     "td01-023-lamball-my-first-pal",
+     63.1,
+     -0.8
     ],
     [
      "bp02-038-suzaku-aqua-tide-summoner",
-     48.2,
-     21.3
+     47.6,
+     22.2
     ],
     [
      "bp01-071-found-an-egg",
@@ -2704,29 +2739,29 @@
      35.5
     ],
     [
+     "bp02-035-kelpsea-spirited-splash",
+     57.5,
+     1
+    ],
+    [
+     "bp01-042-antique-mirror",
+     54.2,
+     6.3
+    ],
+    [
      "bp01-062-wumpo-botan-tropical-sentinel",
      50,
      -27.2
     ],
     [
-     "bp01-042-antique-mirror",
-     56.5,
-     10
-    ],
-    [
-     "bp02-035-kelpsea-spirited-splash",
-     56.5,
-     4.4
+     "bp02-071-lily-s-gambit",
+     41.7,
+     -35
     ],
     [
      "bp02-046-victor-s-gambit",
      33.9,
      14.7
-    ],
-    [
-     "bp02-071-lily-s-gambit",
-     40.7,
-     -36.8
     ],
     [
      "bp02-050-mammorest-gaia-crusher",
@@ -2735,8 +2770,8 @@
     ],
     [
      "bp02-097-jetragon-legendary-guardian-dragon",
-     45.6,
-     -8.9
+     44.8,
+     -10.2
     ],
     [
      "bp01-039-antique-curtain",
@@ -2745,12 +2780,12 @@
     ]
    ],
    "tier": "S",
-   "wr": "56.8",
+   "wr": "57.0",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "8 Reindrix · Cryolinx Blue / Green 54.0%raw 55.1% 53.6% ▲ 0.5 2.7% ▼▼ 3.3 1,546 2ND +3 $80",
+   "text": "8 Reindrix · Cryolinx Blue / Green 54.8%raw 55.7% 54.4% ▲ 0.7 2.9% ▼▼ 3.0 1,820 2ND +2 $80",
    "slug": "blue-green-lamball-cattiva",
    "list": [
     [
@@ -2825,272 +2860,282 @@
    "usage": [
     [
      "td02-004-dinossom-radiant-fragrance",
-     55.1,
-     -10
+     55.6,
+     -8.2
     ],
     [
      "bp01-028-pengullet-yearning-for-the-sky",
-     56.7,
+     57,
      -2.6
     ],
     [
      "bp01-049-lyleen-blessing-of-the-goddess",
-     58.8,
-     3.3
+     58.9,
+     3.2
     ],
     [
      "bp01-026-relaxaurus-hungry-gunner",
-     54.7,
-     -5.1
-    ],
-    [
-     "bp01-025-chillet-dragon-whisperer",
-     57.1,
-     0
-    ],
-    [
-     "td01-012-elphidran-aqua-gentle-ripples",
-     57.5,
-     -13.7
+     55.1,
+     -4.9
     ],
     [
      "td01-023-lamball-my-first-pal",
      59.4,
-     -7.1
+     -5.7
+    ],
+    [
+     "bp01-025-chillet-dragon-whisperer",
+     57.2,
+     0.3
+    ],
+    [
+     "td01-012-elphidran-aqua-gentle-ripples",
+     57.6,
+     -13.4
     ],
     [
      "bp01-032-fuack-manic-wave-ripper",
      59.5,
-     -9.8
-    ],
-    [
-     "bp01-098-elphidran-gentle-radiance",
-     58.3,
-     -7.1
-    ],
-    [
-     "ss01-002-chillet-finishing-ice-blade",
-     53.2,
-     -14.3
-    ],
-    [
-     "td01-016-reindrix-icy-gaze",
-     52.8,
-     -15.8
+     -8.5
     ],
     [
      "td02-023-cattiva-my-first-pal",
      59,
-     -7.7
+     -7.8
     ],
     [
-     "bp01-038-cryolinx-arctic-ordeal",
-     55,
-     1.3
+     "bp01-098-elphidran-gentle-radiance",
+     58.3,
+     -4.9
     ],
     [
      "bp01-052-rushoar-reckless-destruction",
-     59.4,
+     59.5,
      -8.8
     ],
     [
+     "ss01-002-chillet-finishing-ice-blade",
+     53.4,
+     -15.2
+    ],
+    [
+     "td01-016-reindrix-icy-gaze",
+     52.7,
+     -14.8
+    ],
+    [
+     "bp01-038-cryolinx-arctic-ordeal",
+     55.1,
+     2.3
+    ],
+    [
      "bp02-036-celaray-carefree-wanderer",
-     54.7,
-     -12.2
+     55.8,
+     -8.6
     ],
     [
      "bp01-046-victor-s-strategy",
-     57.4,
-     -12.6
+     57,
+     -13.1
     ],
     [
      "bp01-051-petallia-sweet-blessings",
-     59.4,
-     -15.5
-    ],
-    [
-     "bp01-070-lily-s-strategy",
-     49.1,
-     -5.9
-    ],
-    [
-     "ss01-005-quivern-wyvern-s-breath",
-     52.8,
-     -6.5
+     59.3,
+     -13.5
     ],
     [
      "bp02-033-pengullet-locked-and-loaded",
-     58.5,
-     -4.3
+     58.2,
+     -4.2
     ],
     [
      "bp01-029-azurobe-water-dragon-waltz",
      59.5,
-     -10.9
+     -9.5
     ],
     [
-     "bp01-062-wumpo-botan-tropical-sentinel",
-     47.5,
-     -11.8
+     "bp01-070-lily-s-strategy",
+     50.1,
+     -6.1
     ],
     [
-     "bp02-038-suzaku-aqua-tide-summoner",
-     48.4,
-     -13.3
+     "ss01-005-quivern-wyvern-s-breath",
+     53.6,
+     -8
     ],
     [
      "bp01-058-gumoss-curious-sprout",
-     58.9,
-     -18.3
+     59.5,
+     -17.3
     ],
     [
-     "td01-013-jolthog-cryst-stoic-yet-innocent",
-     58.1,
-     -10.4
+     "bp01-062-wumpo-botan-tropical-sentinel",
+     47.6,
+     -11.2
+    ],
+    [
+     "bp02-038-suzaku-aqua-tide-summoner",
+     49,
+     -12.5
     ],
     [
      "bp02-061-surfent-terra-conqueror-of-the-sands",
-     56.5,
-     -1.3
+     57.4,
+     -5.2
+    ],
+    [
+     "td01-013-jolthog-cryst-stoic-yet-innocent",
+     58.4,
+     -11.3
     ],
     [
      "ss01-004-cattiva-full-of-confidence",
-     58.9,
-     -5.3
+     58.5,
+     -3.7
     ],
     [
      "bp02-052-fuddler-claw-honing-mole",
-     58.6,
-     -16.1
+     58.7,
+     -17.2
     ],
     [
      "bp02-054-quivern-botan-meadow-s-grace",
-     38.1,
-     5.8
+     40.3,
+     10.5
     ],
     [
      "bp02-040-water-fountain",
-     34.7,
-     -14.7
+     35.9,
+     -13.9
     ],
     [
      "bp01-047-pal-sphere",
-     48.5,
-     0
+     48.6,
+     -1.2
     ],
     [
      "bp01-044-pengullet-rocket-launcher",
-     37,
-     -4.4
+     38.5,
+     -6.2
+    ],
+    [
+     "td01-015-hangyu-cryst-frigid-wanderer",
+     59,
+     -9.6
     ],
     [
      "td01-014-pengullet-frequent-flyer",
-     34.2,
-     15.6
+     35.7,
+     17
     ],
     [
      "bp01-054-warsect-iron-fortress",
-     29.4,
-     7.7
+     30,
+     7.9
     ],
     [
      "bp01-027-jormuntide-surging-sea-serpent",
      31,
-     -11.1
+     -8.4
     ],
     [
      "bp02-025-frostallion-everlasting-rime",
-     52.8,
-     -2.7
-    ],
-    [
-     "bp02-046-victor-s-gambit",
-     25.8,
-     -12.6
+     52.7,
+     -4.1
     ],
     [
      "bp02-066-pioneer-ranch",
-     29,
-     4.1
+     30.5,
+     5.4
+    ],
+    [
+     "bp02-046-victor-s-gambit",
+     26.8,
+     -14.1
     ],
     [
      "bp02-056-lifmunk-hidden-power",
-     51.2,
-     9.9
-    ],
-    [
-     "bp02-097-jetragon-legendary-guardian-dragon",
-     26.7,
-     -3.4
-    ],
-    [
-     "bp01-042-antique-mirror",
-     46.4,
-     18.5
-    ],
-    [
-     "bp01-048-aurora-guide",
-     48.6,
-     -10.8
-    ],
-    [
-     "bp01-071-found-an-egg",
-     47.1,
-     -9.4
-    ],
-    [
-     "bp02-069-refined-metal-axe",
-     24.5,
-     1.3
-    ],
-    [
-     "bp02-071-lily-s-gambit",
-     52.7,
-     -20
-    ],
-    [
-     "bp01-030-reptyro-cryst-glacial-devourer",
-     23.8,
-     6.6
-    ],
-    [
-     "bp01-039-antique-curtain",
-     50,
-     -9.9
-    ],
-    [
-     "bp02-099-eikthyrdeer-warden-of-the-woods",
-     59.3,
-     13
-    ],
-    [
-     "td01-015-hangyu-cryst-frigid-wanderer",
-     61.3,
-     -14.9
+     51.6,
+     8.2
     ],
     [
      "bp02-062-dazemu-stride-of-oblivion",
-     62.9,
-     -18.7
+     61,
+     5.5
+    ],
+    [
+     "bp01-071-found-an-egg",
+     45.5,
+     -6.2
+    ],
+    [
+     "bp02-097-jetragon-legendary-guardian-dragon",
+     27.5,
+     -3.3
+    ],
+    [
+     "bp01-042-antique-mirror",
+     47.9,
+     13.6
+    ],
+    [
+     "bp01-048-aurora-guide",
+     49.6,
+     -10.6
+    ],
+    [
+     "bp02-069-refined-metal-axe",
+     25.2,
+     4.7
+    ],
+    [
+     "bp02-071-lily-s-gambit",
+     53.7,
+     -17.9
+    ],
+    [
+     "bp01-030-reptyro-cryst-glacial-devourer",
+     25,
+     10
+    ],
+    [
+     "bp01-039-antique-curtain",
+     50.6,
+     -11.3
+    ],
+    [
+     "bp02-099-eikthyrdeer-warden-of-the-woods",
+     57.6,
+     10.7
     ],
     [
      "bp02-072-seed-machine-gun",
-     56.7,
-     -13
+     56.2,
+     -8.8
+    ],
+    [
+     "bp02-060-hangyu-heaven-s-grip",
+     62.1,
+     11.7
     ],
     [
      "bp02-049-anubis-noble-reaper",
-     45.3,
-     -42.4
+     44.8,
+     -36.8
+    ],
+    [
+     "bp02-035-kelpsea-spirited-splash",
+     60.5,
+     0
     ]
    ],
    "tier": "A",
-   "wr": "55.1",
+   "wr": "55.7",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "9 Frostallion · Foxcicle Blue / Purple 37.7%raw 42.1% 36.9% ▼▼ 1.6 2.7% ▲ 1.2 1,517 2ND +2 $63",
+   "text": "9 Frostallion · Foxcicle Blue / Purple 38.0%raw 42.2% 37.2% ▼▼ 1.6 2.7% ▲ 1.2 1,688 2ND +1 $63",
    "slug": "blue-purple-frostallion-foxcicle",
    "list": [
     [
@@ -3157,277 +3202,292 @@
    "usage": [
     [
      "bp02-025-frostallion-everlasting-rime",
-     43.2,
-     6.6
+     43.5,
+     5.4
     ],
     [
      "bp02-073-frostallion-noct-eternal-darkness",
-     42.5,
-     12.3
+     42.3,
+     11.7
     ],
     [
      "bp01-028-pengullet-yearning-for-the-sky",
-     43.2,
-     13.5
+     43.1,
+     12.6
     ],
     [
      "bp01-095-zoe-s-strategy",
-     41.6,
-     1.3
+     41.8,
+     1.4
     ],
     [
      "bp02-033-pengullet-locked-and-loaded",
      42.6,
-     4.4
+     4.8
     ],
     [
      "td02-021-strike-from-the-darkness",
-     41.9,
-     -1.1
+     41.7,
+     -1.3
     ],
     [
      "bp02-026-foxcicle-aurora-hymn",
-     43.3,
-     4.9
+     43.5,
+     4.5
     ],
     [
      "bp02-097-jetragon-legendary-guardian-dragon",
-     43.7,
-     3.4
+     44.1,
+     1.6
     ],
     [
      "bp02-083-wixen-noct-honeyed-temptation",
-     44.6,
-     2.6
+     44.8,
+     0.9
     ],
     [
      "bp02-038-suzaku-aqua-tide-summoner",
-     44.7,
-     3.7
+     45.2,
+     2.4
     ],
     [
      "bp01-044-pengullet-rocket-launcher",
-     42.9,
-     0.7
+     42.5,
+     -0.5
     ],
     [
      "bp02-075-tombat-resonance-of-shadows",
      44.6,
-     5.4
+     7.1
     ],
     [
      "bp01-077-pyrin-noct-steed-of-azure-flames",
      43.8,
-     2.8
+     1.9
     ],
     [
      "bp02-036-celaray-carefree-wanderer",
-     42.2,
-     -1.8
+     41.7,
+     -6.6
     ],
     [
      "bp02-100-awakening-of-legends",
-     41.4,
-     -13.1
+     41.8,
+     -12.5
     ],
     [
      "bp01-047-pal-sphere",
      40.9,
-     -3
-    ],
-    [
-     "bp02-029-jolthog-cryst-midwinter-awakening",
-     39.9,
-     -7.2
+     0.1
     ],
     [
      "td01-014-pengullet-frequent-flyer",
-     43.3,
-     -7.2
+     42.9,
+     -5.5
+    ],
+    [
+     "bp02-029-jolthog-cryst-midwinter-awakening",
+     40.6,
+     -5.8
     ],
     [
      "bp02-092-frostallion-noct-saddle",
-     42.4,
-     0.5
-    ],
-    [
-     "bp02-044-frostallion-saddle",
-     43.5,
-     -4.2
-    ],
-    [
-     "td02-014-leezpunk-treasure-bandit",
-     40.2,
+     42.2,
      0.3
     ],
     [
-     "bp02-085-bushi-noct-blade-of-regret",
-     41.5,
-     1.6
+     "bp02-044-frostallion-saddle",
+     43.8,
+     -4.4
+    ],
+    [
+     "td02-014-leezpunk-treasure-bandit",
+     39.8,
+     0
     ],
     [
      "td01-016-reindrix-icy-gaze",
      37.6,
-     -1.3
+     0.9
+    ],
+    [
+     "bp02-085-bushi-noct-blade-of-regret",
+     40,
+     4.1
     ],
     [
      "bp02-046-victor-s-gambit",
-     39.6,
-     1.6
+     39,
+     0.9
     ],
     [
      "bp02-079-nox-one-way-ticket",
-     41.1,
-     10.6
+     41.6,
+     9.7
     ],
     [
      "bp02-040-water-fountain",
-     40,
-     -11.6
+     41.1,
+     -12
     ],
     [
      "bp01-038-cryolinx-arctic-ordeal",
-     35.8,
-     9.6
+     36,
+     10
     ],
     [
      "td02-022-medical-supplies",
-     38.7,
-     4.4
+     39.8,
+     4.5
     ],
     [
      "bp02-094-zoe-s-gambit",
-     44.6,
-     5.7
-    ],
-    [
-     "bp01-076-tombat-out-of-nowhere",
-     43,
-     2.7
-    ],
-    [
-     "bp02-093-poison-arrow-crossbow",
-     42.2,
-     -12.3
-    ],
-    [
-     "td01-012-elphidran-aqua-gentle-ripples",
-     47.6,
-     3.3
+     43.5,
+     5.4
     ],
     [
      "bp01-032-fuack-manic-wave-ripper",
-     45.1,
-     2.5
+     46.1,
+     4.3
+    ],
+    [
+     "bp01-076-tombat-out-of-nowhere",
+     41.9,
+     0.3
+    ],
+    [
+     "td01-012-elphidran-aqua-gentle-ripples",
+     46.5,
+     9.6
     ],
     [
      "bp02-041-high-quality-hot-spring",
-     36,
-     -6.8
+     35,
+     -5.1
     ],
     [
-     "td02-017-blazehowl-noct-darkflame-defender",
-     36.9,
-     11
+     "bp02-093-poison-arrow-crossbow",
+     42.1,
+     -12.8
     ],
     [
      "bp01-031-penking-mighty-warrior-of-the-deep",
-     36.3,
-     -10.3
+     37.8,
+     -4
+    ],
+    [
+     "td02-017-blazehowl-noct-darkflame-defender",
+     36.8,
+     7.2
     ],
     [
      "bp02-027-sweepa-record-breaker",
-     38,
-     4.6
+     40.3,
+     11.9
     ],
     [
      "bp02-099-eikthyrdeer-warden-of-the-woods",
-     41.4,
-     11.6
+     40.7,
+     10.4
     ],
     [
      "ss01-005-quivern-wyvern-s-breath",
-     41.4,
-     8.1
-    ],
-    [
-     "bp01-090-medieval-medicine-workbench",
-     34.7,
-     6.5
+     40.6,
+     5.3
     ],
     [
      "bp01-026-relaxaurus-hungry-gunner",
-     45.9,
-     -2.8
+     48.2,
+     -11.2
+    ],
+    [
+     "bp01-090-medieval-medicine-workbench",
+     33.3,
+     4.1
     ],
     [
      "bp01-074-shadowbeak-seed-of-despair",
-     37.4,
-     2.7
+     36,
+     10.8
     ],
     [
      "bp01-089-shoddy-bed",
-     40.4,
-     -13.7
+     41.3,
+     -17
     ],
     [
      "ss01-003-depresso-serious-at-midnight",
-     41.2,
-     6.4
-    ],
-    [
-     "bp02-096-poison-fog",
-     37.5,
-     -8.8
-    ],
-    [
-     "bp01-080-daedream-first-slumber",
-     41.1,
-     -4.2
-    ],
-    [
-     "bp01-043-sphere-workbench",
-     43.8,
-     -10
+     42.1,
+     4.9
     ],
     [
      "td02-023-cattiva-my-first-pal",
-     45.8,
-     13.4
+     47.6,
+     12.8
     ],
     [
-     "bp01-036-celaray-loop-de-loop",
-     45.1,
-     -9.3
+     "bp01-080-daedream-first-slumber",
+     42,
+     -5.3
+    ],
+    [
+     "bp02-096-poison-fog",
+     36.7,
+     -8
+    ],
+    [
+     "bp01-043-sphere-workbench",
+     44.7,
+     -14.2
     ],
     [
      "bp01-078-lyleen-noct-providence-of-the-goddess",
-     40.2,
-     -15.1
+     39.6,
+     -8.3
     ],
     [
-     "bp01-046-victor-s-strategy",
-     45.5,
-     -7.9
+     "bp01-036-celaray-loop-de-loop",
+     47.1,
+     -6.3
+    ],
+    [
+     "bp01-091-wooden-wall",
+     46.8,
+     -16.3
     ],
     [
      "bp01-084-menasting-darkness-dwelling-scorpion",
-     41.4,
-     6.3
+     38.2,
+     4
+    ],
+    [
+     "bp01-046-victor-s-strategy",
+     44.9,
+     -5.8
     ],
     [
      "bp01-096-dark-cannon",
-     44.9,
-     -8.6
+     42.1,
+     -8.7
+    ],
+    [
+     "bp01-097-black-marketeer",
+     39.6,
+     10
+    ],
+    [
+     "bp01-029-azurobe-water-dragon-waltz",
+     48,
+     -3.6
     ]
    ],
    "tier": "D",
-   "wr": "42.1",
+   "wr": "42.2",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "10 Pengullet · Sweepa Blue / Green 45.6%raw 47.8% 46.4% ▼ 1.1 1.8% ▲ 1.0 1,025 1ST +9 —",
+   "text": "10 Pengullet · Sweepa Blue / Green 47.0%raw 48.7% 47.7% ▼▼ 1.9 1.9% ▲ 1.0 1,225 1ST +8 —",
    "slug": "blue-green-pengullet-sweepa",
    "list": [
     [
@@ -3489,169 +3549,179 @@
    ],
    "usage": [
     [
-     "bp02-036-celaray-carefree-wanderer",
-     50.4,
-     -7
+     "bp01-028-pengullet-yearning-for-the-sky",
+     49.9,
+     -0.3
     ],
     [
-     "bp01-028-pengullet-yearning-for-the-sky",
-     48.9,
-     0.2
+     "bp02-036-celaray-carefree-wanderer",
+     50.4,
+     -6.2
     ],
     [
      "bp02-033-pengullet-locked-and-loaded",
-     49.3,
-     4.7
+     50.5,
+     3.6
     ],
     [
      "bp02-034-swee-hibernating-together",
-     45.8,
-     -14.9
-    ],
-    [
-     "bp02-027-sweepa-record-breaker",
-     46,
-     9
-    ],
-    [
-     "bp01-047-pal-sphere",
-     48.3,
-     -6
-    ],
-    [
-     "bp01-052-rushoar-reckless-destruction",
-     50.9,
-     -4.4
-    ],
-    [
-     "bp02-040-water-fountain",
-     46.4,
+     47,
      -5.7
     ],
     [
+     "bp02-027-sweepa-record-breaker",
+     47.1,
+     12.5
+    ],
+    [
+     "bp01-047-pal-sphere",
+     49.6,
+     -5.9
+    ],
+    [
+     "bp01-052-rushoar-reckless-destruction",
+     52,
+     -4.1
+    ],
+    [
+     "bp02-040-water-fountain",
+     48.1,
+     -8.2
+    ],
+    [
      "bp01-032-fuack-manic-wave-ripper",
-     50.7,
-     -9.4
+     51.3,
+     -5.7
     ],
     [
      "bp01-049-lyleen-blessing-of-the-goddess",
-     46.4,
-     1.3
+     48.3,
+     2.6
     ],
     [
      "td02-004-dinossom-radiant-fragrance",
-     52.9,
-     -10.7
+     52.3,
+     -10.2
     ],
     [
      "bp02-045-sweepa-saddle",
-     43.9,
-     -6.3
+     44.8,
+     -7.1
     ],
     [
      "bp01-044-pengullet-rocket-launcher",
-     45.5,
-     1.2
+     46.3,
+     0.8
     ],
     [
      "bp02-049-anubis-noble-reaper",
-     47.9,
-     -2.8
+     48.4,
+     -2.1
     ],
     [
      "td01-016-reindrix-icy-gaze",
-     42.6,
-     -9.6
-    ],
-    [
-     "td01-014-pengullet-frequent-flyer",
-     48.7,
-     -1.4
+     45,
+     -10.1
     ],
     [
      "bp01-070-lily-s-strategy",
-     43.9,
-     10.3
+     44.7,
+     3.4
+    ],
+    [
+     "td01-014-pengullet-frequent-flyer",
+     49.1,
+     -1.6
     ],
     [
      "td01-023-lamball-my-first-pal",
-     57.7,
-     -3.5
+     57.5,
+     -2.7
     ],
     [
      "bp02-025-frostallion-everlasting-rime",
-     48,
-     5.2
+     48.3,
+     2.8
     ],
     [
      "bp02-052-fuddler-claw-honing-mole",
-     46.5,
-     -9
+     47.2,
+     -5.8
     ],
     [
      "bp02-072-seed-machine-gun",
-     49.4,
-     -19.8
+     49.1,
+     -18.7
     ],
     [
      "bp01-029-azurobe-water-dragon-waltz",
-     59.3,
-     -16
+     58.6,
+     -13.9
     ],
     [
      "bp01-038-cryolinx-arctic-ordeal",
-     44.2,
-     9.5
-    ],
-    [
-     "bp01-051-petallia-sweet-blessings",
-     49.3,
-     -3.7
+     44.3,
+     5
     ],
     [
      "td02-023-cattiva-my-first-pal",
-     56.8,
-     -26.3
+     57.3,
+     -16.8
     ],
     [
-     "bp02-061-surfent-terra-conqueror-of-the-sands",
-     46.7,
-     -27
+     "bp01-051-petallia-sweet-blessings",
+     50.2,
+     -4.3
     ],
     [
      "td01-013-jolthog-cryst-stoic-yet-innocent",
-     56.9,
-     -11.7
-    ],
-    [
-     "bp01-046-victor-s-strategy",
-     46.6,
-     -11.3
+     56.4,
+     -6.6
     ],
     [
      "bp02-035-kelpsea-spirited-splash",
-     58.8,
-     0.6
-    ],
-    [
-     "bp02-066-pioneer-ranch",
-     44.4,
-     3.1
+     58.5,
+     0.5
     ],
     [
      "bp02-071-lily-s-gambit",
-     36.3,
-     -17
+     40.3,
+     -14.8
     ],
     [
-     "td01-012-elphidran-aqua-gentle-ripples",
-     44.9,
-     -12.2
+     "bp02-061-surfent-terra-conqueror-of-the-sands",
+     46.9,
+     -26.9
+    ],
+    [
+     "bp01-046-victor-s-strategy",
+     46.5,
+     -11.3
+    ],
+    [
+     "bp02-066-pioneer-ranch",
+     43,
+     1.3
     ],
     [
      "bp02-062-dazemu-stride-of-oblivion",
-     32.7,
-     0.5
+     42,
+     -6.8
+    ],
+    [
+     "td01-012-elphidran-aqua-gentle-ripples",
+     44.5,
+     -12.6
+    ],
+    [
+     "td01-015-hangyu-cryst-frigid-wanderer",
+     56.1,
+     -2
+    ],
+    [
+     "ss01-005-quivern-wyvern-s-breath",
+     50,
+     13.3
     ],
     [
      "td01-024-ribbuny-little-princess",
@@ -3659,9 +3729,14 @@
      -35.5
     ],
     [
-     "td01-015-hangyu-cryst-frigid-wanderer",
-     55.4,
-     -1.6
+     "bp02-099-eikthyrdeer-warden-of-the-woods",
+     46.7,
+     -10.6
+    ],
+    [
+     "bp01-026-relaxaurus-hungry-gunner",
+     51.5,
+     -8.2
     ],
     [
      "bp02-047-love-overload",
@@ -3670,12 +3745,12 @@
     ]
    ],
    "tier": "C",
-   "wr": "47.8",
+   "wr": "48.7",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "11 Pump-Action Shotgun · Menasting Red / Purple 43.6%raw 47.0% 43.6% ▼▼ 3.3 1.8% ▲ 0.4 1,010 2ND +4 $59",
+   "text": "11 Pump-Action Shotgun · Menasting Red / Purple 43.7%raw 47.1% 43.7% ▼▼ 2.6 1.6% → 0.0 1,045 2ND +4 $59",
    "slug": "purple-red-pump-action-shotgun-menasting",
    "list": [
     [
@@ -3750,133 +3825,133 @@
    "usage": [
     [
      "bp01-015-mounted-machine-gun",
-     48.1,
-     16.6
+     48.2,
+     17.1
     ],
     [
      "bp01-095-zoe-s-strategy",
      48.2,
-     4.2
+     4.3
     ],
     [
      "bp01-016-primitive-furnace",
-     47.3,
-     11.8
+     47.4,
+     12.1
     ],
     [
      "td01-008-stone-pit",
-     49.1,
-     11.3
+     49.3,
+     11.6
     ],
     [
      "td01-004-foxparks-a-toasty-hug",
-     48,
-     11.4
+     48.1,
+     11.7
     ],
     [
      "bp02-077-shroomer-noct-spores-of-the-void",
-     47.9,
-     17.9
+     48,
+     18.1
     ],
     [
      "bp02-012-jolthog-10-million-volt-barrier",
      49.2,
-     11.2
+     11.1
     ],
     [
      "bp02-001-orserk-thunderclap-roar",
-     47,
-     6
+     46.8,
+     5
     ],
     [
      "td02-014-leezpunk-treasure-bandit",
-     49,
+     49.2,
      10.5
     ],
     [
      "bp01-020-pump-action-shotgun",
      48.1,
-     4.8
+     4.3
     ],
     [
      "bp02-007-flambelle-feverish-tears",
-     50.8,
-     7.3
+     50.9,
+     7.4
     ],
     [
      "bp01-084-menasting-darkness-dwelling-scorpion",
-     47.2,
-     5.1
+     47.8,
+     5.4
     ],
     [
      "bp02-002-katress-ignis-scathing-counter",
-     49.9,
-     13.4
-    ],
-    [
-     "bp01-074-shadowbeak-seed-of-despair",
-     48.8,
-     8.3
+     50.1,
+     14.7
     ],
     [
      "td01-023-lamball-my-first-pal",
-     48.4,
-     4.2
+     48.5,
+     5.4
     ],
     [
-     "bp02-016-coal-quarry",
-     49.6,
-     5
+     "bp01-074-shadowbeak-seed-of-despair",
+     49.4,
+     8.1
     ],
     [
      "bp02-073-frostallion-noct-eternal-darkness",
-     45.9,
-     1.3
+     45.6,
+     -0.5
+    ],
+    [
+     "bp02-016-coal-quarry",
+     49.5,
+     4.7
     ],
     [
      "td01-024-ribbuny-little-princess",
-     51.3,
-     1.1
+     51.6,
+     0.6
     ],
     [
      "td02-017-blazehowl-noct-darkflame-defender",
-     42.6,
-     9.9
+     43.6,
+     11.4
     ],
     [
      "td02-023-cattiva-my-first-pal",
-     50.4,
-     -8.1
+     50,
+     -5.6
     ],
     [
      "td02-021-strike-from-the-darkness",
-     40,
-     0.9
+     41.3,
+     1.5
+    ],
+    [
+     "bp01-012-flambelle-scorching-tears",
+     52.6,
+     3.6
     ],
     [
      "bp01-078-lyleen-noct-providence-of-the-goddess",
      48.5,
-     17
-    ],
-    [
-     "bp01-012-flambelle-scorching-tears",
-     52.3,
-     1.8
+     16.6
     ],
     [
      "bp02-085-bushi-noct-blade-of-regret",
-     44.7,
-     16.5
+     44.5,
+     12.7
     ],
     [
      "bp02-015-improved-furnace",
-     40.9,
-     1
+     42.9,
+     4
     ],
     [
      "bp01-011-rooby-brave-sparks",
-     47.5,
-     25.3
+     48.4,
+     21.1
     ],
     [
      "ss01-005-quivern-wyvern-s-breath",
@@ -3885,58 +3960,58 @@
     ],
     [
      "bp02-006-mossanda-lux-apex-grenadier",
-     48.2,
-     8.8
-    ],
-    [
-     "bp02-099-eikthyrdeer-warden-of-the-woods",
-     38.5,
-     8.6
+     48,
+     9.7
     ],
     [
      "bp01-077-pyrin-noct-steed-of-azure-flames",
-     43.2,
-     1.1
+     43.5,
+     -2.3
     ],
     [
-     "bp01-006-foxparks-light-of-courage",
-     41.9,
-     4.4
+     "bp02-099-eikthyrdeer-warden-of-the-woods",
+     39,
+     6.8
     ],
     [
      "bp02-018-rocket-launcher",
      38.5,
-     -2.1
+     -3.4
+    ],
+    [
+     "bp01-006-foxparks-light-of-courage",
+     43.2,
+     7.6
     ],
     [
      "td01-009-weapon-workbench",
      53,
-     -4.7
+     -2.2
     ],
     [
      "bp01-090-medieval-medicine-workbench",
-     48.6,
-     -16.4
+     49.1,
+     -15.5
     ],
     [
      "bp01-014-blazehowl-hellflame-defender",
-     43.5,
-     0
+     41.1,
+     -0.9
     ],
     [
      "bp02-005-rayhound-soaring-flash",
-     44.1,
-     13.3
+     44.4,
+     13.6
     ],
     [
      "td02-022-medical-supplies",
-     55.4,
-     -37.6
+     55.2,
+     -36.5
     ],
     [
      "bp01-005-reptyro-ore-gorger",
-     36.7,
-     9.5
+     37.5,
+     1.1
     ],
     [
      "bp01-023-axel-s-strategy",
@@ -3945,12 +4020,12 @@
     ]
    ],
    "tier": "D",
-   "wr": "47.0",
+   "wr": "47.1",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "12 Lily's Strategy · Blazehowl Noct Purple / Green 44.8%raw 45.6% 44.8% ▲ 0.9 1.5% ▼ 1.2 850 2ND +11 —",
+   "text": "12 Lily's Strategy · Blazehowl Noct Purple / Green 43.4%raw 44.8% 43.4% → 0.2 1.5% ▼ 1.2 932 2ND +9 —",
    "slug": "green-purple-medieval-medicine-workbench-tombat",
    "list": [
     [
@@ -4041,213 +4116,228 @@
    "usage": [
     [
      "bp01-095-zoe-s-strategy",
-     46,
-     0.5
+     45.2,
+     1.3
     ],
     [
      "bp01-052-rushoar-reckless-destruction",
-     49.5,
-     4.2
-    ],
-    [
-     "bp01-049-lyleen-blessing-of-the-goddess",
-     51.1,
-     14.8
+     48.2,
+     2.8
     ],
     [
      "td02-021-strike-from-the-darkness",
-     48.3,
-     0.2
+     47.1,
+     0.4
+    ],
+    [
+     "bp01-049-lyleen-blessing-of-the-goddess",
+     49.9,
+     14.5
     ],
     [
      "bp01-051-petallia-sweet-blessings",
-     50.9,
-     -7.1
+     49.8,
+     -6
     ],
     [
      "td02-017-blazehowl-noct-darkflame-defender",
-     44.3,
-     3.8
+     43.4,
+     6.2
     ],
     [
      "ss01-005-quivern-wyvern-s-breath",
-     48.4,
-     7
+     47.3,
+     6.6
     ],
     [
      "bp01-070-lily-s-strategy",
-     48.9,
-     -6.9
+     47.1,
+     -6.4
     ],
     [
      "bp02-062-dazemu-stride-of-oblivion",
-     48.2,
-     -3
+     46.6,
+     -1.9
     ],
     [
      "bp01-085-maraith-twilight-messenger",
-     49.1,
-     -14
+     48,
+     -13.5
     ],
     [
      "bp01-076-tombat-out-of-nowhere",
-     47.5,
-     -2.4
-    ],
-    [
-     "td02-004-dinossom-radiant-fragrance",
-     47.2,
-     1.4
+     46.5,
+     1.2
     ],
     [
      "bp01-077-pyrin-noct-steed-of-azure-flames",
-     45.4,
-     -1.5
+     44.1,
+     0.1
+    ],
+    [
+     "td02-004-dinossom-radiant-fragrance",
+     46.9,
+     4.1
     ],
     [
      "td02-014-leezpunk-treasure-bandit",
-     40.5,
-     7.4
+     39.3,
+     6.7
     ],
     [
      "bp01-090-medieval-medicine-workbench",
-     38.8,
-     3.5
-    ],
-    [
-     "bp02-052-fuddler-claw-honing-mole",
-     48.3,
-     -8.7
+     38.2,
+     4.6
     ],
     [
      "bp02-073-frostallion-noct-eternal-darkness",
-     38.6,
-     3.2
+     37.4,
+     2.6
+    ],
+    [
+     "bp02-052-fuddler-claw-honing-mole",
+     47.1,
+     -10.3
     ],
     [
      "bp01-074-shadowbeak-seed-of-despair",
-     42.5,
-     -2.4
-    ],
-    [
-     "bp02-099-eikthyrdeer-warden-of-the-woods",
-     49.6,
-     -4.1
+     40.4,
+     -3.9
     ],
     [
      "bp01-078-lyleen-noct-providence-of-the-goddess",
-     40.2,
-     -8.8
+     38.6,
+     -3.2
     ],
     [
      "bp01-084-menasting-darkness-dwelling-scorpion",
-     39.1,
-     1.4
+     37.7,
+     -0.2
     ],
     [
      "td02-005-eikthyrdeer-terra-guardian-of-nature",
-     46.4,
-     -14.7
+     43.7,
+     -10.3
+    ],
+    [
+     "bp02-099-eikthyrdeer-warden-of-the-woods",
+     49.8,
+     -3.6
     ],
     [
      "td02-022-medical-supplies",
+     39.3,
+     -5.6
+    ],
+    [
+     "bp02-092-frostallion-noct-saddle",
      40.1,
      -5.4
     ],
     [
-     "bp01-098-elphidran-gentle-radiance",
-     59.5,
-     -21
+     "bp01-091-wooden-wall",
+     36.3,
+     4.2
     ],
     [
      "bp01-071-found-an-egg",
-     46.7,
-     -9.1
+     46.8,
+     -10.1
     ],
     [
-     "bp02-092-frostallion-noct-saddle",
-     42.6,
-     -11.2
-    ],
-    [
-     "bp01-091-wooden-wall",
-     37.7,
-     3.6
-    ],
-    [
-     "bp01-058-gumoss-curious-sprout",
-     47.4,
-     0.8
-    ],
-    [
-     "bp02-085-bushi-noct-blade-of-regret",
-     36.7,
-     0.5
-    ],
-    [
-     "bp02-061-surfent-terra-conqueror-of-the-sands",
-     39.6,
-     7.6
-    ],
-    [
-     "bp01-054-warsect-iron-fortress",
-     42.6,
-     -12.3
+     "bp01-098-elphidran-gentle-radiance",
+     60.2,
+     -19.9
     ],
     [
      "td02-008-berry-plantation",
-     46.5,
-     1
+     43.5,
+     1.1
+    ],
+    [
+     "bp02-085-bushi-noct-blade-of-regret",
+     36.5,
+     0.4
+    ],
+    [
+     "bp01-058-gumoss-curious-sprout",
+     46.3,
+     1.6
+    ],
+    [
+     "bp02-061-surfent-terra-conqueror-of-the-sands",
+     40,
+     9.8
     ],
     [
      "bp02-094-zoe-s-gambit",
-     37.3,
-     18.1
+     35.1,
+     11.3
+    ],
+    [
+     "bp01-054-warsect-iron-fortress",
+     41.8,
+     -10.4
     ],
     [
      "bp02-083-wixen-noct-honeyed-temptation",
-     33,
-     8.2
-    ],
-    [
-     "td02-003-flopie-snack-lover",
-     43.3,
-     -7.4
-    ],
-    [
-     "bp02-080-mau-greed-beckons",
-     44.8,
-     11.6
+     33.9,
+     2.2
     ],
     [
      "bp02-054-quivern-botan-meadow-s-grace",
-     32.3,
-     -24.5
+     32.7,
+     -17.6
     ],
     [
-     "bp02-096-poison-fog",
-     40.7,
-     -10.2
+     "td02-003-flopie-snack-lover",
+     44.2,
+     -8.2
     ],
     [
-     "bp02-072-seed-machine-gun",
-     39.8,
-     -2.6
+     "bp02-058-digtoise-pulverizing-whirl",
+     43.5,
+     -1
+    ],
+    [
+     "bp02-080-mau-greed-beckons",
+     45.6,
+     8.1
     ],
     [
      "bp01-057-dumud-mellow-bounty",
-     42.9,
-     -6.2
+     45.2,
+     -11.4
+    ],
+    [
+     "bp02-096-poison-fog",
+     40.9,
+     -12.3
+    ],
+    [
+     "bp02-072-seed-machine-gun",
+     40.2,
+     -1.9
     ],
     [
      "bp02-066-pioneer-ranch",
-     53.7,
-     10.2
+     53.9,
+     10.3
+    ],
+    [
+     "bp02-057-eikthyrdeer-terra-will-of-nature",
+     42.2,
+     -11.5
     ],
     [
      "bp02-059-cinnamoth-wings-of-allure",
-     47.3,
-     25.9
+     47.5,
+     24.2
+    ],
+    [
+     "td02-024-chikipi-my-first-pal",
+     48,
+     -10.5
     ],
     [
      "bp02-049-anubis-noble-reaper",
@@ -4255,39 +4345,39 @@
      -6
     ],
     [
-     "bp02-057-eikthyrdeer-terra-will-of-nature",
-     41.1,
-     -10.2
-    ],
-    [
-     "td02-024-chikipi-my-first-pal",
-     48.6,
-     -10.2
-    ],
-    [
      "bp01-079-depresso-late-night-hustler",
-     57.6,
-     -17.8
+     59.4,
+     -17.3
     ],
     [
      "bp01-060-tanzee-cheerful-worker",
-     51.7,
-     -14.9
+     52.2,
+     -11.8
+    ],
+    [
+     "bp02-050-mammorest-gaia-crusher",
+     47.7,
+     -7.9
     ],
     [
      "bp01-094-daedream-s-necklace",
-     53.3,
-     6.4
-    ],
-    [
-     "bp02-056-lifmunk-hidden-power",
-     40,
-     16.3
+     50,
+     8.2
     ],
     [
      "bp02-095-saya-s-crescent-moon",
-     58.3,
-     -16.2
+     54.7,
+     -18.5
+    ],
+    [
+     "bp02-091-dark-grenade",
+     32.3,
+     -9.6
+    ],
+    [
+     "bp02-056-lifmunk-hidden-power",
+     41,
+     13.7
     ],
     [
      "bp01-062-wumpo-botan-tropical-sentinel",
@@ -4295,9 +4385,9 @@
      0.5
     ],
     [
-     "bp02-050-mammorest-gaia-crusher",
-     46.4,
-     -14.8
+     "bp02-077-shroomer-noct-spores-of-the-void",
+     63.6,
+     25.9
     ],
     [
      "bp01-072-blessing-of-the-flower-spirit",
@@ -4305,23 +4395,28 @@
      -30.8
     ],
     [
-     "bp02-058-digtoise-pulverizing-whirl",
-     52.8,
-     18.5
+     "td02-015-cawgnito-looming-shadow",
+     34,
+     -1.4
     ],
     [
-     "bp02-091-dark-grenade",
-     32.7,
-     0.3
+     "bp02-071-lily-s-gambit",
+     36.2,
+     -22
+    ],
+    [
+     "bp02-093-poison-arrow-crossbow",
+     26.1,
+     6.9
     ]
    ],
-   "tier": "C",
-   "wr": "45.6",
+   "tier": "D",
+   "wr": "44.8",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "13 Daedream's Necklace · Daedream Purple / Blue 40.7%raw 43.3% 40.7% ▼ 0.5 1.4% ▲ 0.5 829 2ND +7 $45",
+   "text": "13 Daedream's Necklace · Daedream Purple / Blue 40.0%raw 42.7% 40.0% ▼ 1.4 1.5% ▲ 0.5 932 2ND +7 $45",
    "slug": "blue-purple-daedreams-necklace-daedream",
    "list": [
     [
@@ -4392,207 +4487,207 @@
    "usage": [
     [
      "bp01-094-daedream-s-necklace",
-     44.3,
-     0.2
-    ],
-    [
-     "bp01-082-daedream-deep-slumber",
-     44.1,
-     9.5
-    ],
-    [
-     "bp01-080-daedream-first-slumber",
      43.6,
-     1.5
-    ],
-    [
-     "bp01-089-shoddy-bed",
-     45,
-     4.3
-    ],
-    [
-     "bp01-077-pyrin-noct-steed-of-azure-flames",
-     44.2,
-     8.2
-    ],
-    [
-     "bp01-088-lamp",
-     43.2,
-     7.4
-    ],
-    [
-     "bp02-095-saya-s-crescent-moon",
-     45.6,
-     -1.1
-    ],
-    [
-     "bp01-073-helzephyr-wings-of-the-moonless-night",
-     44.6,
-     6.8
-    ],
-    [
-     "bp01-079-depresso-late-night-hustler",
-     43,
-     7
-    ],
-    [
-     "bp01-095-zoe-s-strategy",
-     46.1,
-     2.9
-    ],
-    [
-     "bp02-074-selyne-saya-s-moonlit-beacon",
-     44.7,
-     -5.9
-    ],
-    [
-     "bp02-073-frostallion-noct-eternal-darkness",
-     43.2,
-     2.2
-    ],
-    [
-     "bp02-085-bushi-noct-blade-of-regret",
-     44.7,
-     9.9
-    ],
-    [
-     "bp01-074-shadowbeak-seed-of-despair",
-     44.5,
-     12.6
-    ],
-    [
-     "bp02-076-prixter-nightfall-stinger",
-     43.1,
-     2.4
-    ],
-    [
-     "td02-017-blazehowl-noct-darkflame-defender",
-     45.4,
-     11.4
-    ],
-    [
-     "bp02-088-chandelier",
-     40,
-     -7.8
-    ],
-    [
-     "bp01-047-pal-sphere",
-     44.9,
-     3.6
-    ],
-    [
-     "bp02-025-frostallion-everlasting-rime",
-     42.9,
-     8.1
-    ],
-    [
-     "bp01-090-medieval-medicine-workbench",
-     40,
-     -4.8
-    ],
-    [
-     "td02-022-medical-supplies",
-     49.2,
-     -8.7
-    ],
-    [
-     "bp02-078-kitsun-noct-umbral-prowler",
-     48.3,
-     -4.2
-    ],
-    [
-     "td02-014-leezpunk-treasure-bandit",
-     48.3,
-     18.7
-    ],
-    [
-     "bp01-030-reptyro-cryst-glacial-devourer",
-     40.7,
-     10
-    ],
-    [
-     "bp02-046-victor-s-gambit",
-     41.5,
-     -2.5
-    ],
-    [
-     "bp01-038-cryolinx-arctic-ordeal",
-     38.5,
-     -6.7
-    ],
-    [
-     "bp02-036-celaray-carefree-wanderer",
-     41.9,
-     -8.5
-    ],
-    [
-     "bp02-082-daedream-blissful-dreams",
-     37.7,
-     8.4
-    ],
-    [
-     "bp02-083-wixen-noct-honeyed-temptation",
-     42.1,
-     4.8
-    ],
-    [
-     "ss01-005-quivern-wyvern-s-breath",
-     50.3,
-     -1.4
-    ],
-    [
-     "td02-021-strike-from-the-darkness",
-     45,
      1.7
     ],
     [
-     "bp02-094-zoe-s-gambit",
-     36.4,
-     -13.5
+     "bp01-082-daedream-deep-slumber",
+     43.6,
+     9
     ],
     [
-     "bp01-028-pengullet-yearning-for-the-sky",
-     49.5,
-     11.2
+     "bp01-080-daedream-first-slumber",
+     43,
+     5.2
     ],
     [
-     "bp01-085-maraith-twilight-messenger",
-     40,
+     "bp01-089-shoddy-bed",
+     44.2,
+     3.2
+    ],
+    [
+     "bp01-077-pyrin-noct-steed-of-azure-flames",
+     43.7,
+     9.3
+    ],
+    [
+     "bp01-088-lamp",
+     42.7,
+     6.5
+    ],
+    [
+     "bp02-095-saya-s-crescent-moon",
+     45.1,
+     -0.4
+    ],
+    [
+     "bp01-073-helzephyr-wings-of-the-moonless-night",
+     44.3,
+     7.5
+    ],
+    [
+     "bp01-079-depresso-late-night-hustler",
+     42.4,
+     8.2
+    ],
+    [
+     "bp01-095-zoe-s-strategy",
+     45.1,
+     1.6
+    ],
+    [
+     "bp02-074-selyne-saya-s-moonlit-beacon",
+     43.9,
+     -5.1
+    ],
+    [
+     "bp02-073-frostallion-noct-eternal-darkness",
+     41.7,
+     2
+    ],
+    [
+     "bp02-085-bushi-noct-blade-of-regret",
+     43.8,
+     7
+    ],
+    [
+     "bp01-074-shadowbeak-seed-of-despair",
+     44.2,
+     13.5
+    ],
+    [
+     "bp02-076-prixter-nightfall-stinger",
+     42.8,
+     3.5
+    ],
+    [
+     "td02-017-blazehowl-noct-darkflame-defender",
+     44.9,
+     8.9
+    ],
+    [
+     "bp01-047-pal-sphere",
+     44.5,
+     3
+    ],
+    [
+     "bp02-025-frostallion-everlasting-rime",
+     42.5,
+     3.3
+    ],
+    [
+     "bp02-088-chandelier",
+     40.1,
+     -5.6
+    ],
+    [
+     "bp01-090-medieval-medicine-workbench",
+     39.6,
+     -7.3
+    ],
+    [
+     "td02-022-medical-supplies",
+     46.8,
      -11.3
     ],
     [
-     "bp01-084-menasting-darkness-dwelling-scorpion",
-     49,
-     21.3
+     "bp02-046-victor-s-gambit",
+     38.5,
+     -5.1
     ],
     [
-     "bp02-090-fine-bed",
-     47.1,
-     4
+     "td02-014-leezpunk-treasure-bandit",
+     47.6,
+     17.7
+    ],
+    [
+     "bp02-078-kitsun-noct-umbral-prowler",
+     46.8,
+     -4
+    ],
+    [
+     "bp01-030-reptyro-cryst-glacial-devourer",
+     39.3,
+     12.9
+    ],
+    [
+     "bp02-094-zoe-s-gambit",
+     37.8,
+     -6.7
+    ],
+    [
+     "bp02-083-wixen-noct-honeyed-temptation",
+     41.1,
+     5.3
+    ],
+    [
+     "bp02-036-celaray-carefree-wanderer",
+     41,
+     -5.2
+    ],
+    [
+     "td02-021-strike-from-the-darkness",
+     46.2,
+     6.9
+    ],
+    [
+     "bp01-038-cryolinx-arctic-ordeal",
+     38.6,
+     -8.8
+    ],
+    [
+     "ss01-005-quivern-wyvern-s-breath",
+     51,
+     -3.2
+    ],
+    [
+     "bp02-082-daedream-blissful-dreams",
+     38.2,
+     6.9
+    ],
+    [
+     "bp01-084-menasting-darkness-dwelling-scorpion",
+     50.4,
+     16.9
+    ],
+    [
+     "bp01-028-pengullet-yearning-for-the-sky",
+     49.1,
+     13.8
+    ],
+    [
+     "bp01-085-maraith-twilight-messenger",
+     40.2,
+     -13.6
     ],
     [
      "bp02-091-dark-grenade",
-     47.7,
-     -16
+     48.9,
+     -15.2
+    ],
+    [
+     "bp02-090-fine-bed",
+     47.3,
+     8.3
     ],
     [
      "bp02-038-suzaku-aqua-tide-summoner",
-     44.4,
-     -12.6
+     42.9,
+     -14.7
     ],
     [
      "bp02-041-high-quality-hot-spring",
-     33.8,
-     -4.2
+     33.3,
+     -4.9
     ]
    ],
    "tier": "D",
-   "wr": "43.3",
+   "wr": "42.7",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "14 Foxparks' Harness · Axel's Strategy Blue / Red 44.5%raw 48.5% 44.5% ▼▼ 2.6 1.4% ▼▼ 5.8 783 2ND +7 $68",
+   "text": "14 Foxparks' Harness · Axel's Strategy Blue / Red 42.9%raw 47.5% 42.9% ▼▼ 3.0 1.3% ▼▼ 5.6 828 2ND +7 $68",
    "slug": "blue-red-foxparks-foxparks-harness",
    "list": [
     [
@@ -4667,128 +4762,133 @@
    "usage": [
     [
      "bp01-025-chillet-dragon-whisperer",
-     49.5,
-     8.6
-    ],
-    [
-     "bp01-026-relaxaurus-hungry-gunner",
-     50.5,
-     -9.5
-    ],
-    [
-     "td01-012-elphidran-aqua-gentle-ripples",
-     48.3,
-     -6.6
+     48.6,
+     9
     ],
     [
      "bp01-020-pump-action-shotgun",
-     48.1,
-     -6.3
+     46.9,
+     -3.7
+    ],
+    [
+     "bp01-026-relaxaurus-hungry-gunner",
+     49.7,
+     -8.5
+    ],
+    [
+     "td01-012-elphidran-aqua-gentle-ripples",
+     47.6,
+     -6.7
     ],
     [
      "td01-004-foxparks-a-toasty-hug",
-     47.3,
-     -5.5
+     45.9,
+     -4
     ],
     [
      "bp01-038-cryolinx-arctic-ordeal",
-     48.8,
-     -4.9
+     48,
+     -6
     ],
     [
      "td01-016-reindrix-icy-gaze",
-     48.1,
-     -5.8
+     47.2,
+     -5.9
     ],
     [
      "bp01-006-foxparks-light-of-courage",
-     50.2,
+     49,
      7.1
     ],
     [
      "bp01-001-jormuntide-ignis-savage-lava-dragon",
-     48.5,
-     -1.2
+     47.3,
+     -3.9
     ],
     [
      "bp01-019-foxparks-harness",
-     49.3,
+     48.1,
      -2.6
     ],
     [
-     "bp01-028-pengullet-yearning-for-the-sky",
-     51.5,
-     1.7
-    ],
-    [
      "bp01-047-pal-sphere",
-     48,
-     6.2
+     47,
+     4.3
     ],
     [
      "bp01-023-axel-s-strategy",
-     48.1,
-     -2.2
+     46.6,
+     -1.4
+    ],
+    [
+     "bp01-028-pengullet-yearning-for-the-sky",
+     50.5,
+     0.8
     ],
     [
      "bp01-098-elphidran-gentle-radiance",
-     51.7,
-     -7.1
+     50.1,
+     -4.4
     ],
     [
      "bp01-048-aurora-guide",
-     48,
-     -12.8
+     47.3,
+     -13.5
     ],
     [
      "bp01-027-jormuntide-surging-sea-serpent",
-     51.8,
-     -0.7
-    ],
-    [
-     "ss01-002-chillet-finishing-ice-blade",
-     51.8,
-     -8.3
-    ],
-    [
-     "bp02-036-celaray-carefree-wanderer",
-     49.2,
-     2.6
-    ],
-    [
-     "ss01-005-quivern-wyvern-s-breath",
-     51.8,
-     -5
-    ],
-    [
-     "td01-010-single-shot-rifle",
-     51,
-     -6
-    ],
-    [
-     "bp02-040-water-fountain",
-     46.5,
-     12.2
-    ],
-    [
-     "bp02-013-foxparks-breathing-practice",
-     51.9,
+     50.3,
      -0.6
     ],
     [
-     "bp01-044-pengullet-rocket-launcher",
-     51.2,
-     -12.4
+     "ss01-002-chillet-finishing-ice-blade",
+     51.4,
+     -7.9
+    ],
+    [
+     "bp02-036-celaray-carefree-wanderer",
+     48.2,
+     1.1
+    ],
+    [
+     "ss01-005-quivern-wyvern-s-breath",
+     50.4,
+     -2.9
+    ],
+    [
+     "td01-010-single-shot-rifle",
+     49.8,
+     -5.7
+    ],
+    [
+     "bp02-013-foxparks-breathing-practice",
+     49.3,
+     0.4
+    ],
+    [
+     "bp02-040-water-fountain",
+     46.3,
+     13.2
     ],
     [
      "bp01-014-blazehowl-hellflame-defender",
-     48,
-     8.3
+     44.8,
+     5.9
+    ],
+    [
+     "bp01-044-pengullet-rocket-launcher",
+     50.9,
+     -12.7
     ],
     [
      "bp01-007-kitsun-wyrmbane-fangs",
-     43.6,
-     -3.5
+     42.8,
+     -4.9
+    ],
+    [
+     "bp01-032-fuack-manic-wave-ripper",
+     55,
+     -2.8
     ],
     [
      "bp01-029-azurobe-water-dragon-waltz",
@@ -4801,29 +4901,34 @@
      -1.1
     ],
     [
-     "bp01-032-fuack-manic-wave-ripper",
-     58.1,
-     -7.9
-    ],
-    [
      "bp02-004-chillet-ignis-ember-clad-dragon",
-     43.4,
-     -8.1
+     43.8,
+     -7.6
     ],
     [
      "bp01-046-victor-s-strategy",
-     55,
-     -25.1
+     54.1,
+     -20.2
     ],
     [
      "bp01-005-reptyro-ore-gorger",
-     46.1,
-     15.5
+     42.7,
+     11.4
     ],
     [
      "bp02-001-orserk-thunderclap-roar",
-     40.8,
-     -1.8
+     41.3,
+     -1.9
+    ],
+    [
+     "bp02-024-flame-funnel",
+     49.3,
+     -18.3
+    ],
+    [
+     "bp02-099-eikthyrdeer-warden-of-the-woods",
+     56.2,
+     -31
     ],
     [
      "bp01-045-grappling-gun",
@@ -4831,14 +4936,9 @@
      -15
     ],
     [
-     "bp02-099-eikthyrdeer-warden-of-the-woods",
-     56.5,
-     -31.1
-    ],
-    [
-     "bp02-024-flame-funnel",
-     54,
-     -22.2
+     "bp02-014-beakon-thunderbolt-glory",
+     44.9,
+     -5.9
     ],
     [
      "bp02-097-jetragon-legendary-guardian-dragon",
@@ -4846,18 +4946,18 @@
      23.4
     ],
     [
-     "bp02-014-beakon-thunderbolt-glory",
-     49.1,
-     1
+     "bp02-018-rocket-launcher",
+     35.7,
+     -16.4
     ]
    ],
-   "tier": "C",
-   "wr": "48.5",
+   "tier": "D",
+   "wr": "47.5",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "15 Blazehowl · Foxparks Red / Purple 35.8%raw 40.1% 35.8% ▼▼ 2.0 1.0% ▼ 0.9 599 2ND +4 —",
+   "text": "15 Blazehowl · Foxparks Red / Purple 36.5%raw 40.2% 36.5% ▼▼ 3.8 1.1% ▼ 0.8 711 2ND +5 —",
    "slug": "purple-red-foxparks-foxparks-harness",
    "list": [
     [
@@ -4920,168 +5020,178 @@
    "usage": [
     [
      "td01-004-foxparks-a-toasty-hug",
-     41.5,
-     -3.4
+     42,
+     -2.1
     ],
     [
      "bp01-006-foxparks-light-of-courage",
-     42.3,
-     5.5
+     42.8,
+     4.1
     ],
     [
      "bp01-019-foxparks-harness",
-     42.8,
-     9
+     43.2,
+     7.7
     ],
     [
      "bp01-095-zoe-s-strategy",
-     44.1,
-     -6.6
+     43.6,
+     -5.3
     ],
     [
      "bp02-013-foxparks-breathing-practice",
      43.7,
-     -9.5
+     -6.6
     ],
     [
      "bp02-012-jolthog-10-million-volt-barrier",
-     44.3,
-     8.2
+     44.7,
+     4.8
     ],
     [
      "bp01-023-axel-s-strategy",
-     42.6,
-     -8.3
+     41.7,
+     -5.4
     ],
     [
      "ss01-005-quivern-wyvern-s-breath",
-     48,
-     -3.7
-    ],
-    [
-     "bp02-009-arsox-blazing-fury",
-     41.2,
+     47.3,
      -6
     ],
     [
-     "td01-010-single-shot-rifle",
-     44.9,
-     2.2
+     "bp01-005-reptyro-ore-gorger",
+     42.1,
+     0.6
     ],
     [
-     "bp01-005-reptyro-ore-gorger",
-     41.2,
-     8.1
+     "bp02-009-arsox-blazing-fury",
+     41.3,
+     -1.5
+    ],
+    [
+     "td01-010-single-shot-rifle",
+     44.4,
+     0.9
     ],
     [
      "bp02-018-rocket-launcher",
-     35.6,
-     -1.4
+     37,
+     3.6
     ],
     [
      "bp01-020-pump-action-shotgun",
-     37.6,
-     -13.2
-    ],
-    [
-     "bp01-084-menasting-darkness-dwelling-scorpion",
-     46.3,
-     0.5
+     39,
+     -11.8
     ],
     [
      "bp02-003-faleris-marcus-soaring-wings",
-     34,
-     28
+     36.1,
+     24.3
     ],
     [
-     "bp01-002-suzaku-hellfire-wings",
-     48.7,
-     -0.8
-    ],
-    [
-     "td02-014-leezpunk-treasure-bandit",
-     41.6,
-     1.4
-    ],
-    [
-     "bp01-016-primitive-furnace",
-     41,
-     14.6
-    ],
-    [
-     "td02-021-strike-from-the-darkness",
-     40.7,
-     10.9
+     "bp01-084-menasting-darkness-dwelling-scorpion",
+     44.9,
+     5
     ],
     [
      "bp02-093-poison-arrow-crossbow",
-     33.9,
-     15.7
+     36,
+     9.7
+    ],
+    [
+     "bp01-002-suzaku-hellfire-wings",
+     48.2,
+     0.2
     ],
     [
      "bp02-019-flamethrower",
-     36.2,
-     -2.1
+     38.1,
+     3.6
+    ],
+    [
+     "td02-021-strike-from-the-darkness",
+     38.9,
+     10
     ],
     [
      "bp02-002-katress-ignis-scathing-counter",
-     35.3,
-     5.3
+     38.2,
+     7.9
+    ],
+    [
+     "td02-014-leezpunk-treasure-bandit",
+     39.7,
+     2.8
+    ],
+    [
+     "bp01-016-primitive-furnace",
+     40.9,
+     14.3
     ],
     [
      "bp02-085-bushi-noct-blade-of-regret",
-     43.5,
-     21.1
+     42.7,
+     22.7
     ],
     [
      "bp02-023-marcus-turf",
-     36.8,
-     13
-    ],
-    [
-     "bp01-097-black-marketeer",
-     50.9,
-     -12.7
-    ],
-    [
-     "bp01-009-univolt-valiant-thunderclap",
-     46.1,
-     -2.3
+     38.2,
+     2.2
     ],
     [
      "bp01-014-blazehowl-hellflame-defender",
-     39.5,
-     -1.6
-    ],
-    [
-     "bp02-099-eikthyrdeer-warden-of-the-woods",
-     47.7,
-     -8.1
+     40.1,
+     -5
     ],
     [
      "bp02-073-frostallion-noct-eternal-darkness",
-     33.7,
-     14.7
+     32.6,
+     14.9
+    ],
+    [
+     "bp02-005-rayhound-soaring-flash",
+     40.6,
+     6.6
     ],
     [
      "bp01-011-rooby-brave-sparks",
-     44.4,
-     2
-    ],
-    [
-     "bp01-021-makeshift-handgun",
-     46.9,
-     -17.1
-    ],
-    [
-     "bp01-010-ragnahawk-emberwing-striker",
-     33.7,
-     14.8
+     46.8,
+     0.9
     ],
     [
      "bp01-077-pyrin-noct-steed-of-azure-flames",
-     39.3,
-     10.9
+     40.8,
+     4.6
+    ],
+    [
+     "bp02-099-eikthyrdeer-warden-of-the-woods",
+     47.2,
+     -12.9
+    ],
+    [
+     "bp01-097-black-marketeer",
+     50,
+     -14.2
+    ],
+    [
+     "bp01-009-univolt-valiant-thunderclap",
+     45.3,
+     -0.8
+    ],
+    [
+     "bp01-010-ragnahawk-emberwing-striker",
+     38.1,
+     15.8
+    ],
+    [
+     "bp01-021-makeshift-handgun",
+     45.9,
+     -14.5
+    ],
+    [
+     "bp02-022-axel-s-gambit",
+     38.6,
+     3.8
     ],
     [
      "bp01-093-meat-cleaver",
@@ -5089,14 +5199,9 @@
      -7.4
     ],
     [
-     "bp02-005-rayhound-soaring-flash",
-     36.9,
-     9.7
-    ],
-    [
-     "bp02-022-axel-s-gambit",
-     37.2,
-     4.5
+     "bp02-094-zoe-s-gambit",
+     29.4,
+     -10.5
     ],
     [
      "td01-002-jolthog-shocking-yet-innocent",
@@ -5104,23 +5209,43 @@
      0
     ],
     [
-     "bp02-094-zoe-s-gambit",
-     28.1,
-     -5.1
+     "bp01-007-kitsun-wyrmbane-fangs",
+     45.3,
+     -4.9
     ],
     [
      "td02-015-cawgnito-looming-shadow",
-     32.7,
+     28.8,
      -2.6
+    ],
+    [
+     "bp01-003-gobfin-ignis-blazing-hothead",
+     37.9,
+     11
+    ],
+    [
+     "td01-008-stone-pit",
+     26.9,
+     -14.8
+    ],
+    [
+     "bp01-074-shadowbeak-seed-of-despair",
+     20.8,
+     3.2
+    ],
+    [
+     "bp02-020-musket",
+     38.3,
+     25
     ]
    ],
    "tier": "D",
-   "wr": "40.1",
+   "wr": "40.2",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "16 Cattiva · Fuack Blue / Red 43.3%raw 46.8% 43.3% ▼▼ 5.1 0.9% ▼ 1.3 526 1ST +4 —",
+   "text": "16 Cattiva · Fuack Blue / Red 43.5%raw 46.8% 43.5% · 0.9% ▼ 1.3 543 1ST +3 —",
    "slug": "blue-red-cattiva-azurobe",
    "list": [
     [
@@ -5180,102 +5305,107 @@
     [
      "bp01-028-pengullet-yearning-for-the-sky",
      46.9,
-     7.8
+     9
     ],
     [
      "td01-023-lamball-my-first-pal",
-     46.1,
-     0.1
+     46.2,
+     0.9
     ],
     [
      "bp01-032-fuack-manic-wave-ripper",
      50.8,
-     0.2
+     -1.8
     ],
     [
      "bp01-047-pal-sphere",
-     46.4,
-     -7.7
+     46.7,
+     -6.5
     ],
     [
      "td01-004-foxparks-a-toasty-hug",
      50.3,
-     12.3
+     12.7
     ],
     [
      "td02-023-cattiva-my-first-pal",
-     45.9,
-     0.2
+     46.1,
+     0.3
     ],
     [
      "td01-016-reindrix-icy-gaze",
-     48.9,
-     -1.5
+     48.6,
+     -3.8
     ],
     [
      "bp01-020-pump-action-shotgun",
-     51,
-     -7.1
+     51.6,
+     -5.9
     ],
     [
      "bp02-040-water-fountain",
-     44.3,
-     -4.3
+     44.2,
+     -3.3
     ],
     [
      "bp01-025-chillet-dragon-whisperer",
-     53.2,
-     5.7
+     52.7,
+     6.1
     ],
     [
      "bp01-026-relaxaurus-hungry-gunner",
-     53,
-     -20.9
-    ],
-    [
-     "bp01-098-elphidran-gentle-radiance",
-     53,
-     -6.5
+     52.5,
+     -21.1
     ],
     [
      "bp02-036-celaray-carefree-wanderer",
-     48.2,
-     7.1
+     48,
+     9.3
+    ],
+    [
+     "bp01-098-elphidran-gentle-radiance",
+     52.5,
+     -5.7
     ],
     [
      "bp02-033-pengullet-locked-and-loaded",
-     49.2,
-     -2.7
-    ],
-    [
-     "td01-012-elphidran-aqua-gentle-ripples",
-     53.1,
-     -10.8
+     48.9,
+     -1.4
     ],
     [
      "bp02-012-jolthog-10-million-volt-barrier",
-     47.4,
-     -0.3
+     47,
+     -1
+    ],
+    [
+     "td01-012-elphidran-aqua-gentle-ripples",
+     52.4,
+     -10.2
     ],
     [
      "bp01-029-azurobe-water-dragon-waltz",
-     54.2,
-     -17.4
+     54.7,
+     -15.9
     ],
     [
      "bp02-027-sweepa-record-breaker",
-     47.4,
-     -5.2
+     47.2,
+     -2.1
     ],
     [
      "bp01-007-kitsun-wyrmbane-fangs",
      51.4,
-     -9.1
+     -8.7
     ],
     [
      "bp01-008-sparkit-hazardous-contact",
-     52.2,
-     -2.4
+     52.1,
+     -0.8
+    ],
+    [
+     "bp01-006-foxparks-light-of-courage",
+     48.9,
+     4.9
     ],
     [
      "bp02-025-frostallion-everlasting-rime",
@@ -5283,69 +5413,64 @@
      -14.1
     ],
     [
-     "bp01-006-foxparks-light-of-courage",
-     48.1,
-     5.8
-    ],
-    [
      "bp01-044-pengullet-rocket-launcher",
      41.4,
-     -2.7
-    ],
-    [
-     "bp02-005-rayhound-soaring-flash",
-     47.9,
-     -11
+     -5.1
     ],
     [
      "bp02-002-katress-ignis-scathing-counter",
-     50,
-     1.3
+     50.4,
+     0
+    ],
+    [
+     "bp02-005-rayhound-soaring-flash",
+     48,
+     -8.9
     ],
     [
      "td02-024-chikipi-my-first-pal",
-     38.8,
-     -23.8
+     39.2,
+     -25.3
     ],
     [
      "bp02-022-axel-s-gambit",
-     43.6,
-     3.1
+     43.8,
+     3.2
     ],
     [
      "bp01-100-the-adventure-begins",
-     40.2,
-     -12.9
+     40.5,
+     -14.3
     ],
     [
      "ss01-005-quivern-wyvern-s-breath",
-     52.1,
-     -15.7
+     50.5,
+     -12.4
     ],
     [
      "bp02-011-leezpunk-ignis-hot-blooded-finish",
-     39.1,
-     2.5
-    ],
-    [
-     "td01-002-jolthog-shocking-yet-innocent",
-     38.3,
-     -1.3
+     39.4,
+     2.9
     ],
     [
      "bp02-045-sweepa-saddle",
-     52.6,
-     -22.1
+     51.8,
+     -24.7
+    ],
+    [
+     "td01-002-jolthog-shocking-yet-innocent",
+     38.6,
+     -0.8
     ],
     [
      "bp01-010-ragnahawk-emberwing-striker",
-     43.1,
-     -1
+     43.2,
+     -0.8
     ],
     [
      "td01-010-single-shot-rifle",
-     43.3,
-     4.7
+     45.3,
+     3.7
     ],
     [
      "bp02-001-orserk-thunderclap-roar",
@@ -5369,323 +5494,7 @@
    "overviewText": ""
   },
   {
-   "text": "17 Daedream's Necklace · Lamp Purple / Green 29.4%raw 34.1% 29.4% · 0.9% → 0.2 496 2ND +8 $52",
-   "slug": "green-purple-daedream",
-   "list": [
-    [
-     "bp01-049-lyleen-blessing-of-the-goddess",
-     2
-    ],
-    [
-     "bp01-074-shadowbeak-seed-of-despair",
-     2
-    ],
-    [
-     "bp01-077-pyrin-noct-steed-of-azure-flames",
-     4
-    ],
-    [
-     "bp01-079-depresso-late-night-hustler",
-     4
-    ],
-    [
-     "bp01-080-daedream-first-slumber",
-     3
-    ],
-    [
-     "bp01-082-daedream-deep-slumber",
-     4
-    ],
-    [
-     "bp01-084-menasting-darkness-dwelling-scorpion",
-     4
-    ],
-    [
-     "bp01-085-maraith-twilight-messenger",
-     3
-    ],
-    [
-     "bp01-088-lamp",
-     3
-    ],
-    [
-     "bp01-089-shoddy-bed",
-     2
-    ],
-    [
-     "bp01-094-daedream-s-necklace",
-     3
-    ],
-    [
-     "bp01-095-zoe-s-strategy",
-     4
-    ],
-    [
-     "td02-011-stone-blast",
-     3
-    ],
-    [
-     "td02-014-leezpunk-treasure-bandit",
-     3
-    ],
-    [
-     "td02-017-blazehowl-noct-darkflame-defender",
-     4
-    ],
-    [
-     "td02-021-strike-from-the-darkness",
-     2
-    ]
-   ],
-   "usage": [
-    [
-     "bp01-082-daedream-deep-slumber",
-     33.8,
-     5.4
-    ],
-    [
-     "bp01-094-daedream-s-necklace",
-     33.6,
-     8.4
-    ],
-    [
-     "bp01-080-daedream-first-slumber",
-     35,
-     2.9
-    ],
-    [
-     "bp01-088-lamp",
-     34.3,
-     9.6
-    ],
-    [
-     "bp01-095-zoe-s-strategy",
-     32.1,
-     -4.1
-    ],
-    [
-     "bp01-077-pyrin-noct-steed-of-azure-flames",
-     32.6,
-     4.2
-    ],
-    [
-     "bp01-089-shoddy-bed",
-     37.8,
-     6.7
-    ],
-    [
-     "bp02-073-frostallion-noct-eternal-darkness",
-     36.3,
-     2.5
-    ],
-    [
-     "bp02-095-saya-s-crescent-moon",
-     36.8,
-     4.7
-    ],
-    [
-     "bp01-073-helzephyr-wings-of-the-moonless-night",
-     34.8,
-     18.1
-    ],
-    [
-     "td02-004-dinossom-radiant-fragrance",
-     34.7,
-     10.4
-    ],
-    [
-     "td02-017-blazehowl-noct-darkflame-defender",
-     35.8,
-     -2.1
-    ],
-    [
-     "bp01-074-shadowbeak-seed-of-despair",
-     32.9,
-     7
-    ],
-    [
-     "bp01-079-depresso-late-night-hustler",
-     31.3,
-     9.9
-    ],
-    [
-     "td02-014-leezpunk-treasure-bandit",
-     34.5,
-     16
-    ],
-    [
-     "td02-021-strike-from-the-darkness",
-     33.1,
-     4
-    ],
-    [
-     "bp01-049-lyleen-blessing-of-the-goddess",
-     37.8,
-     17.4
-    ],
-    [
-     "bp01-084-menasting-darkness-dwelling-scorpion",
-     36.4,
-     -8.9
-    ],
-    [
-     "bp02-088-chandelier",
-     35.4,
-     -21.7
-    ],
-    [
-     "bp02-074-selyne-saya-s-moonlit-beacon",
-     34.6,
-     4.7
-    ],
-    [
-     "bp01-085-maraith-twilight-messenger",
-     31.5,
-     -13.9
-    ],
-    [
-     "bp01-070-lily-s-strategy",
-     36.6,
-     -5.2
-    ],
-    [
-     "bp02-082-daedream-blissful-dreams",
-     31.5,
-     -3.9
-    ],
-    [
-     "bp01-090-medieval-medicine-workbench",
-     35.1,
-     -22
-    ],
-    [
-     "bp02-080-mau-greed-beckons",
-     28.4,
-     22.1
-    ],
-    [
-     "bp02-099-eikthyrdeer-warden-of-the-woods",
-     39.3,
-     0.6
-    ],
-    [
-     "bp02-066-pioneer-ranch",
-     28.3,
-     6.1
-    ],
-    [
-     "bp01-066-ranch",
-     31.4,
-     15.8
-    ],
-    [
-     "bp02-076-prixter-nightfall-stinger",
-     38,
-     -8.8
-    ],
-    [
-     "bp02-078-kitsun-noct-umbral-prowler",
-     38,
-     -1.9
-    ],
-    [
-     "ss01-003-depresso-serious-at-midnight",
-     42.2,
-     10.1
-    ],
-    [
-     "bp02-094-zoe-s-gambit",
-     34.8,
-     -4.9
-    ],
-    [
-     "bp02-085-bushi-noct-blade-of-regret",
-     35.2,
-     5.7
-    ],
-    [
-     "bp01-052-rushoar-reckless-destruction",
-     43.5,
-     4.8
-    ],
-    [
-     "bp02-062-dazemu-stride-of-oblivion",
-     40,
-     -3.6
-    ],
-    [
-     "ss01-005-quivern-wyvern-s-breath",
-     37.7,
-     18.2
-    ],
-    [
-     "bp02-096-poison-fog",
-     38.8,
-     -14.1
-    ],
-    [
-     "bp02-052-fuddler-claw-honing-mole",
-     46.2,
-     2.7
-    ],
-    [
-     "bp02-049-anubis-noble-reaper",
-     25,
-     17.3
-    ],
-    [
-     "bp02-090-fine-bed",
-     32.2,
-     9.4
-    ],
-    [
-     "bp02-058-digtoise-pulverizing-whirl",
-     39.7,
-     -1
-    ],
-    [
-     "bp01-071-found-an-egg",
-     37.5,
-     25
-    ],
-    [
-     "bp02-054-quivern-botan-meadow-s-grace",
-     32.1,
-     -12.8
-    ],
-    [
-     "bp02-077-shroomer-noct-spores-of-the-void",
-     28.6,
-     2
-    ],
-    [
-     "bp02-061-surfent-terra-conqueror-of-the-sands",
-     28.9,
-     -6.1
-    ],
-    [
-     "bp01-054-warsect-iron-fortress",
-     36.4,
-     -18.5
-    ],
-    [
-     "bp02-071-lily-s-gambit",
-     27.9,
-     -8.3
-    ],
-    [
-     "bp01-051-petallia-sweet-blessings",
-     32.5,
-     35
-    ]
-   ],
-   "tier": "D",
-   "wr": "34.1",
-   "first": "",
-   "overviewText": ""
-  },
-  {
-   "text": "18 Reptyro · Single-Shot Rifle Blue / Red 29.6%raw 41.0% 29.6% · 0.8% ▼▼ 2.6 483 2ND +5 $68",
+   "text": "17 Reptyro · Single-Shot Rifle Blue / Red 31.9%raw 42.0% 31.9% · 0.8% ▼▼ 2.5 533 2ND +5 $68",
    "slug": "blue-red-chillet-relaxaurus",
    "list": [
     [
@@ -5764,153 +5573,173 @@
    "usage": [
     [
      "bp01-020-pump-action-shotgun",
-     40,
-     2.4
+     41.2,
+     4
     ],
     [
      "td01-004-foxparks-a-toasty-hug",
-     39.5,
-     -10.6
+     40.7,
+     -9.9
     ],
     [
      "td01-016-reindrix-icy-gaze",
-     41.1,
-     -5.6
+     42,
+     -4.8
     ],
     [
      "bp01-038-cryolinx-arctic-ordeal",
-     43.1,
-     -1.7
+     44,
+     0.1
     ],
     [
      "bp01-025-chillet-dragon-whisperer",
-     42.6,
-     -2.5
+     43.8,
+     -2.2
     ],
     [
      "td01-010-single-shot-rifle",
-     44.7,
-     2
-    ],
-    [
-     "bp01-026-relaxaurus-hungry-gunner",
-     43.6,
-     -3.6
+     45.9,
+     0.2
     ],
     [
      "bp01-047-pal-sphere",
-     38.3,
-     -0.5
+     39.8,
+     -1.2
+    ],
+    [
+     "bp01-026-relaxaurus-hungry-gunner",
+     45,
+     -7
     ],
     [
      "bp01-001-jormuntide-ignis-savage-lava-dragon",
-     40.7,
-     0.1
+     42.2,
+     2.8
     ],
     [
      "td01-012-elphidran-aqua-gentle-ripples",
-     43.3,
-     -1.4
+     44.4,
+     -1.7
     ],
     [
      "bp01-016-primitive-furnace",
-     36.1,
-     3.3
+     37.5,
+     5.4
     ],
     [
      "bp01-098-elphidran-gentle-radiance",
-     46.4,
-     11.1
+     47.6,
+     9
     ],
     [
      "bp01-014-blazehowl-hellflame-defender",
-     45.2,
-     -7.3
+     46.2,
+     -9.2
     ],
     [
      "bp01-005-reptyro-ore-gorger",
-     44.1,
-     13.7
+     45.3,
+     12.7
     ],
     [
      "bp01-015-mounted-machine-gun",
-     34.2,
-     1.7
-    ],
-    [
-     "bp01-045-grappling-gun",
-     39.1,
-     0.1
+     36,
+     1.1
     ],
     [
      "bp02-001-orserk-thunderclap-roar",
-     37.4,
-     -0.9
+     39.3,
+     -1.3
     ],
     [
      "bp02-012-jolthog-10-million-volt-barrier",
-     34.6,
-     2.1
+     37.1,
+     -0.7
     ],
     [
-     "bp01-048-aurora-guide",
-     42.6,
-     10.2
-    ],
-    [
-     "td01-023-lamball-my-first-pal",
-     33.5,
-     0.6
+     "bp01-045-grappling-gun",
+     40.9,
+     -1.4
     ],
     [
      "bp01-012-flambelle-scorching-tears",
-     34.6,
-     3.5
+     37,
+     -1.3
     ],
     [
-     "bp01-027-jormuntide-surging-sea-serpent",
-     44.8,
-     -8
+     "td01-023-lamball-my-first-pal",
+     34.7,
+     3
+    ],
+    [
+     "bp01-048-aurora-guide",
+     44.1,
+     6.1
     ],
     [
      "bp02-007-flambelle-feverish-tears",
-     33.5,
-     -2.5
+     35.8,
+     -0.3
     ],
     [
-     "ss01-002-chillet-finishing-ice-blade",
-     48.4,
-     -3.9
+     "bp01-027-jormuntide-surging-sea-serpent",
+     45.9,
+     -7.3
     ],
     [
      "bp01-023-axel-s-strategy",
-     40.7,
-     -11.2
+     43.4,
+     -11.8
     ],
     [
-     "bp01-028-pengullet-yearning-for-the-sky",
-     49.2,
-     9.4
+     "ss01-002-chillet-finishing-ice-blade",
+     49.1,
+     -3.5
     ],
     [
      "td01-008-stone-pit",
-     31.5,
-     -3.9
-    ],
-    [
-     "ss01-005-quivern-wyvern-s-breath",
-     48.8,
-     8.3
+     32.9,
+     -0.5
     ],
     [
      "bp02-018-rocket-launcher",
-     37.4,
-     -6.5
+     40.4,
+     -4.1
+    ],
+    [
+     "bp01-028-pengullet-yearning-for-the-sky",
+     50.4,
+     6.3
+    ],
+    [
+     "ss01-005-quivern-wyvern-s-breath",
+     48.4,
+     9.3
     ],
     [
      "bp02-006-dazzi-thunder-maiden",
-     40,
-     -2.1
+     41.2,
+     -3.6
+    ],
+    [
+     "td02-023-cattiva-my-first-pal",
+     35.7,
+     -5.8
+    ],
+    [
+     "bp01-002-suzaku-hellfire-wings",
+     33.6,
+     13.8
+    ],
+    [
+     "bp02-016-coal-quarry",
+     34.5,
+     -3.7
+    ],
+    [
+     "bp02-038-suzaku-aqua-tide-summoner",
+     38,
+     -2.2
     ],
     [
      "bp02-010-relaxaurus-lux-party-time",
@@ -5918,64 +5747,49 @@
      -0.5
     ],
     [
-     "bp02-016-coal-quarry",
-     32.3,
-     -11
-    ],
-    [
-     "bp02-038-suzaku-aqua-tide-summoner",
-     36.2,
-     -2.9
-    ],
-    [
-     "td02-023-cattiva-my-first-pal",
-     34,
-     -6.1
-    ],
-    [
-     "bp01-002-suzaku-hellfire-wings",
-     31.1,
-     13.3
+     "bp02-046-victor-s-gambit",
+     34.7,
+     -15.9
     ],
     [
      "bp02-036-celaray-carefree-wanderer",
-     32.5,
-     10.1
-    ],
-    [
-     "bp01-007-kitsun-wyrmbane-fangs",
-     35.3,
-     15
-    ],
-    [
-     "bp02-099-eikthyrdeer-warden-of-the-woods",
-     40.3,
-     -16.7
+     36.2,
+     9.2
     ],
     [
      "bp01-046-victor-s-strategy",
-     33.3,
-     -2.3
+     36.8,
+     -8.7
     ],
     [
-     "bp02-046-victor-s-gambit",
-     29.7,
-     -10.6
+     "bp02-099-eikthyrdeer-warden-of-the-woods",
+     42,
+     -11.7
+    ],
+    [
+     "bp02-011-leezpunk-ignis-hot-blooded-finish",
+     34.2,
+     9.1
+    ],
+    [
+     "bp01-007-kitsun-wyrmbane-fangs",
+     35.7,
+     15.2
+    ],
+    [
+     "bp02-047-love-overload",
+     35.3,
+     8.9
+    ],
+    [
+     "bp02-004-chillet-ignis-ember-clad-dragon",
+     41.3,
+     3.7
     ],
     [
      "td01-001-grizzbolt-rumbling-tank",
      38.1,
      -28.6
-    ],
-    [
-     "bp02-011-leezpunk-ignis-hot-blooded-finish",
-     31.1,
-     8.8
-    ],
-    [
-     "bp02-004-chillet-ignis-ember-clad-dragon",
-     40,
-     -1.4
     ],
     [
      "bp02-019-flamethrower",
@@ -5986,267 +5800,351 @@
      "bp01-032-fuack-manic-wave-ripper",
      55.8,
      -20
-    ],
-    [
-     "bp02-047-love-overload",
-     29.8,
-     -2.9
     ]
    ],
    "tier": "D",
-   "wr": "41.0",
+   "wr": "42.0",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "19 Flambelle · Mounted Machine Gun Red / Blue 35.2%raw 43.9% 35.2% · 0.8% ▼ 1.0 446 2ND +6 $16",
-   "slug": "blue-red-mounted-machine-gun-flambelle",
+   "text": "18 Daedream's Necklace · Lamp Purple / Green 29.8%raw 34.3% 29.8% · 0.8% → 0.2 513 2ND +8 $52",
+   "slug": "green-purple-daedream",
    "list": [
     [
-     "bp01-001-jormuntide-ignis-savage-lava-dragon",
+     "bp01-049-lyleen-blessing-of-the-goddess",
+     2
+    ],
+    [
+     "bp01-074-shadowbeak-seed-of-despair",
+     2
+    ],
+    [
+     "bp01-077-pyrin-noct-steed-of-azure-flames",
      4
     ],
     [
-     "bp01-004-bushi-ephemeral-blade",
+     "bp01-079-depresso-late-night-hustler",
      4
     ],
     [
-     "bp01-006-foxparks-light-of-courage",
-     4
-    ],
-    [
-     "bp01-011-rooby-brave-sparks",
-     4
-    ],
-    [
-     "bp01-012-flambelle-scorching-tears",
-     4
-    ],
-    [
-     "bp01-014-blazehowl-hellflame-defender",
-     1
-    ],
-    [
-     "bp01-015-mounted-machine-gun",
-     4
-    ],
-    [
-     "bp01-016-primitive-furnace",
+     "bp01-080-daedream-first-slumber",
      3
     ],
     [
-     "bp01-018-alarm-bell",
+     "bp01-082-daedream-deep-slumber",
+     4
+    ],
+    [
+     "bp01-084-menasting-darkness-dwelling-scorpion",
+     4
+    ],
+    [
+     "bp01-085-maraith-twilight-messenger",
+     3
+    ],
+    [
+     "bp01-088-lamp",
+     3
+    ],
+    [
+     "bp01-089-shoddy-bed",
      2
     ],
     [
-     "bp01-020-pump-action-shotgun",
-     2
+     "bp01-094-daedream-s-necklace",
+     3
     ],
     [
-     "bp01-030-reptyro-cryst-glacial-devourer",
+     "bp01-095-zoe-s-strategy",
      4
     ],
     [
-     "bp01-042-antique-mirror",
+     "td02-011-stone-blast",
+     3
+    ],
+    [
+     "td02-014-leezpunk-treasure-bandit",
+     3
+    ],
+    [
+     "td02-017-blazehowl-noct-darkflame-defender",
      4
     ],
     [
-     "bp01-046-victor-s-strategy",
-     4
-    ],
-    [
-     "td01-004-foxparks-a-toasty-hug",
-     4
-    ],
-    [
-     "td01-008-stone-pit",
+     "td02-021-strike-from-the-darkness",
      2
     ]
    ],
    "usage": [
     [
-     "bp01-015-mounted-machine-gun",
-     44,
-     2.3
+     "bp01-082-daedream-deep-slumber",
+     34.1,
+     6.1
     ],
     [
-     "bp02-012-jolthog-10-million-volt-barrier",
-     46.3,
-     6.4
+     "bp01-094-daedream-s-necklace",
+     34,
+     7.6
     ],
     [
-     "td01-004-foxparks-a-toasty-hug",
-     44.2,
-     13.4
+     "bp01-080-daedream-first-slumber",
+     35.4,
+     4.4
     ],
     [
-     "td01-008-stone-pit",
-     46.3,
-     0.9
+     "bp01-088-lamp",
+     34.8,
+     10.1
     ],
     [
-     "bp01-016-primitive-furnace",
-     41.7,
-     8
+     "bp01-095-zoe-s-strategy",
+     31.7,
+     -3.6
     ],
     [
-     "bp01-012-flambelle-scorching-tears",
-     45.8,
-     14.4
+     "bp01-077-pyrin-noct-steed-of-azure-flames",
+     33.2,
+     1.8
     ],
     [
-     "bp02-001-orserk-thunderclap-roar",
-     47.3,
-     11.5
+     "bp01-089-shoddy-bed",
+     38.1,
+     9.9
     ],
     [
-     "bp02-007-flambelle-feverish-tears",
-     42.2,
-     1.5
+     "bp02-095-saya-s-crescent-moon",
+     37.2,
+     5.2
     ],
     [
-     "bp01-046-victor-s-strategy",
-     46.6,
+     "bp02-073-frostallion-noct-eternal-darkness",
+     36,
      4.1
     ],
     [
-     "bp01-030-reptyro-cryst-glacial-devourer",
-     50.8,
-     24.2
+     "bp01-073-helzephyr-wings-of-the-moonless-night",
+     35.2,
+     17.5
     ],
     [
-     "bp01-020-pump-action-shotgun",
-     41.4,
-     -12.4
+     "td02-004-dinossom-radiant-fragrance",
+     35.5,
+     11.5
     ],
     [
-     "bp02-002-katress-ignis-scathing-counter",
-     47.4,
-     18.9
+     "td02-017-blazehowl-noct-darkflame-defender",
+     35.5,
+     -1.8
     ],
     [
-     "bp02-016-coal-quarry",
-     43.9,
-     10.4
+     "bp01-074-shadowbeak-seed-of-despair",
+     32.7,
+     8.3
     ],
     [
-     "bp02-036-celaray-carefree-wanderer",
-     42,
-     25.6
+     "bp01-079-depresso-late-night-hustler",
+     31,
+     10.7
     ],
     [
-     "bp01-042-antique-mirror",
-     45,
-     6.7
+     "td02-014-leezpunk-treasure-bandit",
+     34.3,
+     15.7
     ],
     [
-     "bp02-031-broncherry-aqua-the-shape-of-love",
-     43.5,
-     9.1
-    ],
-    [
-     "bp01-004-bushi-ephemeral-blade",
-     47.9,
-     -3.3
-    ],
-    [
-     "bp02-033-pengullet-locked-and-loaded",
-     48.3,
-     4.2
-    ],
-    [
-     "ss01-005-quivern-wyvern-s-breath",
-     47.8,
-     17.1
-    ],
-    [
-     "bp01-006-foxparks-light-of-courage",
-     41.9,
-     -2.1
-    ],
-    [
-     "bp02-006-mossanda-lux-apex-grenadier",
-     47.6,
-     23.1
-    ],
-    [
-     "bp01-014-blazehowl-hellflame-defender",
-     39,
-     13.7
-    ],
-    [
-     "bp01-002-suzaku-hellfire-wings",
-     42.9,
-     -6.7
-    ],
-    [
-     "bp02-040-water-fountain",
-     40.6,
-     5.6
-    ],
-    [
-     "bp01-018-alarm-bell",
-     45.2,
-     1.6
-    ],
-    [
-     "bp02-015-improved-furnace",
-     48.3,
-     -4.4
-    ],
-    [
-     "bp02-018-rocket-launcher",
-     40,
-     0
-    ],
-    [
-     "td01-010-single-shot-rifle",
-     40,
+     "td02-021-strike-from-the-darkness",
+     33.9,
      5.8
     ],
     [
-     "bp02-017-mine",
-     46.5,
-     27.5
+     "bp01-049-lyleen-blessing-of-the-goddess",
+     38.8,
+     14.4
     ],
     [
-     "bp02-006-dazzi-thunder-maiden",
-     44.9,
-     8
+     "bp01-084-menasting-darkness-dwelling-scorpion",
+     36.1,
+     -9.2
     ],
     [
-     "bp01-047-pal-sphere",
-     42.9,
-     7.5
-    ],
-    [
-     "bp01-011-rooby-brave-sparks",
-     47.5,
-     -7.9
-    ],
-    [
-     "bp01-039-antique-curtain",
+     "bp02-088-chandelier",
      35.6,
-     11.2
+     -21.1
     ],
     [
-     "bp02-046-victor-s-gambit",
-     45.6,
-     25.6
+     "bp02-074-selyne-saya-s-moonlit-beacon",
+     34.4,
+     5.9
     ],
     [
-     "bp02-039-antique-cabinet",
-     42,
-     13.3
+     "bp01-085-maraith-twilight-messenger",
+     31.8,
+     -12.2
+    ],
+    [
+     "bp02-082-daedream-blissful-dreams",
+     31.6,
+     -3.8
+    ],
+    [
+     "bp01-070-lily-s-strategy",
+     36.6,
+     -5.2
+    ],
+    [
+     "bp02-099-eikthyrdeer-warden-of-the-woods",
+     39.8,
+     0.5
+    ],
+    [
+     "bp02-080-mau-greed-beckons",
+     30.8,
+     19.7
+    ],
+    [
+     "bp01-090-medieval-medicine-workbench",
+     34.8,
+     -22.2
+    ],
+    [
+     "bp02-066-pioneer-ranch",
+     30.7,
+     6.7
+    ],
+    [
+     "bp01-066-ranch",
+     31.4,
+     15.8
+    ],
+    [
+     "bp02-076-prixter-nightfall-stinger",
+     37.4,
+     -7.5
+    ],
+    [
+     "bp01-052-rushoar-reckless-destruction",
+     43.8,
+     -1.4
+    ],
+    [
+     "bp02-094-zoe-s-gambit",
+     35.1,
+     -5.5
+    ],
+    [
+     "bp02-078-kitsun-noct-umbral-prowler",
+     37.6,
+     -2.6
+    ],
+    [
+     "bp02-085-bushi-noct-blade-of-regret",
+     34.4,
+     6.2
+    ],
+    [
+     "ss01-003-depresso-serious-at-midnight",
+     41.8,
+     11
+    ],
+    [
+     "bp02-062-dazemu-stride-of-oblivion",
+     41.3,
+     -3.9
+    ],
+    [
+     "bp02-049-anubis-noble-reaper",
+     29.2,
+     19.6
+    ],
+    [
+     "bp02-096-poison-fog",
+     38.6,
+     -14.3
+    ],
+    [
+     "ss01-005-quivern-wyvern-s-breath",
+     37.7,
+     18.2
+    ],
+    [
+     "bp02-052-fuddler-claw-honing-mole",
+     44.8,
+     6.8
+    ],
+    [
+     "bp01-071-found-an-egg",
+     40.6,
+     21.8
+    ],
+    [
+     "bp02-090-fine-bed",
+     33.3,
+     6.5
+    ],
+    [
+     "bp02-058-digtoise-pulverizing-whirl",
+     39.7,
+     -1
+    ],
+    [
+     "bp02-054-quivern-botan-meadow-s-grace",
+     31.6,
+     -11
+    ],
+    [
+     "bp02-072-seed-machine-gun",
+     35.7,
+     10.1
+    ],
+    [
+     "bp02-077-shroomer-noct-spores-of-the-void",
+     28.6,
+     2
+    ],
+    [
+     "bp02-064-mill",
+     29.1,
+     -5.7
+    ],
+    [
+     "bp02-061-surfent-terra-conqueror-of-the-sands",
+     34,
+     -11.6
+    ],
+    [
+     "bp01-096-dark-cannon",
+     38.5,
+     -1.6
+    ],
+    [
+     "bp02-071-lily-s-gambit",
+     33.3,
+     -8
+    ],
+    [
+     "bp01-054-warsect-iron-fortress",
+     34.8,
+     -17.9
+    ],
+    [
+     "bp02-091-dark-grenade",
+     40.5,
+     5
+    ],
+    [
+     "bp01-051-petallia-sweet-blessings",
+     32.5,
+     35
     ]
    ],
    "tier": "D",
-   "wr": "43.9",
+   "wr": "34.3",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "20 Flopie · Berry Plantation Green / Blue 34.3%raw 38.0% 34.3% · 0.8% → 0.2 445 1ST +2 $9",
+   "text": "19 Flopie · Berry Plantation Green / Blue 33.7%raw 37.7% 33.7% · 0.8% → 0.2 493 1ST +4 $9",
    "slug": "blue-green-flopie-berry-plantation",
    "list": [
     [
@@ -6317,78 +6215,83 @@
    "usage": [
     [
      "bp02-050-mammorest-gaia-crusher",
-     36.2,
-     -7.2
+     36.4,
+     -7.3
     ],
     [
      "td02-004-dinossom-radiant-fragrance",
-     40.9,
-     0.8
+     40.5,
+     2.2
     ],
     [
      "bp01-066-ranch",
-     37.5,
-     -4.3
+     37.3,
+     -4.2
     ],
     [
      "td02-003-flopie-snack-lover",
-     38.7,
-     0.3
+     37.6,
+     0.1
     ],
     [
      "td02-008-berry-plantation",
-     40.7,
-     -0.7
+     40.5,
+     1.1
+    ],
+    [
+     "bp02-063-beware-of-mammorest-sign",
+     33.6,
+     -4
     ],
     [
      "bp01-052-rushoar-reckless-destruction",
      46.2,
-     -6.5
-    ],
-    [
-     "bp02-063-beware-of-mammorest-sign",
-     32.5,
-     -7
+     -6.4
     ],
     [
      "bp02-055-beegarde-faithful-honor",
-     36,
-     6.1
+     37.2,
+     0.3
     ],
     [
      "td02-007-mammorest-roar-of-the-wilds",
-     34.6,
-     3.7
+     35.2,
+     6.1
     ],
     [
      "bp02-058-digtoise-pulverizing-whirl",
-     46.8,
-     8
+     45.9,
+     7.6
     ],
     [
      "bp02-036-celaray-carefree-wanderer",
-     41.8,
-     -8.1
+     41.2,
+     -7.6
     ],
     [
      "bp01-035-mau-cryst-harbinger-of-riches",
-     41.9,
-     -3.8
-    ],
-    [
-     "bp01-057-dumud-mellow-bounty",
-     35,
-     17.9
+     39.6,
+     -3.5
     ],
     [
      "bp02-064-mill",
-     27.7,
-     5.5
+     29.9,
+     -1.6
     ],
     [
      "bp01-030-reptyro-cryst-glacial-devourer",
-     27.8,
-     9
+     30.6,
+     7.2
+    ],
+    [
+     "bp01-057-dumud-mellow-bounty",
+     33.1,
+     17.5
+    ],
+    [
+     "bp02-054-quivern-botan-meadow-s-grace",
+     43.6,
+     26
     ],
     [
      "ss01-005-quivern-wyvern-s-breath",
@@ -6397,53 +6300,68 @@
     ],
     [
      "bp01-063-breeding-farm",
-     42.2,
-     -3.2
-    ],
-    [
-     "bp02-054-quivern-botan-meadow-s-grace",
-     44.9,
-     29.1
-    ],
-    [
-     "bp02-061-surfent-terra-conqueror-of-the-sands",
-     35.2,
-     -9.5
-    ],
-    [
-     "bp01-047-pal-sphere",
-     36.4,
-     -4.5
+     40.7,
+     -2.8
     ],
     [
      "bp02-046-victor-s-gambit",
-     28.9,
-     -2.5
-    ],
-    [
-     "bp01-038-cryolinx-arctic-ordeal",
-     28.7,
-     -14.4
-    ],
-    [
-     "td01-016-reindrix-icy-gaze",
-     46.2,
-     -13.1
-    ],
-    [
-     "bp02-062-dazemu-stride-of-oblivion",
-     36.4,
-     -17.8
+     28.3,
+     -11.1
     ],
     [
      "bp01-070-lily-s-strategy",
-     30.6,
-     -12.5
+     33.9,
+     -10.1
+    ],
+    [
+     "bp02-061-surfent-terra-conqueror-of-the-sands",
+     35.5,
+     -9
+    ],
+    [
+     "bp01-047-pal-sphere",
+     35.8,
+     -7.5
+    ],
+    [
+     "bp01-038-cryolinx-arctic-ordeal",
+     27.3,
+     -14.1
+    ],
+    [
+     "td01-016-reindrix-icy-gaze",
+     44.8,
+     -11.2
     ],
     [
      "bp02-025-frostallion-everlasting-rime",
-     36.5,
-     15.8
+     35.1,
+     15.9
+    ],
+    [
+     "bp02-065-electric-kitchen",
+     37.2,
+     -13.4
+    ],
+    [
+     "bp01-046-victor-s-strategy",
+     39.1,
+     -3.6
+    ],
+    [
+     "bp02-062-dazemu-stride-of-oblivion",
+     35.6,
+     -18.9
+    ],
+    [
+     "bp02-066-pioneer-ranch",
+     24.1,
+     25.6
+    ],
+    [
+     "bp02-071-lily-s-gambit",
+     36.1,
+     -10.1
     ],
     [
      "bp02-056-lifmunk-hidden-power",
@@ -6456,33 +6374,285 @@
      6.7
     ],
     [
-     "bp02-071-lily-s-gambit",
-     38.8,
-     -8
-    ],
-    [
-     "bp02-065-electric-kitchen",
-     38.5,
-     -14.7
+     "bp01-026-relaxaurus-hungry-gunner",
+     55.3,
+     -14.3
     ],
     [
      "bp02-031-broncherry-aqua-the-shape-of-love",
-     20.3,
-     -16.3
+     21.2,
+     -13.4
+    ],
+    [
+     "td02-024-chikipi-my-first-pal",
+     30,
+     15
     ],
     [
      "bp02-049-anubis-noble-reaper",
      40,
      -9.1
+    ],
+    [
+     "bp01-064-cola-vending-machine",
+     30.2,
+     0.3
     ]
    ],
    "tier": "D",
-   "wr": "38.0",
+   "wr": "37.7",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "21 Broncherry Aqua · Reptyro Cryst Blue / Green 38.4%raw 42.2% 38.4% · 0.7% → 0.3 398 1ST +7 $10",
+   "text": "20 Flambelle · Mounted Machine Gun Red / Blue 34.5%raw 43.7% 34.5% · 0.7% ▼ 1.0 451 2ND +6 $16",
+   "slug": "blue-red-mounted-machine-gun-flambelle",
+   "list": [
+    [
+     "bp01-001-jormuntide-ignis-savage-lava-dragon",
+     4
+    ],
+    [
+     "bp01-004-bushi-ephemeral-blade",
+     4
+    ],
+    [
+     "bp01-006-foxparks-light-of-courage",
+     4
+    ],
+    [
+     "bp01-011-rooby-brave-sparks",
+     4
+    ],
+    [
+     "bp01-012-flambelle-scorching-tears",
+     4
+    ],
+    [
+     "bp01-014-blazehowl-hellflame-defender",
+     1
+    ],
+    [
+     "bp01-015-mounted-machine-gun",
+     4
+    ],
+    [
+     "bp01-016-primitive-furnace",
+     3
+    ],
+    [
+     "bp01-018-alarm-bell",
+     2
+    ],
+    [
+     "bp01-020-pump-action-shotgun",
+     2
+    ],
+    [
+     "bp01-030-reptyro-cryst-glacial-devourer",
+     4
+    ],
+    [
+     "bp01-042-antique-mirror",
+     4
+    ],
+    [
+     "bp01-046-victor-s-strategy",
+     4
+    ],
+    [
+     "td01-004-foxparks-a-toasty-hug",
+     4
+    ],
+    [
+     "td01-008-stone-pit",
+     2
+    ]
+   ],
+   "usage": [
+    [
+     "bp01-015-mounted-machine-gun",
+     43.6,
+     1.8
+    ],
+    [
+     "bp02-012-jolthog-10-million-volt-barrier",
+     46,
+     6.1
+    ],
+    [
+     "td01-004-foxparks-a-toasty-hug",
+     44.1,
+     13.8
+    ],
+    [
+     "td01-008-stone-pit",
+     46.3,
+     1.7
+    ],
+    [
+     "bp01-016-primitive-furnace",
+     41.2,
+     8.7
+    ],
+    [
+     "bp01-012-flambelle-scorching-tears",
+     45.3,
+     13.7
+    ],
+    [
+     "bp02-001-orserk-thunderclap-roar",
+     47,
+     11.8
+    ],
+    [
+     "bp02-007-flambelle-feverish-tears",
+     41.9,
+     1
+    ],
+    [
+     "bp01-046-victor-s-strategy",
+     46.7,
+     5.3
+    ],
+    [
+     "bp01-030-reptyro-cryst-glacial-devourer",
+     50.3,
+     21.4
+    ],
+    [
+     "bp02-002-katress-ignis-scathing-counter",
+     46.9,
+     18.1
+    ],
+    [
+     "bp01-020-pump-action-shotgun",
+     41.1,
+     -11.7
+    ],
+    [
+     "bp02-016-coal-quarry",
+     43.9,
+     10.5
+    ],
+    [
+     "bp02-036-celaray-carefree-wanderer",
+     42,
+     25.6
+    ],
+    [
+     "bp01-042-antique-mirror",
+     45.1,
+     4.3
+    ],
+    [
+     "bp02-031-broncherry-aqua-the-shape-of-love",
+     43.5,
+     9.1
+    ],
+    [
+     "bp01-004-bushi-ephemeral-blade",
+     47.5,
+     -2.1
+    ],
+    [
+     "bp02-033-pengullet-locked-and-loaded",
+     48.3,
+     4.2
+    ],
+    [
+     "ss01-005-quivern-wyvern-s-breath",
+     47.8,
+     17.1
+    ],
+    [
+     "bp01-006-foxparks-light-of-courage",
+     41.7,
+     -0.6
+    ],
+    [
+     "bp02-006-mossanda-lux-apex-grenadier",
+     47.7,
+     23
+    ],
+    [
+     "bp01-014-blazehowl-hellflame-defender",
+     38.6,
+     14.4
+    ],
+    [
+     "bp01-002-suzaku-hellfire-wings",
+     42.4,
+     -7.4
+    ],
+    [
+     "bp02-040-water-fountain",
+     40.6,
+     5.6
+    ],
+    [
+     "bp01-018-alarm-bell",
+     45.2,
+     1.6
+    ],
+    [
+     "bp02-015-improved-furnace",
+     48.3,
+     -4.4
+    ],
+    [
+     "td01-010-single-shot-rifle",
+     39.5,
+     7.1
+    ],
+    [
+     "bp02-018-rocket-launcher",
+     40,
+     0
+    ],
+    [
+     "bp02-006-dazzi-thunder-maiden",
+     43.7,
+     5.9
+    ],
+    [
+     "bp02-017-mine",
+     46.5,
+     27.5
+    ],
+    [
+     "bp01-047-pal-sphere",
+     41.5,
+     4.9
+    ],
+    [
+     "bp01-011-rooby-brave-sparks",
+     46,
+     -3.1
+    ],
+    [
+     "bp01-039-antique-curtain",
+     35.6,
+     11.2
+    ],
+    [
+     "bp02-046-victor-s-gambit",
+     45.6,
+     25.6
+    ],
+    [
+     "bp02-039-antique-cabinet",
+     42,
+     13.3
+    ]
+   ],
+   "tier": "D",
+   "wr": "43.7",
+   "first": "",
+   "overviewText": ""
+  },
+  {
+   "text": "21 Broncherry Aqua · Reptyro Cryst Blue / Green 36.7%raw 40.4% 36.7% · 0.7% → 0.3 433 1ST +5 $10",
    "slug": "blue-green-broncherry-aqua-reptyro-cryst",
    "list": [
     [
@@ -6553,147 +6723,167 @@
    "usage": [
     [
      "bp02-031-broncherry-aqua-the-shape-of-love",
-     42,
-     4.2
+     40.5,
+     4.6
     ],
     [
      "bp01-030-reptyro-cryst-glacial-devourer",
-     43.9,
-     8.5
+     42.2,
+     6.3
     ],
     [
      "bp01-046-victor-s-strategy",
-     44.6,
-     7.2
-    ],
-    [
-     "bp02-036-celaray-carefree-wanderer",
-     41.1,
-     18.1
+     43.3,
+     8.8
     ],
     [
      "bp01-066-ranch",
-     43.9,
-     9.6
+     41.3,
+     8.3
+    ],
+    [
+     "bp02-036-celaray-carefree-wanderer",
+     39.7,
+     14.1
     ],
     [
      "bp01-064-cola-vending-machine",
-     45,
-     5.9
+     43,
+     4.8
     ],
     [
      "bp01-042-antique-mirror",
-     46.9,
+     44.9,
      27.1
     ],
     [
      "td02-008-berry-plantation",
-     42,
-     25.5
+     41.1,
+     20.7
     ],
     [
      "bp02-065-electric-kitchen",
-     41.9,
-     6.8
+     41,
+     7.6
     ],
     [
      "bp02-040-water-fountain",
-     40.5,
-     6.8
+     39.7,
+     3
     ],
     [
      "bp02-039-antique-cabinet",
-     48.6,
-     1.1
+     46.1,
+     4
     ],
     [
      "bp01-049-lyleen-blessing-of-the-goddess",
-     41.1,
-     16.6
+     38.4,
+     11.9
+    ],
+    [
+     "td02-004-dinossom-radiant-fragrance",
+     41.6,
+     4.9
     ],
     [
      "bp01-039-antique-curtain",
-     45.9,
-     -9.6
+     42.9,
+     -5.1
     ],
     [
      "bp02-057-eikthyrdeer-terra-will-of-nature",
-     37.5,
-     6.7
+     36.5,
+     6.4
     ],
     [
      "ss01-005-quivern-wyvern-s-breath",
-     53.9,
-     3.3
+     51.3,
+     2.4
     ],
     [
      "bp01-040-antique-dresser",
-     30.7,
-     -6.5
+     30.8,
+     -8.7
     ],
     [
      "bp01-052-rushoar-reckless-destruction",
-     42,
-     34.3
-    ],
-    [
-     "bp02-066-pioneer-ranch",
-     41.5,
-     3.1
+     41.9,
+     31.4
     ],
     [
      "bp01-067-no-pals-beyond-sign",
-     49.5,
-     -3.4
-    ],
-    [
-     "bp02-052-fuddler-claw-honing-mole",
-     34.5,
-     9.3
+     43.8,
+     -1.9
     ],
     [
      "bp02-050-mammorest-gaia-crusher",
-     32.1,
-     4.8
+     28.2,
+     4
+    ],
+    [
+     "bp02-066-pioneer-ranch",
+     40,
+     4.9
     ],
     [
      "bp01-070-lily-s-strategy",
-     27.6,
-     -2.6
+     28,
+     -2
+    ],
+    [
+     "bp02-052-fuddler-claw-honing-mole",
+     33.7,
+     9.4
+    ],
+    [
+     "bp02-038-suzaku-aqua-tide-summoner",
+     30.6,
+     -25.4
     ],
     [
      "bp02-041-high-quality-hot-spring",
-     41.7,
-     -19
-    ],
-    [
-     "bp02-054-quivern-botan-meadow-s-grace",
-     43.5,
-     12.6
+     40.5,
+     -14
     ],
     [
      "bp02-064-mill",
-     25.4,
-     -6.3
+     26.5,
+     -7.1
+    ],
+    [
+     "td02-003-flopie-snack-lover",
+     40.6,
+     -2.9
+    ],
+    [
+     "bp02-054-quivern-botan-meadow-s-grace",
+     42.9,
+     11.2
     ],
     [
      "td01-012-elphidran-aqua-gentle-ripples",
-     49.1,
-     -1.7
+     48.3,
+     -3.3
     ],
     [
      "td01-020-primitive-workbench",
-     27.3,
-     -32.5
+     28.6,
+     -33.3
+    ],
+    [
+     "bp02-053-dumud-bountiful-earth",
+     25.5,
+     14.3
     ]
    ],
    "tier": "D",
-   "wr": "42.2",
+   "wr": "40.4",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "22 Depresso · Selyne Purple 32.1%raw 37.0% 32.1% · 0.7% ▲ 0.4 395 2ND +10 $23",
+   "text": "22 Depresso · Selyne Purple 33.4%raw 37.9% 33.4% · 0.7% ▲ 0.3 428 2ND +9 $23",
    "slug": "purple-depresso-selyne",
    "list": [
     [
@@ -6764,127 +6954,132 @@
    "usage": [
     [
      "bp01-094-daedream-s-necklace",
-     37.8,
-     16.1
+     38.7,
+     16.6
     ],
     [
      "bp01-077-pyrin-noct-steed-of-azure-flames",
-     38.2,
-     7.9
-    ],
-    [
-     "bp01-080-daedream-first-slumber",
-     38.5,
+     39.1,
      6.3
     ],
     [
+     "bp01-080-daedream-first-slumber",
+     39.4,
+     6
+    ],
+    [
      "bp01-082-daedream-deep-slumber",
-     39.1,
-     11.4
+     39.9,
+     13.6
     ],
     [
      "bp02-095-saya-s-crescent-moon",
-     39.1,
-     3.4
+     40,
+     5.5
     ],
     [
      "bp02-074-selyne-saya-s-moonlit-beacon",
-     39.6,
-     13
+     40.4,
+     13.6
     ],
     [
      "bp02-076-prixter-nightfall-stinger",
-     39.9,
-     9.6
-    ],
-    [
-     "bp01-073-helzephyr-wings-of-the-moonless-night",
-     41.8,
-     20.3
-    ],
-    [
-     "bp01-089-shoddy-bed",
-     40.5,
-     23
-    ],
-    [
-     "bp01-079-depresso-late-night-hustler",
-     38.2,
-     14.2
-    ],
-    [
-     "bp02-078-kitsun-noct-umbral-prowler",
-     41,
-     10.1
-    ],
-    [
-     "bp02-085-bushi-noct-blade-of-regret",
-     40.6,
+     40.8,
      9.7
     ],
     [
+     "bp01-073-helzephyr-wings-of-the-moonless-night",
+     42.5,
+     20.5
+    ],
+    [
+     "bp01-089-shoddy-bed",
+     41.4,
+     22.7
+    ],
+    [
+     "bp01-079-depresso-late-night-hustler",
+     39,
+     12.3
+    ],
+    [
+     "bp02-078-kitsun-noct-umbral-prowler",
+     41.9,
+     7.7
+    ],
+    [
+     "bp02-085-bushi-noct-blade-of-regret",
+     41.1,
+     11.6
+    ],
+    [
      "ss01-003-depresso-serious-at-midnight",
-     45.4,
-     9.6
+     45.7,
+     7.1
     ],
     [
      "bp02-094-zoe-s-gambit",
-     43.3,
-     8.9
+     42.7,
+     4.9
     ],
     [
      "bp01-088-lamp",
-     27.5,
-     0.2
+     30.3,
+     0.1
     ],
     [
      "td02-021-strike-from-the-darkness",
-     40.6,
-     12.1
+     40.1,
+     12.9
     ],
     [
      "bp02-088-chandelier",
-     25.8,
-     -7
-    ],
-    [
-     "bp02-082-daedream-blissful-dreams",
-     27.8,
-     -3.8
+     26.3,
+     -6.1
     ],
     [
      "bp02-073-frostallion-noct-eternal-darkness",
-     29.5,
-     -0.6
+     30.5,
+     -2.2
+    ],
+    [
+     "bp02-082-daedream-blissful-dreams",
+     27.6,
+     -4
     ],
     [
      "bp02-090-fine-bed",
-     33.6,
-     -21.7
+     34.8,
+     -20.1
     ],
     [
      "bp01-095-zoe-s-strategy",
-     35.9,
-     7
+     37.5,
+     10.5
     ],
     [
      "bp01-074-shadowbeak-seed-of-despair",
-     17.2,
-     -13.7
+     18.2,
+     -15.8
     ],
     [
      "td02-017-blazehowl-noct-darkflame-defender",
-     39.7,
-     0.8
+     41.3,
+     3.4
+    ],
+    [
+     "bp01-085-maraith-twilight-messenger",
+     29.1,
+     -0.6
     ]
    ],
    "tier": "D",
-   "wr": "37.0",
+   "wr": "37.9",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "23 Jolthog · Lily's Strategy Red / Green 41.7%raw 46.4% 41.7% · 0.7% → 0.2 388 2ND +4 $22",
+   "text": "23 Jolthog · Lily's Strategy Red / Green 40.9%raw 46.2% 40.9% · 0.7% → 0.2 420 2ND +2 $22",
    "slug": "green-red-jolthog-lilys-strategy",
    "list": [
     [
@@ -6951,162 +7146,167 @@
    "usage": [
     [
      "td01-004-foxparks-a-toasty-hug",
-     46.7,
-     -5.4
+     46.4,
+     -7.6
     ],
     [
      "bp01-006-foxparks-light-of-courage",
-     48.8,
-     -0.3
+     47.9,
+     -2.1
     ],
     [
      "bp02-012-jolthog-10-million-volt-barrier",
-     46.5,
-     -8.3
+     45.7,
+     -7.3
     ],
     [
      "bp01-019-foxparks-harness",
-     48.6,
-     -10.9
+     47.5,
+     -13.1
     ],
     [
      "bp01-049-lyleen-blessing-of-the-goddess",
-     48.7,
-     -4
+     49.8,
+     -2
     ],
     [
      "bp01-052-rushoar-reckless-destruction",
-     48.6,
-     9.7
+     47.8,
+     6.7
     ],
     [
      "bp01-020-pump-action-shotgun",
-     46.4,
-     -23.9
-    ],
-    [
-     "bp02-002-katress-ignis-scathing-counter",
-     46.2,
-     -0.5
+     47.1,
+     -23.6
     ],
     [
      "bp01-023-axel-s-strategy",
-     47.8,
-     0.1
+     46,
+     -1.5
+    ],
+    [
+     "bp02-002-katress-ignis-scathing-counter",
+     45.2,
+     1.6
     ],
     [
      "bp02-013-foxparks-breathing-practice",
-     46.4,
-     -14.2
-    ],
-    [
-     "bp01-070-lily-s-strategy",
-     46.3,
-     -23.7
+     44.3,
+     -17.5
     ],
     [
      "td01-010-single-shot-rifle",
      46.5,
-     -14.6
+     -13.6
+    ],
+    [
+     "bp01-070-lily-s-strategy",
+     45.8,
+     -22.4
     ],
     [
      "bp02-005-rayhound-soaring-flash",
-     46.1,
-     -10.3
+     48.2,
+     -11.4
     ],
     [
      "bp02-001-orserk-thunderclap-roar",
      50,
-     0.5
+     -1.9
     ],
     [
      "ss01-005-quivern-wyvern-s-breath",
-     50.4,
-     -4.7
-    ],
-    [
-     "bp01-005-reptyro-ore-gorger",
-     43.3,
-     31.1
+     49.7,
+     0.9
     ],
     [
      "bp02-018-rocket-launcher",
-     45,
-     3.9
+     45.3,
+     4.3
     ],
     [
-     "bp01-012-flambelle-scorching-tears",
-     52.2,
-     -4.9
+     "bp01-005-reptyro-ore-gorger",
+     45.1,
+     26.7
     ],
     [
      "bp02-052-fuddler-claw-honing-mole",
-     47.4,
-     -12.2
+     48.1,
+     -4.2
+    ],
+    [
+     "bp01-012-flambelle-scorching-tears",
+     52.1,
+     -7.2
     ],
     [
      "bp02-006-dazzi-thunder-maiden",
-     53.3,
-     -4.8
+     53.1,
+     -4.5
     ],
     [
      "bp02-009-arsox-blazing-fury",
-     46.6,
-     -7
+     47.8,
+     -9.5
+    ],
+    [
+     "bp02-062-dazemu-stride-of-oblivion",
+     49.1,
+     -18.1
     ],
     [
      "bp01-016-primitive-furnace",
      49.5,
-     -3.9
+     -5.9
     ],
     [
      "bp01-010-ragnahawk-emberwing-striker",
-     48,
-     9.6
-    ],
-    [
-     "bp02-062-dazemu-stride-of-oblivion",
-     47.8,
-     -23.1
+     49.5,
+     4.5
     ],
     [
      "bp01-007-kitsun-wyrmbane-fangs",
-     53.6,
-     -7.5
-    ],
-    [
-     "bp02-024-flame-funnel",
-     50.7,
-     -8.4
+     54.9,
+     -11.7
     ],
     [
      "bp02-099-eikthyrdeer-warden-of-the-woods",
-     46.6,
-     6.5
+     48.8,
+     8.5
+    ],
+    [
+     "bp02-024-flame-funnel",
+     48.8,
+     -1.2
     ],
     [
      "bp01-014-blazehowl-hellflame-defender",
-     50,
-     -29.2
+     50.6,
+     -33.3
+    ],
+    [
+     "bp02-003-faleris-marcus-soaring-wings",
+     49.2,
+     -10.2
     ],
     [
      "bp02-066-pioneer-ranch",
-     49.2,
-     -7.8
+     46.8,
+     -11.4
     ],
     [
      "bp02-069-refined-metal-axe",
-     51.1,
-     -5
+     50,
+     -6.9
     ]
    ],
    "tier": "D",
-   "wr": "46.4",
+   "wr": "46.2",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "24 Digtoise · Pal Sphere Blue / Green 33.4%raw 41.1% 33.4% · 0.6% ▼ 0.6 367 2ND +6 $22",
+   "text": "24 Digtoise · Pal Sphere Blue / Green 33.5%raw 41.0% 33.5% · 0.6% ▼ 0.6 388 2ND +6 $22",
    "slug": "blue-green-pengullet-rocket-launcher-pengullet",
    "list": [
     [
@@ -7169,83 +7369,83 @@
    "usage": [
     [
      "bp01-049-lyleen-blessing-of-the-goddess",
-     43.3,
-     8
+     43.4,
+     10.2
     ],
     [
      "bp01-028-pengullet-yearning-for-the-sky",
      44.7,
-     -10.6
-    ],
-    [
-     "bp01-070-lily-s-strategy",
-     41.8,
-     -12.2
+     -9.2
     ],
     [
      "bp01-044-pengullet-rocket-launcher",
-     43.3,
-     -12.8
+     44,
+     -12.6
+    ],
+    [
+     "bp01-070-lily-s-strategy",
+     41.1,
+     -9.8
     ],
     [
      "bp01-038-cryolinx-arctic-ordeal",
-     39.4,
-     4.8
+     39.7,
+     6
     ],
     [
      "bp01-047-pal-sphere",
-     40.9,
-     -10.6
-    ],
-    [
-     "bp01-052-rushoar-reckless-destruction",
-     50.3,
-     -0.5
+     40.4,
+     -11
     ],
     [
      "td02-004-dinossom-radiant-fragrance",
-     42.9,
-     2
+     43.4,
+     2.1
+    ],
+    [
+     "bp01-052-rushoar-reckless-destruction",
+     50,
+     1
     ],
     [
      "td01-016-reindrix-icy-gaze",
-     39.8,
-     0
+     39.2,
+     1.9
     ],
     [
      "bp02-033-pengullet-locked-and-loaded",
-     44.3,
-     -13.1
+     45.6,
+     -11
     ],
     [
      "td02-008-berry-plantation",
-     40.4,
-     -1.2
-    ],
-    [
-     "bp01-050-digtoise-seismic-drillback",
-     40.8,
-     -24
+     39.5,
+     4.6
     ],
     [
      "bp01-071-found-an-egg",
-     39.7,
-     -10.7
+     39,
+     -4.3
+    ],
+    [
+     "bp01-050-digtoise-seismic-drillback",
+     41.3,
+     -22.1
     ],
     [
      "td01-014-pengullet-frequent-flyer",
-     38.9,
-     -19.8
-    ],
-    [
-     "bp02-062-dazemu-stride-of-oblivion",
-     50.5,
-     -14.5
+     40.5,
+     -15
     ],
     [
      "td01-012-elphidran-aqua-gentle-ripples",
      43.9,
-     -9.3
+     -14.4
+    ],
+    [
+     "bp02-062-dazemu-stride-of-oblivion",
+     50.5,
+     -15.6
     ],
     [
      "bp02-025-frostallion-everlasting-rime",
@@ -7254,258 +7454,52 @@
     ],
     [
      "bp01-051-petallia-sweet-blessings",
-     47.9,
-     0.3
-    ],
-    [
-     "bp02-099-eikthyrdeer-warden-of-the-woods",
-     44,
-     6.5
+     46.9,
+     -1.1
     ],
     [
      "ss01-005-quivern-wyvern-s-breath",
-     53.9,
-     17.1
+     53.7,
+     11.1
+    ],
+    [
+     "bp02-099-eikthyrdeer-warden-of-the-woods",
+     45.7,
+     8.8
     ],
     [
      "td02-003-flopie-snack-lover",
-     46.4,
-     12.5
+     45.7,
+     13.3
     ],
     [
      "bp02-071-lily-s-gambit",
-     40.5,
-     0.3
+     39,
+     0.1
     ],
     [
      "bp02-046-victor-s-gambit",
-     34.8,
-     -11.7
+     34.3,
+     -9.8
     ],
     [
      "bp01-059-digtoise-keen-needleback",
      36.9,
      -2.5
-    ]
-   ],
-   "tier": "D",
-   "wr": "41.1",
-   "first": "",
-   "overviewText": ""
-  },
-  {
-   "text": "25 Leezpunk · Shadowbeak Purple / Blue 31.6%raw 35.4% 31.6% · 0.6% ▼ 0.9 345 2ND +2 $54",
-   "slug": "blue-purple-leezpunk-shadowbeak",
-   "list": [
-    [
-     "bp01-028-pengullet-yearning-for-the-sky",
-     4
     ],
     [
-     "bp01-074-shadowbeak-seed-of-despair",
-     2
-    ],
-    [
-     "bp01-075-katress-abyssal-sorcerer",
-     3
-    ],
-    [
-     "bp01-077-pyrin-noct-steed-of-azure-flames",
-     2
-    ],
-    [
-     "bp01-078-lyleen-noct-providence-of-the-goddess",
-     2
-    ],
-    [
-     "bp01-080-daedream-first-slumber",
-     4
-    ],
-    [
-     "bp01-084-menasting-darkness-dwelling-scorpion",
-     3
-    ],
-    [
-     "bp01-085-maraith-twilight-messenger",
-     2
-    ],
-    [
-     "bp01-087-loupmoon-glinting-moonlight",
-     2
-    ],
-    [
-     "bp01-088-lamp",
-     3
-    ],
-    [
-     "bp01-090-medieval-medicine-workbench",
-     4
-    ],
-    [
-     "bp01-094-daedream-s-necklace",
-     3
-    ],
-    [
-     "bp01-095-zoe-s-strategy",
-     4
-    ],
-    [
-     "td01-016-reindrix-icy-gaze",
-     4
-    ],
-    [
-     "td02-014-leezpunk-treasure-bandit",
-     4
-    ],
-    [
-     "td02-017-blazehowl-noct-darkflame-defender",
-     4
-    ]
-   ],
-   "usage": [
-    [
-     "bp01-074-shadowbeak-seed-of-despair",
-     36.2,
-     -0.4
-    ],
-    [
-     "bp01-084-menasting-darkness-dwelling-scorpion",
+     "bp02-066-pioneer-ranch",
      35.9,
-     3.9
-    ],
-    [
-     "td02-014-leezpunk-treasure-bandit",
-     35.1,
-     0.6
-    ],
-    [
-     "bp01-095-zoe-s-strategy",
-     35,
-     -2
-    ],
-    [
-     "bp01-078-lyleen-noct-providence-of-the-goddess",
-     34.7,
-     0.9
-    ],
-    [
-     "bp01-028-pengullet-yearning-for-the-sky",
-     36.4,
-     -3.2
-    ],
-    [
-     "bp01-090-medieval-medicine-workbench",
-     36.2,
-     1.7
-    ],
-    [
-     "bp01-077-pyrin-noct-steed-of-azure-flames",
-     36.3,
-     -4.8
-    ],
-    [
-     "td02-017-blazehowl-noct-darkflame-defender",
-     40.5,
-     4
-    ],
-    [
-     "td02-021-strike-from-the-darkness",
-     38.4,
-     -8.7
-    ],
-    [
-     "bp01-047-pal-sphere",
-     40.6,
-     2.6
-    ],
-    [
-     "bp01-044-pengullet-rocket-launcher",
-     38.1,
-     -14.6
-    ],
-    [
-     "bp01-038-cryolinx-arctic-ordeal",
-     43.6,
-     1.9
-    ],
-    [
-     "td01-016-reindrix-icy-gaze",
-     35.1,
-     20.4
-    ],
-    [
-     "bp01-085-maraith-twilight-messenger",
-     36.3,
-     -8.2
-    ],
-    [
-     "bp02-073-frostallion-noct-eternal-darkness",
-     38,
-     26
-    ],
-    [
-     "bp02-033-pengullet-locked-and-loaded",
-     43.5,
-     -11.2
-    ],
-    [
-     "bp01-088-lamp",
-     36.9,
-     -3.3
-    ],
-    [
-     "bp01-046-victor-s-strategy",
-     49.4,
-     -3.1
-    ],
-    [
-     "bp02-041-high-quality-hot-spring",
-     22.5,
-     -5.3
-    ],
-    [
-     "bp02-099-eikthyrdeer-warden-of-the-woods",
-     35.6,
-     2.4
-    ],
-    [
-     "bp01-094-daedream-s-necklace",
-     37.2,
-     15
-    ],
-    [
-     "bp02-085-bushi-noct-blade-of-regret",
-     22.5,
-     -16
-    ],
-    [
-     "bp01-075-katress-abyssal-sorcerer",
-     36,
-     -1.2
-    ],
-    [
-     "bp01-089-shoddy-bed",
-     44.3,
-     -12.1
-    ],
-    [
-     "bp01-091-wooden-wall",
-     35.7,
-     -17.6
-    ],
-    [
-     "bp01-082-daedream-deep-slumber",
-     40.9,
-     0
+     -7.4
     ]
    ],
    "tier": "D",
-   "wr": "35.4",
+   "wr": "41.0",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "26 Digtoise · Flopie Green / Purple 28.1%raw 33.1% 28.1% · 0.6% ▼ 1.1 317 2ND +7 $16",
+   "text": "25 Digtoise · Flopie Green / Purple 31.5%raw 35.2% 31.5% · 0.6% ▼ 1.0 372 2ND +7 $16",
    "slug": "green-purple-dumud-digtoise",
    "list": [
     [
@@ -7599,109 +7593,149 @@
    ],
    "usage": [
     [
-     "td02-004-dinossom-radiant-fragrance",
-     35.1,
-     0.2
+     "td02-003-flopie-snack-lover",
+     38.5,
+     2.6
     ],
     [
      "bp01-049-lyleen-blessing-of-the-goddess",
-     37.4,
-     5.6
-    ],
-    [
-     "td02-003-flopie-snack-lover",
-     36.3,
-     2.8
-    ],
-    [
-     "bp01-052-rushoar-reckless-destruction",
-     37.2,
-     -3.5
-    ],
-    [
-     "bp01-070-lily-s-strategy",
-     34.5,
-     -4.9
-    ],
-    [
-     "bp01-066-ranch",
-     33.3,
+     39.9,
      7
     ],
     [
-     "bp01-050-digtoise-seismic-drillback",
-     34.4,
-     22.2
+     "td02-004-dinossom-radiant-fragrance",
+     35.3,
+     -0.1
     ],
     [
-     "bp01-051-petallia-sweet-blessings",
-     31.1,
-     -0.5
+     "bp01-052-rushoar-reckless-destruction",
+     40.3,
+     -5.2
+    ],
+    [
+     "bp01-070-lily-s-strategy",
+     35.3,
+     -2
+    ],
+    [
+     "bp01-066-ranch",
+     34.8,
+     6.1
     ],
     [
      "bp01-057-dumud-mellow-bounty",
-     36.4,
-     5.6
+     37,
+     5
     ],
     [
-     "bp01-095-zoe-s-strategy",
-     34.1,
-     -11.2
+     "bp01-050-digtoise-seismic-drillback",
+     35.1,
+     22.7
     ],
     [
      "td02-021-strike-from-the-darkness",
-     33.6,
-     11.6
+     37.3,
+     6.1
+    ],
+    [
+     "bp01-051-petallia-sweet-blessings",
+     32.5,
+     0.6
     ],
     [
      "bp02-050-mammorest-gaia-crusher",
-     32.2,
-     -2.2
-    ],
-    [
-     "bp01-059-digtoise-keen-needleback",
-     41.7,
-     -14.9
-    ],
-    [
-     "td02-008-berry-plantation",
-     38.2,
-     -9.3
-    ],
-    [
-     "td02-024-chikipi-my-first-pal",
-     39,
-     12.9
-    ],
-    [
-     "bp02-061-surfent-terra-conqueror-of-the-sands",
-     40,
-     4.9
-    ],
-    [
-     "bp01-078-lyleen-noct-providence-of-the-goddess",
-     31,
+     36.8,
      -6.4
     ],
     [
+     "bp01-095-zoe-s-strategy",
+     34,
+     -6.1
+    ],
+    [
+     "td02-024-chikipi-my-first-pal",
+     43,
+     6.3
+    ],
+    [
+     "bp01-059-digtoise-keen-needleback",
+     41.3,
+     -15.5
+    ],
+    [
+     "td02-008-berry-plantation",
+     39.8,
+     -6.3
+    ],
+    [
      "bp02-055-beegarde-faithful-honor",
-     30.5,
-     16.6
+     35.3,
+     18.4
     ],
     [
-     "bp02-094-zoe-s-gambit",
-     37.5,
-     9.4
-    ],
-    [
-     "bp02-064-mill",
-     20.3,
-     -8.7
+     "bp02-061-surfent-terra-conqueror-of-the-sands",
+     39,
+     -0.5
     ],
     [
      "td02-014-leezpunk-treasure-bandit",
-     26.1,
-     -6
+     34.7,
+     -0.6
+    ],
+    [
+     "bp02-064-mill",
+     30.2,
+     -18.3
+    ],
+    [
+     "bp02-099-eikthyrdeer-warden-of-the-woods",
+     48.4,
+     -19.6
+    ],
+    [
+     "bp01-078-lyleen-noct-providence-of-the-goddess",
+     30.7,
+     -3.8
+    ],
+    [
+     "bp02-094-zoe-s-gambit",
+     37.8,
+     15.3
+    ],
+    [
+     "td02-017-blazehowl-noct-darkflame-defender",
+     41.3,
+     -1
+    ],
+    [
+     "bp02-049-anubis-noble-reaper",
+     45.3,
+     -6.9
+    ],
+    [
+     "bp02-066-pioneer-ranch",
+     26.7,
+     3.6
+    ],
+    [
+     "bp02-058-digtoise-pulverizing-whirl",
+     37.8,
+     -16.2
+    ],
+    [
+     "bp02-062-dazemu-stride-of-oblivion",
+     40,
+     -24.6
+    ],
+    [
+     "bp01-065-feed-box",
+     42.2,
+     -15.3
+    ],
+    [
+     "bp01-068-digtoise-s-headband",
+     34.4,
+     9.1
     ],
     [
      "bp01-090-medieval-medicine-workbench",
@@ -7709,19 +7743,9 @@
      -6.3
     ],
     [
-     "bp01-068-digtoise-s-headband",
-     35,
-     6.5
-    ],
-    [
      "bp02-085-bushi-noct-blade-of-regret",
-     25,
-     -17.9
-    ],
-    [
-     "bp01-065-feed-box",
-     40.7,
-     -12.1
+     24.6,
+     -16.4
     ],
     [
      "bp01-084-menasting-darkness-dwelling-scorpion",
@@ -7729,18 +7753,244 @@
      -10
     ],
     [
+     "bp01-054-warsect-iron-fortress",
+     37.5,
+     -8.3
+    ],
+    [
      "bp01-074-shadowbeak-seed-of-despair",
-     29.5,
-     -15.4
+     28.9,
+     -13.6
     ]
    ],
    "tier": "D",
-   "wr": "33.1",
+   "wr": "35.2",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "27 Foxparks · Pyrin Noct Purple / Red 39.5% 21.9% · 0.4% ▼ 1.2 223 2ND +9 $59",
+   "text": "26 Leezpunk · Shadowbeak Purple / Blue 31.9%raw 35.4% 31.9% · 0.6% ▼ 0.8 370 2ND +2 $54",
+   "slug": "blue-purple-leezpunk-shadowbeak",
+   "list": [
+    [
+     "bp01-028-pengullet-yearning-for-the-sky",
+     4
+    ],
+    [
+     "bp01-074-shadowbeak-seed-of-despair",
+     2
+    ],
+    [
+     "bp01-075-katress-abyssal-sorcerer",
+     3
+    ],
+    [
+     "bp01-077-pyrin-noct-steed-of-azure-flames",
+     2
+    ],
+    [
+     "bp01-078-lyleen-noct-providence-of-the-goddess",
+     2
+    ],
+    [
+     "bp01-080-daedream-first-slumber",
+     4
+    ],
+    [
+     "bp01-084-menasting-darkness-dwelling-scorpion",
+     3
+    ],
+    [
+     "bp01-085-maraith-twilight-messenger",
+     2
+    ],
+    [
+     "bp01-087-loupmoon-glinting-moonlight",
+     2
+    ],
+    [
+     "bp01-088-lamp",
+     3
+    ],
+    [
+     "bp01-090-medieval-medicine-workbench",
+     4
+    ],
+    [
+     "bp01-094-daedream-s-necklace",
+     3
+    ],
+    [
+     "bp01-095-zoe-s-strategy",
+     4
+    ],
+    [
+     "td01-016-reindrix-icy-gaze",
+     4
+    ],
+    [
+     "td02-014-leezpunk-treasure-bandit",
+     4
+    ],
+    [
+     "td02-017-blazehowl-noct-darkflame-defender",
+     4
+    ]
+   ],
+   "usage": [
+    [
+     "bp01-074-shadowbeak-seed-of-despair",
+     36.2,
+     -1.9
+    ],
+    [
+     "bp01-084-menasting-darkness-dwelling-scorpion",
+     36,
+     3.5
+    ],
+    [
+     "bp01-095-zoe-s-strategy",
+     35.4,
+     -1.3
+    ],
+    [
+     "td02-014-leezpunk-treasure-bandit",
+     35.8,
+     2.3
+    ],
+    [
+     "bp01-028-pengullet-yearning-for-the-sky",
+     36.5,
+     -0.9
+    ],
+    [
+     "bp01-078-lyleen-noct-providence-of-the-goddess",
+     34.4,
+     4.1
+    ],
+    [
+     "bp01-090-medieval-medicine-workbench",
+     36.6,
+     -1.3
+    ],
+    [
+     "bp01-077-pyrin-noct-steed-of-azure-flames",
+     36.1,
+     -4.2
+    ],
+    [
+     "td02-017-blazehowl-noct-darkflame-defender",
+     39.5,
+     1.8
+    ],
+    [
+     "bp01-047-pal-sphere",
+     42.1,
+     3.8
+    ],
+    [
+     "bp01-044-pengullet-rocket-launcher",
+     36.5,
+     -11.9
+    ],
+    [
+     "bp01-038-cryolinx-arctic-ordeal",
+     42.2,
+     -2.1
+    ],
+    [
+     "td02-021-strike-from-the-darkness",
+     38.3,
+     -7.9
+    ],
+    [
+     "td01-016-reindrix-icy-gaze",
+     35.5,
+     24.2
+    ],
+    [
+     "bp01-085-maraith-twilight-messenger",
+     35.7,
+     -9.2
+    ],
+    [
+     "bp02-033-pengullet-locked-and-loaded",
+     40.8,
+     -9.9
+    ],
+    [
+     "bp02-073-frostallion-noct-eternal-darkness",
+     38.2,
+     26.1
+    ],
+    [
+     "bp02-041-high-quality-hot-spring",
+     26.6,
+     -8.3
+    ],
+    [
+     "bp01-088-lamp",
+     36.2,
+     -4.5
+    ],
+    [
+     "bp02-099-eikthyrdeer-warden-of-the-woods",
+     36.3,
+     3.3
+    ],
+    [
+     "bp01-046-victor-s-strategy",
+     49.4,
+     -3.1
+    ],
+    [
+     "bp02-085-bushi-noct-blade-of-regret",
+     24.7,
+     -20.9
+    ],
+    [
+     "bp01-094-daedream-s-necklace",
+     37.2,
+     15
+    ],
+    [
+     "bp01-075-katress-abyssal-sorcerer",
+     34.6,
+     -3.5
+    ],
+    [
+     "bp02-036-celaray-carefree-wanderer",
+     26.7,
+     5
+    ],
+    [
+     "bp01-089-shoddy-bed",
+     44.3,
+     -12.1
+    ],
+    [
+     "bp01-091-wooden-wall",
+     35.7,
+     -17.6
+    ],
+    [
+     "bp01-082-daedream-deep-slumber",
+     40.9,
+     0
+    ],
+    [
+     "bp01-073-helzephyr-wings-of-the-moonless-night",
+     39.7,
+     8.3
+    ]
+   ],
+   "tier": "D",
+   "wr": "35.4",
+   "first": "",
+   "overviewText": ""
+  },
+  {
+   "text": "27 Foxparks · Pyrin Noct Purple / Red 23.7%raw 39.3% 23.7% · 0.4% ▼ 1.1 267 2ND +8 $59",
    "slug": "purple-red-foxparks-kitsun",
    "list": [
     [
@@ -7811,107 +8061,152 @@
    "usage": [
     [
      "bp01-095-zoe-s-strategy",
-     40.1,
-     -11.9
+     39.9,
+     -13.2
     ],
     [
      "td01-004-foxparks-a-toasty-hug",
-     42.4,
-     16.1
+     41.9,
+     10.6
     ],
     [
      "bp01-006-foxparks-light-of-courage",
-     45,
-     7.2
-    ],
-    [
-     "bp01-074-shadowbeak-seed-of-despair",
-     42.6,
-     10.9
-    ],
-    [
-     "bp01-077-pyrin-noct-steed-of-azure-flames",
-     42.9,
-     6.3
-    ],
-    [
-     "td02-014-leezpunk-treasure-bandit",
-     41.1,
-     22.2
-    ],
-    [
-     "bp01-020-pump-action-shotgun",
-     48.4,
-     1.1
+     43.9,
+     10.7
     ],
     [
      "bp01-084-menasting-darkness-dwelling-scorpion",
-     46.4,
-     -10.3
+     44.9,
+     -5.4
     ],
     [
-     "td02-017-blazehowl-noct-darkflame-defender",
-     35.5,
-     -5.8
+     "bp01-077-pyrin-noct-steed-of-azure-flames",
+     42.1,
+     6.8
     ],
     [
-     "bp02-073-frostallion-noct-eternal-darkness",
-     38.4,
-     2.1
+     "td02-014-leezpunk-treasure-bandit",
+     41,
+     24
     ],
     [
-     "bp01-078-lyleen-noct-providence-of-the-goddess",
-     53.2,
-     -18.9
-    ],
-    [
-     "ss01-005-quivern-wyvern-s-breath",
-     42,
-     -10.8
-    ],
-    [
-     "bp01-016-primitive-furnace",
-     54.7,
+     "bp01-074-shadowbeak-seed-of-despair",
+     42.3,
      12.1
     ],
     [
-     "td01-008-stone-pit",
-     50.8,
-     -6.9
+     "bp01-020-pump-action-shotgun",
+     46.6,
+     2.8
     ],
     [
-     "bp01-089-shoddy-bed",
-     31.7,
-     0.4
+     "bp01-019-foxparks-harness",
+     45.2,
+     -4.4
     ],
     [
-     "td02-021-strike-from-the-darkness",
-     28.8,
-     -9.8
+     "td02-017-blazehowl-noct-darkflame-defender",
+     34.5,
+     -1.6
+    ],
+    [
+     "bp02-013-foxparks-breathing-practice",
+     41.2,
+     -0.9
+    ],
+    [
+     "ss01-005-quivern-wyvern-s-breath",
+     41.6,
+     -14.1
+    ],
+    [
+     "bp01-094-daedream-s-necklace",
+     33.7,
+     -26.6
+    ],
+    [
+     "bp02-073-frostallion-noct-eternal-darkness",
+     39.3,
+     0.7
+    ],
+    [
+     "bp01-078-lyleen-noct-providence-of-the-goddess",
+     51.1,
+     -13.5
+    ],
+    [
+     "bp01-082-daedream-deep-slumber",
+     35.8,
+     -9
+    ],
+    [
+     "bp02-085-bushi-noct-blade-of-regret",
+     35,
+     -8.7
+    ],
+    [
+     "bp01-016-primitive-furnace",
+     52.1,
+     13.9
     ],
     [
      "bp01-079-depresso-late-night-hustler",
-     30.4,
-     9.3
+     31.4,
+     8
+    ],
+    [
+     "bp01-089-shoddy-bed",
+     33.3,
+     0.8
+    ],
+    [
+     "td01-008-stone-pit",
+     48.5,
+     -7.8
+    ],
+    [
+     "td02-021-strike-from-the-darkness",
+     27.9,
+     -9.6
     ],
     [
      "bp01-015-mounted-machine-gun",
-     56.4,
-     -13.4
+     51.6,
+     -16.2
+    ],
+    [
+     "bp01-073-helzephyr-wings-of-the-moonless-night",
+     34.5,
+     7.9
     ],
     [
      "bp01-088-lamp",
-     24.1,
-     -8.5
+     26.8,
+     -3.4
+    ],
+    [
+     "td01-023-lamball-my-first-pal",
+     41.1,
+     7.4
+    ],
+    [
+     "bp01-085-maraith-twilight-messenger",
+     38.2,
+     7.8
+    ],
+    [
+     "bp02-094-zoe-s-gambit",
+     44.9,
+     -11.9
     ]
    ],
    "tier": "D",
-   "wr": "39.5",
+   "wr": "39.3",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "28 Blue Blue 37.3%raw 36.8% 37.3% · 0.4% → 0.2 201 1ST +1 $16",
+   "text": "28 Blue Blue 37.3%raw 36.3% 37.3% · 0.3% → 0.2 212 1ST +1 $16",
    "slug": "blue-water-fountain-sweepa",
    "list": [
     [
@@ -7966,199 +8261,77 @@
    "usage": [
     [
      "bp02-036-celaray-carefree-wanderer",
-     36.1,
-     -4.9
+     35.6,
+     -6.9
     ],
     [
      "bp01-028-pengullet-yearning-for-the-sky",
-     39.2,
-     10.8
+     38.4,
+     9.7
     ],
     [
      "bp02-040-water-fountain",
-     39.9,
-     20.7
+     39.8,
+     20.5
     ],
     [
      "bp02-033-pengullet-locked-and-loaded",
-     37.8,
-     12.7
+     37.1,
+     13.5
     ],
     [
      "td01-016-reindrix-icy-gaze",
-     38.3,
-     -5.4
+     38,
+     -5.8
     ],
     [
      "td01-014-pengullet-frequent-flyer",
-     40.9,
-     -14.9
+     40.3,
+     -13.5
     ],
     [
      "bp01-038-cryolinx-arctic-ordeal",
-     38.8,
-     11.1
+     37.9,
+     8.4
+    ],
+    [
+     "bp01-031-penking-mighty-warrior-of-the-deep",
+     34.7,
+     -5.5
     ],
     [
      "bp01-040-antique-dresser",
-     30.3,
-     8.6
+     31.1,
+     8.4
+    ],
+    [
+     "td01-018-mammorest-cryst-roar-of-the-tundra",
+     25,
+     -15.4
     ],
     [
      "td01-019-antique-wooden-chair",
      28.1,
-     -7.7
+     -7.8
     ],
     [
      "bp02-042-antique-partition",
-     23.6,
-     -16.3
+     24.6,
+     -16
+    ],
+    [
+     "bp02-039-antique-cabinet",
+     28.3,
+     -9.4
     ]
    ],
    "tier": "D",
-   "wr": "36.8",
+   "wr": "36.3",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "29 Lamball · Stone Pit Red / Purple 44.4% 31.7% · 0.3% ▼▼ 4.4 160 2ND +7 $18",
-   "slug": "purple-red-lamball-stone-pit",
-   "list": [
-    [
-     "bp01-002-suzaku-hellfire-wings",
-     2
-    ],
-    [
-     "bp01-004-bushi-ephemeral-blade",
-     2
-    ],
-    [
-     "bp01-015-mounted-machine-gun",
-     4
-    ],
-    [
-     "bp01-016-primitive-furnace",
-     4
-    ],
-    [
-     "bp01-020-pump-action-shotgun",
-     4
-    ],
-    [
-     "bp01-078-lyleen-noct-providence-of-the-goddess",
-     2
-    ],
-    [
-     "bp01-084-menasting-darkness-dwelling-scorpion",
-     4
-    ],
-    [
-     "bp01-097-black-marketeer",
-     4
-    ],
-    [
-     "td01-004-foxparks-a-toasty-hug",
-     4
-    ],
-    [
-     "td01-008-stone-pit",
-     4
-    ],
-    [
-     "td01-023-lamball-my-first-pal",
-     2
-    ],
-    [
-     "td01-024-ribbuny-little-princess",
-     4
-    ],
-    [
-     "td02-014-leezpunk-treasure-bandit",
-     4
-    ],
-    [
-     "td02-017-blazehowl-noct-darkflame-defender",
-     4
-    ],
-    [
-     "td02-023-cattiva-my-first-pal",
-     2
-    ]
-   ],
-   "usage": [
-    [
-     "td01-004-foxparks-a-toasty-hug",
-     45.4,
-     11.2
-    ],
-    [
-     "bp01-016-primitive-furnace",
-     43.2,
-     8.1
-    ],
-    [
-     "td01-008-stone-pit",
-     43.8,
-     5
-    ],
-    [
-     "bp01-020-pump-action-shotgun",
-     45.5,
-     11.1
-    ],
-    [
-     "bp01-015-mounted-machine-gun",
-     43.3,
-     13.4
-    ],
-    [
-     "td02-014-leezpunk-treasure-bandit",
-     47.4,
-     0.8
-    ],
-    [
-     "bp01-095-zoe-s-strategy",
-     45.9,
-     2.7
-    ],
-    [
-     "bp01-084-menasting-darkness-dwelling-scorpion",
-     48.8,
-     -5.6
-    ],
-    [
-     "bp01-078-lyleen-noct-providence-of-the-goddess",
-     47.9,
-     0.8
-    ],
-    [
-     "td01-023-lamball-my-first-pal",
-     42,
-     -0.9
-    ],
-    [
-     "bp01-074-shadowbeak-seed-of-despair",
-     49.1,
-     -10.8
-    ],
-    [
-     "td02-017-blazehowl-noct-darkflame-defender",
-     47.3,
-     2.9
-    ],
-    [
-     "td02-023-cattiva-my-first-pal",
-     44.9,
-     8.8
-    ]
-   ],
-   "tier": "C",
-   "wr": "44.4",
-   "first": "",
-   "overviewText": ""
-  },
-  {
-   "text": "30 Flambelle · Primitive Furnace Red / Green 40.8% 27.7% · 0.3% → 0.3 147 2ND +5 $27",
+   "text": "29 Flambelle · Primitive Furnace Red / Green 28.8%raw 43.4% 28.8% · 0.3% → 0.3 173 2ND +6 $27",
    "slug": "green-red-foxparks-primitive-furnace",
    "list": [
     [
@@ -8241,28 +8414,58 @@
    "usage": [
     [
      "td01-004-foxparks-a-toasty-hug",
-     44.7,
-     18.4
-    ],
-    [
-     "bp01-012-flambelle-scorching-tears",
-     40,
-     -5.7
+     47.3,
+     11.8
     ],
     [
      "bp01-016-primitive-furnace",
-     39.2,
-     11.4
+     40.5,
+     15.6
+    ],
+    [
+     "bp01-012-flambelle-scorching-tears",
+     39.6,
+     -4.3
     ],
     [
      "bp01-020-pump-action-shotgun",
-     41.6,
-     -19.8
+     42.3,
+     -9.8
     ],
     [
      "td01-023-lamball-my-first-pal",
+     54.3,
+     -0.8
+    ],
+    [
+     "bp02-012-jolthog-10-million-volt-barrier",
+     38.9,
+     13.2
+    ],
+    [
+     "bp01-052-rushoar-reckless-destruction",
+     51.8,
+     -6
+    ],
+    [
+     "bp01-015-mounted-machine-gun",
+     39.7,
+     13.9
+    ],
+    [
+     "bp01-049-lyleen-blessing-of-the-goddess",
+     46.2,
+     9
+    ],
+    [
+     "td02-023-cattiva-my-first-pal",
      51.3,
-     -1.5
+     -28.6
+    ],
+    [
+     "td01-008-stone-pit",
+     44.3,
+     4.7
     ],
     [
      "ss01-005-quivern-wyvern-s-breath",
@@ -8270,18 +8473,321 @@
      21.6
     ],
     [
+     "bp02-002-katress-ignis-scathing-counter",
+     38.6,
+     18.2
+    ],
+    [
      "td01-010-single-shot-rifle",
      49.1,
-     19.5
+     18.9
+    ],
+    [
+     "bp02-022-axel-s-gambit",
+     45.5,
+     -10
     ]
    ],
    "tier": "D",
-   "wr": "40.8",
+   "wr": "43.4",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "31 Digtoise · Flopie Green / Red 38.6% 30.2% · 0.2% → 0.2 127 2ND +8 $16",
+   "text": "30 Lamball · Stone Pit Red / Purple 30.2%raw 44.3% 30.2% · 0.3% ▼▼ 4.1 167 2ND +7 $18",
+   "slug": "purple-red-lamball-stone-pit",
+   "list": [
+    [
+     "bp01-002-suzaku-hellfire-wings",
+     2
+    ],
+    [
+     "bp01-004-bushi-ephemeral-blade",
+     2
+    ],
+    [
+     "bp01-015-mounted-machine-gun",
+     4
+    ],
+    [
+     "bp01-016-primitive-furnace",
+     4
+    ],
+    [
+     "bp01-020-pump-action-shotgun",
+     4
+    ],
+    [
+     "bp01-078-lyleen-noct-providence-of-the-goddess",
+     2
+    ],
+    [
+     "bp01-084-menasting-darkness-dwelling-scorpion",
+     4
+    ],
+    [
+     "bp01-097-black-marketeer",
+     4
+    ],
+    [
+     "td01-004-foxparks-a-toasty-hug",
+     4
+    ],
+    [
+     "td01-008-stone-pit",
+     4
+    ],
+    [
+     "td01-023-lamball-my-first-pal",
+     2
+    ],
+    [
+     "td01-024-ribbuny-little-princess",
+     4
+    ],
+    [
+     "td02-014-leezpunk-treasure-bandit",
+     4
+    ],
+    [
+     "td02-017-blazehowl-noct-darkflame-defender",
+     4
+    ],
+    [
+     "td02-023-cattiva-my-first-pal",
+     2
+    ]
+   ],
+   "usage": [
+    [
+     "td01-004-foxparks-a-toasty-hug",
+     44.9,
+     11.8
+    ],
+    [
+     "bp01-016-primitive-furnace",
+     43.1,
+     3.5
+    ],
+    [
+     "td01-008-stone-pit",
+     43.8,
+     4.6
+    ],
+    [
+     "bp01-020-pump-action-shotgun",
+     45.4,
+     9.5
+    ],
+    [
+     "td02-014-leezpunk-treasure-bandit",
+     46.9,
+     -0.4
+    ],
+    [
+     "bp01-015-mounted-machine-gun",
+     43.7,
+     11.9
+    ],
+    [
+     "bp01-095-zoe-s-strategy",
+     46.3,
+     3.3
+    ],
+    [
+     "bp01-084-menasting-darkness-dwelling-scorpion",
+     48.8,
+     -5.6
+    ],
+    [
+     "bp01-078-lyleen-noct-providence-of-the-goddess",
+     47.9,
+     0.8
+    ],
+    [
+     "td01-023-lamball-my-first-pal",
+     42,
+     -0.9
+    ],
+    [
+     "td02-017-blazehowl-noct-darkflame-defender",
+     47.1,
+     4.4
+    ],
+    [
+     "bp01-074-shadowbeak-seed-of-despair",
+     49.1,
+     -10.8
+    ],
+    [
+     "td02-023-cattiva-my-first-pal",
+     44.9,
+     8.8
+    ]
+   ],
+   "tier": "D",
+   "wr": "44.3",
+   "first": "",
+   "overviewText": ""
+  },
+  {
+   "text": "31 Digtoise · Mammorest Green / Red 18.0%raw 41.7% 18.0% · 0.3% → 0.1 163 1ST +4 $22",
+   "slug": "green-red-digtoise-mammorest",
+   "list": [
+    [
+     "bp01-006-foxparks-light-of-courage",
+     4
+    ],
+    [
+     "bp01-019-foxparks-harness",
+     4
+    ],
+    [
+     "bp01-049-lyleen-blessing-of-the-goddess",
+     3
+    ],
+    [
+     "bp01-058-gumoss-curious-sprout",
+     3
+    ],
+    [
+     "bp01-066-ranch",
+     4
+    ],
+    [
+     "bp01-070-lily-s-strategy",
+     3
+    ],
+    [
+     "bp02-012-jolthog-10-million-volt-barrier",
+     2
+    ],
+    [
+     "bp02-013-foxparks-breathing-practice",
+     3
+    ],
+    [
+     "bp02-050-mammorest-gaia-crusher",
+     2
+    ],
+    [
+     "bp02-057-eikthyrdeer-terra-will-of-nature",
+     2
+    ],
+    [
+     "bp02-058-digtoise-pulverizing-whirl",
+     3
+    ],
+    [
+     "ss01-005-quivern-wyvern-s-breath",
+     3
+    ],
+    [
+     "td01-004-foxparks-a-toasty-hug",
+     4
+    ],
+    [
+     "td01-010-single-shot-rifle",
+     2
+    ],
+    [
+     "td02-004-dinossom-radiant-fragrance",
+     4
+    ],
+    [
+     "td02-008-berry-plantation",
+     4
+    ]
+   ],
+   "usage": [
+    [
+     "td02-004-dinossom-radiant-fragrance",
+     45.7,
+     -11.1
+    ],
+    [
+     "ss01-005-quivern-wyvern-s-breath",
+     48.3,
+     2.6
+    ],
+    [
+     "bp01-066-ranch",
+     45.3,
+     -11
+    ],
+    [
+     "bp02-012-jolthog-10-million-volt-barrier",
+     45.2,
+     2.2
+    ],
+    [
+     "td01-004-foxparks-a-toasty-hug",
+     48.6,
+     2
+    ],
+    [
+     "bp01-049-lyleen-blessing-of-the-goddess",
+     48.1,
+     -8.5
+    ],
+    [
+     "bp02-058-digtoise-pulverizing-whirl",
+     47.2,
+     5.9
+    ],
+    [
+     "bp02-050-mammorest-gaia-crusher",
+     45.7,
+     -2
+    ],
+    [
+     "bp01-006-foxparks-light-of-courage",
+     52.6,
+     -10.7
+    ],
+    [
+     "bp01-019-foxparks-harness",
+     52.6,
+     11.3
+    ],
+    [
+     "bp02-057-eikthyrdeer-terra-will-of-nature",
+     47.3,
+     -2.6
+    ],
+    [
+     "bp02-013-foxparks-breathing-practice",
+     52.7,
+     -10.9
+    ],
+    [
+     "bp01-070-lily-s-strategy",
+     46.5,
+     2.4
+    ],
+    [
+     "td01-010-single-shot-rifle",
+     44.9,
+     -5.8
+    ],
+    [
+     "bp01-058-gumoss-curious-sprout",
+     47,
+     -8
+    ],
+    [
+     "bp02-055-beegarde-faithful-honor",
+     38.1,
+     -18.3
+    ]
+   ],
+   "tier": "D",
+   "wr": "41.7",
+   "first": "",
+   "overviewText": ""
+  },
+  {
+   "text": "32 Digtoise · Flopie Green / Red 28.6%raw 40.3% 28.6% · 0.2% → 0.1 144 2ND +6 $16",
    "slug": "green-red-flopie-berry-plantation",
    "list": [
     [
@@ -8359,219 +8865,88 @@
    ],
    "usage": [
     [
-     "bp01-049-lyleen-blessing-of-the-goddess",
-     43.1,
-     15.9
+     "td02-003-flopie-snack-lover",
+     41.5,
+     -4.1
     ],
     [
-     "td02-003-flopie-snack-lover",
-     39.2,
-     -1.9
+     "bp01-049-lyleen-blessing-of-the-goddess",
+     45.1,
+     15.5
     ],
     [
      "bp01-020-pump-action-shotgun",
-     37.5,
-     -22.6
+     40.9,
+     -23.7
+    ],
+    [
+     "td02-004-dinossom-radiant-fragrance",
+     41.6,
+     -19.8
     ],
     [
      "bp01-052-rushoar-reckless-destruction",
-     41.6,
-     5.5
-    ],
-    [
-     "td02-004-dinossom-radiant-fragrance",
-     38.7,
-     -10.7
-    ],
-    [
-     "bp02-050-mammorest-gaia-crusher",
-     38.4,
-     -10
-    ],
-    [
-     "bp01-050-digtoise-seismic-drillback",
-     33.3,
-     -15.1
+     44.3,
+     6.4
     ],
     [
      "bp01-059-digtoise-keen-needleback",
-     37.7,
-     -17.4
+     40,
+     -17.7
+    ],
+    [
+     "bp02-050-mammorest-gaia-crusher",
+     38.5,
+     -7.2
     ],
     [
      "bp02-055-beegarde-faithful-honor",
-     40.3,
-     5.5
+     43.2,
+     6.2
+    ],
+    [
+     "bp01-050-digtoise-seismic-drillback",
+     34.2,
+     -13.6
     ],
     [
      "bp02-099-eikthyrdeer-warden-of-the-woods",
-     42.6,
-     -20.5
+     45.1,
+     -23.6
     ],
     [
      "bp02-064-mill",
-     41.1,
-     6.1
-    ],
-    [
-     "td02-008-berry-plantation",
-     38.2,
-     -9.5
+     44.1,
+     -1.9
     ],
     [
      "bp01-007-kitsun-wyrmbane-fangs",
-     40.4,
-     -26.9
-    ]
-   ],
-   "tier": "D",
-   "wr": "38.6",
-   "first": "",
-   "overviewText": ""
-  },
-  {
-   "text": "32 Digtoise · Mammorest Green / Red 44.4% 17.1% · 0.2% → 0.0 126 1ST +5 $22",
-   "slug": "green-red-digtoise-mammorest",
-   "list": [
-    [
-     "bp01-006-foxparks-light-of-courage",
-     4
-    ],
-    [
-     "bp01-019-foxparks-harness",
-     4
-    ],
-    [
-     "bp01-049-lyleen-blessing-of-the-goddess",
-     3
-    ],
-    [
-     "bp01-058-gumoss-curious-sprout",
-     3
-    ],
-    [
-     "bp01-066-ranch",
-     4
-    ],
-    [
-     "bp01-070-lily-s-strategy",
-     3
-    ],
-    [
-     "bp02-012-jolthog-10-million-volt-barrier",
-     2
-    ],
-    [
-     "bp02-013-foxparks-breathing-practice",
-     3
-    ],
-    [
-     "bp02-050-mammorest-gaia-crusher",
-     2
-    ],
-    [
-     "bp02-057-eikthyrdeer-terra-will-of-nature",
-     2
-    ],
-    [
-     "bp02-058-digtoise-pulverizing-whirl",
-     3
-    ],
-    [
-     "ss01-005-quivern-wyvern-s-breath",
-     3
-    ],
-    [
-     "td01-004-foxparks-a-toasty-hug",
-     4
-    ],
-    [
-     "td01-010-single-shot-rifle",
-     2
-    ],
-    [
-     "td02-004-dinossom-radiant-fragrance",
-     4
+     44.1,
+     -36.3
     ],
     [
      "td02-008-berry-plantation",
-     4
-    ]
-   ],
-   "usage": [
-    [
-     "td02-004-dinossom-radiant-fragrance",
-     46,
-     -15.6
+     39,
+     -15.9
     ],
     [
-     "td01-004-foxparks-a-toasty-hug",
-     49.1,
-     2.9
-    ],
-    [
-     "bp01-049-lyleen-blessing-of-the-goddess",
-     48.6,
-     -10
-    ],
-    [
-     "bp02-058-digtoise-pulverizing-whirl",
-     47.6,
-     6.7
-    ],
-    [
-     "bp01-066-ranch",
-     45.6,
-     -13.7
-    ],
-    [
-     "bp02-050-mammorest-gaia-crusher",
-     46.6,
-     -2.8
-    ],
-    [
-     "ss01-005-quivern-wyvern-s-breath",
-     48.5,
-     -2.3
-    ],
-    [
-     "bp02-012-jolthog-10-million-volt-barrier",
-     45.5,
-     -0.7
-    ],
-    [
-     "bp02-057-eikthyrdeer-terra-will-of-nature",
-     47.8,
-     -4
-    ],
-    [
-     "bp02-013-foxparks-breathing-practice",
-     53.4,
-     -10.1
+     "bp02-071-lily-s-gambit",
+     37.9,
+     -0.8
     ],
     [
      "bp01-070-lily-s-strategy",
-     47,
-     3.8
-    ],
-    [
-     "td01-010-single-shot-rifle",
-     44.7,
-     -3.2
-    ],
-    [
-     "bp01-058-gumoss-curious-sprout",
-     47,
-     -8
+     34.5,
+     0.3
     ]
    ],
-   "tier": "C",
-   "wr": "44.4",
+   "tier": "D",
+   "wr": "40.3",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "33 Red Red 42.2% — · 0.2% → 0.1 109 1ST +4 —",
+   "text": "33 Red Red 43.8% — · 0.2% → 0.1 112 1ST +4 —",
    "slug": "red-foxparks",
    "list": [
     [
@@ -8634,42 +9009,42 @@
    "usage": [
     [
      "bp02-001-orserk-thunderclap-roar",
-     42,
-     -13.4
-    ],
-    [
-     "bp01-016-primitive-furnace",
-     45,
-     -5.8
-    ],
-    [
-     "bp02-018-rocket-launcher",
-     39.4,
+     44,
      -10.4
     ],
     [
-     "bp02-013-foxparks-breathing-practice",
-     47.6,
-     -9.8
+     "bp01-016-primitive-furnace",
+     45.7,
+     -4.7
     ],
     [
-     "bp01-015-mounted-machine-gun",
-     39.6,
-     25
+     "bp02-018-rocket-launcher",
+     41.2,
+     -11.4
+    ],
+    [
+     "bp02-013-foxparks-breathing-practice",
+     50,
+     -9.4
     ],
     [
      "bp01-020-pump-action-shotgun",
-     43.4,
-     -1.3
+     46.4,
+     -0.6
+    ],
+    [
+     "bp01-015-mounted-machine-gun",
+     40.7,
+     26.5
     ]
    ],
    "tier": "D",
-   "wr": "42.2",
+   "wr": "43.8",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "34 Chikipi · Flopie Green / Purple 35.4% — · 0.2% → 0.0 96 2ND +2 $9",
+   "text": "34 Chikipi · Flopie Green / Purple 33.0% — · 0.2% → 0.0 103 2ND +3 $9",
    "slug": "green-purple-chikipi-hanging-trap",
    "list": [
     [
@@ -8772,132 +9147,260 @@
    "usage": [
     [
      "td02-004-dinossom-radiant-fragrance",
-     37.8,
-     -0.5
+     35.1,
+     0
     ],
     [
      "td02-014-leezpunk-treasure-bandit",
-     38.6,
-     12.1
+     35.6,
+     11.9
     ],
     [
      "td02-018-felbat-lifestealer",
-     38.6,
-     -19.3
+     35.6,
+     -9.8
     ],
     [
      "td02-015-cawgnito-looming-shadow",
-     38.8,
-     -3.9
-    ],
-    [
-     "td02-023-cattiva-my-first-pal",
-     41.9,
-     15.8
+     36.5,
+     -4.9
     ],
     [
      "td02-013-hoocrates-embodiment-of-wisdom",
-     42.5,
-     6
+     39.7,
+     7.7
+    ],
+    [
+     "td02-023-cattiva-my-first-pal",
+     40.3,
+     15.1
     ],
     [
      "td02-003-flopie-snack-lover",
-     34.3,
-     -18
-    ],
-    [
-     "td02-012-astegon-aegis-wyvern-of-death",
-     34.8,
-     20.2
+     32,
+     -17.5
     ],
     [
      "td02-005-eikthyrdeer-terra-guardian-of-nature",
-     35.4,
-     5.7
-    ],
-    [
-     "td02-007-mammorest-roar-of-the-wilds",
-     35.4,
-     -0.9
-    ],
-    [
-     "td02-017-blazehowl-noct-darkflame-defender",
-     35.4,
-     -9.6
+     31.9,
+     6.1
     ],
     [
      "td02-008-berry-plantation",
-     35.9,
-     2.4
+     32.4,
+     3.7
+    ],
+    [
+     "td02-012-astegon-aegis-wyvern-of-death",
+     32.4,
+     19.6
+    ],
+    [
+     "td02-007-mammorest-roar-of-the-wilds",
+     32.9,
+     1.2
+    ],
+    [
+     "td02-017-blazehowl-noct-darkflame-defender",
+     32.9,
+     -6.1
     ],
     [
      "td02-006-broncherry-brimming-adoration",
-     38.7,
-     -24.1
+     35.8,
+     -19.4
     ],
     [
      "td02-021-strike-from-the-darkness",
-     37.1,
-     -14.9
-    ],
-    [
-     "td02-022-medical-supplies",
-     36.1,
-     17.2
-    ],
-    [
-     "td02-019-hanging-trap",
-     36.7,
-     21.9
+     34.3,
+     -16.7
     ],
     [
      "td02-011-stone-blast",
-     39,
-     4.2
+     34.8,
+     3.7
     ],
     [
-     "td02-001-mossanda-guard-captain",
-     39.7,
-     6
-    ],
-    [
-     "td02-002-gumoss-dreamy-seedling",
-     39.7,
-     22
+     "td02-022-medical-supplies",
+     33.3,
+     12.7
     ],
     [
      "td02-009-campfire",
-     39.7,
-     1.5
+     35.4,
+     0
     ],
     [
      "td02-010-refined-metal-spear",
-     39.7,
-     13.5
+     35.4,
+     17.6
     ],
     [
-     "td02-024-chikipi-my-first-pal",
-     40.4,
-     -7.4
+     "td02-019-hanging-trap",
+     33.8,
+     19.8
     ],
     [
-     "td02-020-cawgnito-hat",
-     39.3,
-     -25.6
+     "td02-001-mossanda-guard-captain",
+     36.5,
+     5.7
+    ],
+    [
+     "td02-002-gumoss-dreamy-seedling",
+     37.7,
+     19.1
     ],
     [
      "td02-016-incineram-lurking-stalker",
-     42.6,
-     -13
+     37.7,
+     -9.5
+    ],
+    [
+     "td02-020-cawgnito-hat",
+     36.1,
+     -18
+    ],
+    [
+     "td02-024-chikipi-my-first-pal",
+     38.3,
+     -11.8
     ]
    ],
    "tier": "D",
-   "wr": "35.4",
+   "wr": "33.0",
    "first": "",
    "overviewText": ""
   },
   {
-   "text": "35 Stone Pit · Kelpsea Ignis Red / Blue 33.3% — · 0.1% → 0.1 81 2ND +9 $12",
+   "text": "35 Medieval Medicine Workbench · Shadowbeak Purple 32.1% — · 0.1% → 0.1 84 2ND +2 —",
+   "slug": "purple-helzephyr-blazehowl-noct",
+   "list": [
+    [
+     "bp01-073-helzephyr-wings-of-the-moonless-night",
+     4
+    ],
+    [
+     "bp01-074-shadowbeak-seed-of-despair",
+     2
+    ],
+    [
+     "bp01-077-pyrin-noct-steed-of-azure-flames",
+     4
+    ],
+    [
+     "bp01-080-daedream-first-slumber",
+     4
+    ],
+    [
+     "bp01-088-lamp",
+     2
+    ],
+    [
+     "bp01-089-shoddy-bed",
+     4
+    ],
+    [
+     "bp01-090-medieval-medicine-workbench",
+     2
+    ],
+    [
+     "bp01-094-daedream-s-necklace",
+     4
+    ],
+    [
+     "bp01-095-zoe-s-strategy",
+     2
+    ],
+    [
+     "bp02-073-frostallion-noct-eternal-darkness",
+     2
+    ],
+    [
+     "bp02-074-selyne-saya-s-moonlit-beacon",
+     4
+    ],
+    [
+     "bp02-085-bushi-noct-blade-of-regret",
+     4
+    ],
+    [
+     "bp02-095-saya-s-crescent-moon",
+     4
+    ],
+    [
+     "td02-017-blazehowl-noct-darkflame-defender",
+     2
+    ]
+   ],
+   "usage": [
+    [
+     "bp01-077-pyrin-noct-steed-of-azure-flames",
+     32.5,
+     2.9
+    ],
+    [
+     "bp01-082-daedream-deep-slumber",
+     31.6,
+     31.2
+    ],
+    [
+     "bp01-074-shadowbeak-seed-of-despair",
+     34.2,
+     0.8
+    ],
+    [
+     "bp01-088-lamp",
+     30.6,
+     3.2
+    ],
+    [
+     "bp01-095-zoe-s-strategy",
+     34.3,
+     0.3
+    ],
+    [
+     "bp01-094-daedream-s-necklace",
+     32.8,
+     24.5
+    ],
+    [
+     "bp01-080-daedream-first-slumber",
+     33.3,
+     7.4
+    ],
+    [
+     "bp02-073-frostallion-noct-eternal-darkness",
+     28.8,
+     -3.4
+    ],
+    [
+     "bp01-089-shoddy-bed",
+     36.2,
+     24
+    ],
+    [
+     "bp01-073-helzephyr-wings-of-the-moonless-night",
+     33.3,
+     -7.5
+    ],
+    [
+     "bp01-079-depresso-late-night-hustler",
+     33.9,
+     7.1
+    ],
+    [
+     "bp01-090-medieval-medicine-workbench",
+     26,
+     -16.3
+    ]
+   ],
+   "tier": "D",
+   "wr": "32.1",
+   "first": "",
+   "overviewText": ""
+  },
+  {
+   "text": "36 Stone Pit · Kelpsea Ignis Red / Blue 33.7% — · 0.1% → 0.1 83 2ND +7 $12",
    "slug": "blue-red-suzaku-aqua-stone-pit",
    "list": [
     [
@@ -9000,240 +9503,122 @@
    "usage": [
     [
      "td01-010-single-shot-rifle",
-     32.1,
-     -4.4
+     32.9,
+     -6.7
     ],
     [
      "td01-017-suzaku-aqua-way-of-the-current",
-     30.3,
-     5.6
-    ],
-    [
-     "td01-014-pengullet-frequent-flyer",
-     34.7,
-     12.3
+     30.8,
+     6.4
     ],
     [
      "td01-021-single-shot-sphere-launcher",
-     29.3,
-     14.2
+     29.9,
+     14.8
     ],
     [
      "td01-004-foxparks-a-toasty-hug",
-     31.1,
-     -3
+     31.6,
+     -5.6
+    ],
+    [
+     "td01-014-pengullet-frequent-flyer",
+     35.5,
+     9.9
     ],
     [
      "td01-016-reindrix-icy-gaze",
-     31.1,
-     -4.8
+     31.6,
+     -1.9
     ],
     [
      "td01-003-kelpsea-ignis-balmy-magma",
-     31.5,
-     2
+     32,
+     2.7
     ],
     [
      "td01-002-jolthog-shocking-yet-innocent",
-     34.7,
-     26.1
+     35.1,
+     22.5
     ],
     [
      "td01-001-grizzbolt-rumbling-tank",
-     31,
-     4.9
+     31.9,
+     7.2
     ],
     [
      "td01-007-blazamut-molten-sovereign",
-     31.4,
-     4.5
+     32.4,
+     7.3
     ],
     [
      "td01-012-elphidran-aqua-gentle-ripples",
-     30.4,
-     13.7
+     31,
+     14.3
     ],
     [
      "td01-008-stone-pit",
-     29.4,
-     23.1
+     30.4,
+     24.7
     ],
     [
      "td01-018-mammorest-cryst-roar-of-the-tundra",
-     29.4,
-     -3.7
+     30.4,
+     -1.7
     ],
     [
      "td01-015-hangyu-cryst-frigid-wanderer",
-     29.9,
-     17.8
+     30.9,
+     19.8
     ],
     [
      "td01-011-ignis-breath",
-     27.3,
-     8.2
-    ],
-    [
-     "td01-024-ribbuny-little-princess",
-     30.3,
-     11.4
+     28.4,
+     5.7
     ],
     [
      "td01-013-jolthog-cryst-stoic-yet-innocent",
-     26.2,
-     14.1
+     26.9,
+     16.6
+    ],
+    [
+     "td01-024-ribbuny-little-princess",
+     31.3,
+     13.7
     ],
     [
      "td01-020-primitive-workbench",
-     29.7,
-     -13
-    ],
-    [
-     "td01-023-lamball-my-first-pal",
-     29.7,
-     8.2
+     30.8,
+     -14.8
     ],
     [
      "td01-022-crystal-breath",
-     28.6,
-     -17.3
+     29.2,
+     -18
     ],
     [
-     "td01-009-weapon-workbench",
-     24.2,
-     -12.8
+     "td01-023-lamball-my-first-pal",
+     30.8,
+     10.7
     ],
     [
      "td01-019-antique-wooden-chair",
-     30.6,
-     -16.7
+     31.3,
+     -19.7
+    ],
+    [
+     "td01-009-weapon-workbench",
+     25.4,
+     -15.1
     ],
     [
      "td01-006-mossanda-lux-vanguard-captain",
-     27.6,
-     -5.1
+     28.3,
+     -1.4
     ]
    ],
    "tier": "D",
-   "wr": "33.3",
-   "first": "",
-   "overviewText": ""
-  },
-  {
-   "text": "36 Medieval Medicine Workbench · Shadowbeak Purple 32.5% — · 0.1% → 0.1 80 2ND +2 —",
-   "slug": "purple-helzephyr-blazehowl-noct",
-   "list": [
-    [
-     "bp01-073-helzephyr-wings-of-the-moonless-night",
-     4
-    ],
-    [
-     "bp01-074-shadowbeak-seed-of-despair",
-     2
-    ],
-    [
-     "bp01-077-pyrin-noct-steed-of-azure-flames",
-     4
-    ],
-    [
-     "bp01-080-daedream-first-slumber",
-     4
-    ],
-    [
-     "bp01-088-lamp",
-     2
-    ],
-    [
-     "bp01-089-shoddy-bed",
-     4
-    ],
-    [
-     "bp01-090-medieval-medicine-workbench",
-     2
-    ],
-    [
-     "bp01-094-daedream-s-necklace",
-     4
-    ],
-    [
-     "bp01-095-zoe-s-strategy",
-     2
-    ],
-    [
-     "bp02-073-frostallion-noct-eternal-darkness",
-     2
-    ],
-    [
-     "bp02-074-selyne-saya-s-moonlit-beacon",
-     4
-    ],
-    [
-     "bp02-085-bushi-noct-blade-of-regret",
-     4
-    ],
-    [
-     "bp02-095-saya-s-crescent-moon",
-     4
-    ],
-    [
-     "td02-017-blazehowl-noct-darkflame-defender",
-     2
-    ]
-   ],
-   "usage": [
-    [
-     "bp01-077-pyrin-noct-steed-of-azure-flames",
-     32.9,
-     -0.6
-    ],
-    [
-     "bp01-074-shadowbeak-seed-of-despair",
-     34.8,
-     -2.1
-    ],
-    [
-     "bp01-095-zoe-s-strategy",
-     34.8,
-     1.1
-    ],
-    [
-     "bp01-088-lamp",
-     30.9,
-     0.2
-    ],
-    [
-     "bp01-080-daedream-first-slumber",
-     33.3,
-     5.5
-    ],
-    [
-     "bp01-094-daedream-s-necklace",
-     33.3,
-     22.4
-    ],
-    [
-     "bp01-079-depresso-late-night-hustler",
-     33.9,
-     7.1
-    ],
-    [
-     "bp01-089-shoddy-bed",
-     36.4,
-     22.7
-    ],
-    [
-     "bp02-073-frostallion-noct-eternal-darkness",
-     29.1,
-     -5.2
-    ],
-    [
-     "bp01-090-medieval-medicine-workbench",
-     26.5,
-     -15.6
-    ]
-   ],
-   "tier": "D",
-   "wr": "32.5",
+   "wr": "33.7",
    "first": "",
    "overviewText": ""
   },
@@ -9349,22 +9734,22 @@
    "9 Blue Purple Frostallion – Everlasting Rime and Foxcicle – Aurora Hymn",
    "10 Blue Green Pengullet – Locked and Loaded and Sweepa – Record Breaker",
    "11 Red Purple Pump-Action Shotgun and Menasting – Darkness-Dwelling Scorpion",
-   "12 Purple Green Lily's Strategy and Blazehowl Noct – Darkflame Defender"
+   "12 Purple Blue Daedream's Necklace and Daedream – Deep Slumber"
   ],
   [
    "1 Red Blue Faleris – Marcus' Soaring Wings and Stun Baton",
    "50%",
    "53%",
-   "67%",
-   "57%",
+   "66%",
+   "56%",
    "56%",
    "61%",
-   "54%",
-   "48%",
+   "53%",
+   "47%",
    "70%",
-   "60%",
-   "68%",
-   "64%"
+   "56%",
+   "69%",
+   "69%"
   ],
   [
    "2 Red Purple Improved Furnace and Mossanda Lux's Grenade Launcher",
@@ -9373,143 +9758,143 @@
    "65%",
    "68%",
    "55%",
-   "45%",
+   "44%",
    "44%",
    "51%",
-   "73%",
-   "56%",
-   "59%",
-   "44%"
+   "71%",
+   "54%",
+   "58%",
+   "58%"
   ],
   [
    "3 Green Purple Mammorest – Gaia Crusher and Shroomer Noct – Spores of the Void",
-   "33%",
+   "34%",
    "35%",
    "50%",
    "68%",
-   "39%",
+   "38%",
    "34%",
-   "28%",
+   "27%",
    "39%",
    "54%",
-   "38%",
-   "48%",
-   "41%"
+   "39%",
+   "47%",
+   "44%"
   ],
   [
    "4 Blue Purple Broncherry Aqua – The Shape of Love and Antique Mirror",
-   "43%",
+   "44%",
    "32%",
    "32%",
    "50%",
-   "37%",
+   "35%",
    "34%",
-   "30%",
-   "37%",
-   "45%",
-   "42%",
+   "32%",
+   "36%",
+   "43%",
+   "40%",
    "26%",
-   "39%"
+   "43%"
   ],
   [
    "5 Blue Purple Chillet – Dragon Whisperer and Relaxaurus – Hungry Gunner",
    "44%",
    "45%",
-   "61%",
-   "63%",
+   "62%",
+   "65%",
    "50%",
-   "55%",
-   "37%",
-   "47%",
+   "56%",
+   "36%",
+   "45%",
    "58%",
-   "51%",
+   "53%",
    "37%",
-   "61%"
+   "67%"
   ],
   [
    "6 Red Blue Chillet – Dragon Whisperer and Relaxaurus – Hungry Gunner",
    "39%",
-   "55%",
-   "66%",
-   "66%",
-   "45%",
-   "50%",
-   "51%",
-   "47%",
-   "45%",
-   "",
    "56%",
-   "66%"
+   "66%",
+   "66%",
+   "44%",
+   "50%",
+   "52%",
+   "46%",
+   "47%",
+   "",
+   "55%",
+   ""
   ],
   [
    "7 Blue Green Chillet – Dragon Whisperer and Relaxaurus – Hungry Gunner",
-   "46%",
+   "47%",
    "56%",
-   "72%",
-   "70%",
-   "63%",
-   "49%",
+   "73%",
+   "68%",
+   "64%",
+   "48%",
    "50%",
-   "53%",
+   "55%",
+   "64%",
    "63%",
-   "57%",
-   "53%",
-   "71%"
+   "51%",
+   ""
   ],
   [
    "8 Blue Green Reindrix – Icy Gaze and Cryolinx – Arctic Ordeal",
-   "52%",
+   "53%",
    "49%",
    "61%",
-   "63%",
-   "53%",
-   "53%",
-   "47%",
+   "64%",
+   "55%",
+   "54%",
+   "45%",
    "50%",
-   "50%",
+   "53%",
    "68%",
    "",
-   "65%"
+   ""
   ],
   [
    "9 Blue Purple Frostallion – Everlasting Rime and Foxcicle – Aurora Hymn",
    "30%",
-   "27%",
+   "29%",
    "46%",
-   "55%",
+   "57%",
    "42%",
-   "55%",
-   "37%",
+   "53%",
+   "36%",
+   "47%",
    "50%",
-   "50%",
-   "75%",
+   "71%",
    "",
    ""
   ],
   [
    "10 Blue Green Pengullet – Locked and Loaded and Sweepa – Record Breaker",
-   "40%",
    "44%",
-   "62%",
-   "58%",
-   "49%",
+   "46%",
+   "61%",
+   "60%",
+   "47%",
    "",
-   "43%",
+   "37%",
    "32%",
-   "25%",
+   "29%",
    "",
    "",
    ""
   ],
   [
    "11 Red Purple Pump-Action Shotgun and Menasting – Darkness-Dwelling Scorpion",
-   "32%",
-   "41%",
-   "52%",
+   "31%",
+   "42%",
+   "53%",
    "74%",
    "63%",
-   "44%",
-   "47%",
+   "45%",
+   "49%",
    "",
    "",
    "",
@@ -9517,15 +9902,15 @@
    ""
   ],
   [
-   "12 Purple Green Lily's Strategy and Blazehowl Noct – Darkflame Defender",
-   "36%",
+   "12 Purple Blue Daedream's Necklace and Daedream – Deep Slumber",
+   "31%",
+   "42%",
    "56%",
-   "59%",
-   "61%",
-   "39%",
-   "34%",
-   "29%",
-   "35%",
+   "57%",
+   "33%",
+   "",
+   "",
+   "",
    "",
    "",
    "",
