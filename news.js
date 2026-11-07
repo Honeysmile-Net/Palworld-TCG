@@ -1,11 +1,11 @@
 // Palworld OCG news — built by tools/news (official site, palworldtcg.gg spoilers, palify sets, web search for X posts and leaks)
 window.PAL_NEWS = {
-"updated": "2026-11-07 01:33",
+"updated": "2026-11-07 07:33",
 "upSets": [
 {
 "code": "BP03",
 "name": "ETERNAL ASCENT",
-"release": "January 29, 2027",
+"release": "January 30, 2027",
 "revealed": 0,
 "url": "https://palworldtcg.gg/set/bp03"
 },
