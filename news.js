@@ -1,6 +1,6 @@
 // Palworld OCG news — built by tools/news (official site, palworldtcg.gg spoilers, palify sets, web search for X posts and leaks)
 window.PAL_NEWS = {
-"updated": "2026-11-08 13:33",
+"updated": "2026-11-08 19:33",
 "upSets": [
 {
 "code": "BP03",
@@ -158,7 +158,7 @@ window.PAL_NEWS = {
 "text": "Sleeve & Card Set Vol.1 เลื่อนเป็น 16 ต.ค., Trial Deck TD03/TD04 ออก 18 ธ.ค. และมีแผนรีปริ้นต์ Dawn of Palpagos",
 "url": "https://palworld.gamevault.in/news/a-delay-two-new-decks-and-a-planned-reprint-for-the-palworld-card-game/",
 "img": "",
-"isNew": true
+"isNew": false
 },
 {
 "src": "official",
@@ -446,7 +446,7 @@ window.PAL_NEWS = {
 "text": "ร้าน GameNerdz เปิดพรีออเดอร์ Booster Box Eternal Ascent (BP03) วันที่ 6 พ.ย.",
 "url": "https://www.gamenerdz.com/palworld-official-card-game-eternal-ascent-booster-box-preorders-open-november-6th",
 "img": "",
-"isNew": true
+"isNew": false
 },
 {
 "src": "web",
