@@ -1,6 +1,6 @@
 // Palworld OCG news — built by tools/news (official site, palworldtcg.gg spoilers, palify sets, web search for X posts and leaks)
 window.PAL_NEWS = {
-"updated": "2026-11-08 19:33",
+"updated": "2026-11-09 01:33",
 "upSets": [
 {
 "code": "BP03",
@@ -176,7 +176,7 @@ window.PAL_NEWS = {
 "text": "PHD Games ประกาศรายละเอียดสินค้า Trial Deck ชุด Eternal Ascent ของ Palworld OCG",
 "url": "https://www.phdgames.com/2026/08/25/palworld-ocg-eternal-ascent-trial-decks-bushiroad/",
 "img": "",
-"isNew": true
+"isNew": false
 },
 {
 "src": "web",
@@ -301,6 +301,15 @@ window.PAL_NEWS = {
 "title": "✨Card Reveal✨ Today's card reveals are \"Foxparks\"...",
 "text": "",
 "url": "https://x.com/PalworldOCG_EN/status/2074206749909762371",
+"img": "",
+"isNew": true
+},
+{
+"src": "x",
+"date": "2026-07-03",
+"title": "✨Card Reveal✨ Today’s card reveals are \"Reptyro",
+"text": "โพสต์เปิดตัวการ์ด Reptyro จากบัญชี PalworldOCG_EN",
+"url": "https://x.com/PalworldOCG_EN/status/2072757199458443281",
 "img": "",
 "isNew": true
 },
@@ -437,7 +446,7 @@ window.PAL_NEWS = {
 "text": "ICv2 รายงาน Trial Deck ใหม่ของ Palworld Official Card Game เปิดพรีออเดอร์แล้ว",
 "url": "https://icv2.com/articles/news/view/63173/new-palworld-official-card-game-trial-decks-hit-preorder",
 "img": "",
-"isNew": true
+"isNew": false
 },
 {
 "src": "web",
