@@ -1,6 +1,6 @@
 // Palworld OCG news — built by tools/news (official site, palworldtcg.gg spoilers, palify sets, web search for X posts and leaks)
 window.PAL_NEWS = {
-"updated": "2026-11-09 01:33",
+"updated": "2026-11-09 07:33",
 "upSets": [
 {
 "code": "BP03",
@@ -428,7 +428,7 @@ window.PAL_NEWS = {
 "text": "ข่าวประชาสัมพันธ์: ยอดขาย Palworld OCG คาดว่าจะทะลุ 11 ล้านแพ็กทั่วโลก",
 "url": "https://www.gamespress.com/Palworld-OFFICIAL-CARD-GAME-Sales-Projected-to-Hit-11-Million-Packs-Wo",
 "img": "",
-"isNew": true
+"isNew": false
 },
 {
 "src": "web",
@@ -437,7 +437,7 @@ window.PAL_NEWS = {
 "text": "PHD Games ลงรายละเอียดบูสเตอร์ชุด Eternal Ascent (BP03) ของ Bushiroad",
 "url": "https://www.phdgames.com/?p=88063",
 "img": "",
-"isNew": true
+"isNew": false
 },
 {
 "src": "web",
