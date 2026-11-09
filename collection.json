@@ -1,9 +1,9 @@
 {
-  "version": "2026-11-08T15:05:39.000Z",
+  "version": "2026-11-09T15:32:46.000Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 343,
-    "total": 2952,
+    "total": 2951,
     "deck": 0
   },
   "counts": {
@@ -66,7 +66,7 @@
     "w-bp01-022": 5,
     "w-bp01-023": 4,
     "w-bp01-024": 5,
-    "w-bp01-029": 3,
+    "w-bp01-029": 2,
     "w-bp01-029sr": 2,
     "w-bp01-030": 4,
     "w-bp01-031sr": 1,
@@ -450,7 +450,7 @@
       "w-bp01-029sr",
       "w-bp01-029sr",
       "w-bp01-029",
-      "w-bp01-029",
+      null,
       "relaxaurus",
       "relaxaurus",
       "relaxaurus",
