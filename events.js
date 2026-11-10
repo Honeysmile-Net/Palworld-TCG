@@ -58,4 +58,7 @@ window.PAL_EVENTS = {
   '2026-12-12': [
     { time:'12:00 PM GMT+7 (Check-in 11:00 AM–12:00 PM)', title:'[EN] Palworld OFFICIAL CARD GAME Christmas Snowdown 2026 · Sanctioned / Standard · Event Code: NUPAL · ลงทะเบียนแล้ว 10 พ.ย. (My Events) · first-come · รับ 64 คน', place:'Card Harbor', addr:'921 Always One Plaza 4 Floor Phra Nakhon Bangkok 10200 Thailand · TEL (66)818544483', prize:"ผู้เข้าร่วม: ESOUL-019 PR Soul ×1 + Bushi Navi flair (Christmas 2026)\nแชมป์: + ESOUL-019 เพิ่มอีก 1 ใบ\n⚠️ Standard · 5-Round Swiss · Bo1 · 30 min · จบเมื่อเหลือคนไม่แพ้คนเดียว · ต้องส่ง deck log ใน Bushi Navi" },
   ],
+  '2026-12-19': [
+    { time:'12:00 PM GMT+7 (Check-in 11:30 AM–12:00 PM)', title:'[EN] Palworld OFFICIAL CARD GAME Christmas Snowdown 2026 · Sanctioned / Standard · Event Code: DMHEK · จะไป (ยังไม่ยืนยันใน My Events) · รับ 64 คน', place:'Mawin Card Game', addr:'921 Always One Building, 4th Floor, Rd Mahachai, Khwaeng Wang Buraphapirom, Phra Nakhon District Bangkok 10200 Thailand · TEL (66)944975630', prize:"ผู้เข้าร่วม: ESOUL-019 PR Soul ×1 + Bushi Navi flair (Christmas 2026)\nแชมป์: + ESOUL-019 เพิ่มอีก 1 ใบ\n⚠️ Standard · 5-Round Swiss · Bo1 · 30 min · จบเมื่อเหลือคนไม่แพ้คนเดียว · ต้องส่ง deck log ใน Bushi Navi" },
+  ],
 };
