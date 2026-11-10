@@ -1,6 +1,6 @@
 // Palworld OCG news — built by tools/news (official site, palworldtcg.gg spoilers, palify sets, web search for X posts and leaks)
 window.PAL_NEWS = {
-"updated": "2026-11-10 01:33",
+"updated": "2026-11-10 07:33",
 "upSets": [
 {
 "code": "BP03",
@@ -215,6 +215,24 @@ window.PAL_NEWS = {
 "isNew": false
 },
 {
+"src": "x",
+"date": "2026-09-06",
+"title": "✨ Release Party in LOS ANGELES ✨ Congratulations to the Release Party in LOS ANGELES \"WAVE 1\" and \"WAVE 2\" Winners!",
+"text": "",
+"url": "https://x.com/PalworldOCG_EN/status/2096395611956490481",
+"img": "",
+"isNew": true
+},
+{
+"src": "x",
+"date": "2026-09-06",
+"title": "✨ Release Party in LOS ANGELES ✨ Palworld OFFICIAL CARD GAME Release Party in LOS ANGELES is underway!",
+"text": "",
+"url": "https://x.com/PalworldOCG_EN/status/2096299207284117785",
+"img": "",
+"isNew": true
+},
+{
 "src": "official",
 "date": "2026-09-04",
 "title": "Reprint Announcement Updates!",
@@ -269,6 +287,15 @@ window.PAL_NEWS = {
 "isNew": false
 },
 {
+"src": "x",
+"date": "2026-08-19",
+"title": "Preorders are now officially open for the Eternal Ascent Trial Decks Red・Green & Blue・Purple!",
+"text": "",
+"url": "https://x.com/PalworldOCG_EN/status/2090015923763826741",
+"img": "",
+"isNew": true
+},
+{
 "src": "official",
 "date": "2026-08-07",
 "title": "Announcements from Bushiroad English Conference Summer 2026",
@@ -312,6 +339,15 @@ window.PAL_NEWS = {
 "url": "https://x.com/PalworldOCG_EN/status/2082722870200012875",
 "img": "",
 "isNew": false
+},
+{
+"src": "x",
+"date": "2026-07-30",
+"title": "The full Comprehensive Rules and Q&A page for the Palworld OFFICIAL CARD GAME are now live!",
+"text": "",
+"url": "https://x.com/PalworldOCG_EN/status/2082783268680954287",
+"img": "",
+"isNew": true
 },
 {
 "src": "x",
@@ -526,42 +562,6 @@ window.PAL_NEWS = {
 "title": "GameNerdz: Eternal Ascent Booster Box — preorders open November 6th",
 "text": "ร้าน GameNerdz เปิดพรีออเดอร์ Booster Box Eternal Ascent (BP03) วันที่ 6 พ.ย.",
 "url": "https://www.gamenerdz.com/palworld-official-card-game-eternal-ascent-booster-box-preorders-open-november-6th",
-"img": "",
-"isNew": false
-},
-{
-"src": "web",
-"date": "",
-"title": "Palworld Card Game announces Eternal Ascent as the third booster set (BP03), releasing January 29, 2027",
-"text": "Third booster set Eternal Ascent: 100 base cards plus parallels.",
-"url": "https://otakukart.com/palworld-card-game-announces-eternal-ascent-as-third-booster-set-releasing-january-29-2027/",
-"img": "",
-"isNew": false
-},
-{
-"src": "web",
-"date": "",
-"title": "ICv2: Bushiroad unveils new Palworld Official Card Game booster set",
-"text": "",
-"url": "https://icv2.com/articles/news/view/63393/bushiroad-unveils-new-palworld-official-card-game-booster-set",
-"img": "",
-"isNew": false
-},
-{
-"src": "web",
-"date": "",
-"title": "Cardsrealm: Palworld Eternal Ascent booster set due in January 2027",
-"text": "",
-"url": "https://cardsrealm.com/en-us/articles/palworld-eternal-ascent-booster-set-due-in-january-2027",
-"img": "",
-"isNew": false
-},
-{
-"src": "web",
-"date": "",
-"title": "Official: Trial Deck \"Eternal Ascent Blue・Purple\" (TD04)",
-"text": "Trial decks Eternal Ascent Red・Green and Blue・Purple release December 18, 2026.",
-"url": "https://en.palworld-official-cardgame.com/products/td04",
 "img": "",
 "isNew": false
 }
