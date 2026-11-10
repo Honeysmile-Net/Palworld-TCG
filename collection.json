@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-10T09:46:22.000Z",
+  "version": "2026-11-10T10:00:11.000Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 343,
@@ -415,6 +415,31 @@
       "w-bp01-012": 3,
       "w-bp02-008sr": 2,
       "w-bp02-085": 1
+    },
+    "RB Chillet Relaxaurus Jormuntide Ignis Orserk · Improved Furnace Ramp": {
+      "w-bp02-011": 2,
+      "w-bp01-012-pr": 2,
+      "w-bp01-012": 1,
+      "w-bp02-012": 3,
+      "chillet-rr": 4,
+      "relaxaurus": 3,
+      "w-bp02-001osr": 3,
+      "w-bp01-001osr": 1,
+      "w-bp01-001": 2,
+      "w-td01-004": 4,
+      "w-bp01-038-pr": 1,
+      "elph-aqua": 3,
+      "w-bp02-008sr": 2,
+      "w-bp01-011": 2,
+      "w-bp01-032-pr": 1,
+      "w-bp02-036": 2,
+      "w-bp02-018sr": 1,
+      "w-bp02-043sr": 1,
+      "w-bp01-017": 2,
+      "w-bp02-015": 3,
+      "aurora": 3,
+      "sphere": 3,
+      "w-bp02-046osr": 1
     }
   },
   "album": [
@@ -701,7 +726,8 @@
   ],
   "savedDecksAt": {
     "RP Mossanda Lux Shroomer Noct Frostallion Noct · Machine Gun Furnace Burn": "2026-11-06T16:37:08.000Z",
-    "RP Mossanda Lux Shroomer Noct Frostallion Noct · Rocket Launcher Furnace Burn": "2026-11-06T17:45:59.276Z"
+    "RP Mossanda Lux Shroomer Noct Frostallion Noct · Rocket Launcher Furnace Burn": "2026-11-06T17:45:59.276Z",
+    "RB Chillet Relaxaurus Jormuntide Ignis Orserk · Improved Furnace Ramp": "2026-11-10T10:00:11.000Z"
   },
   "notForSale": [
     "w-bp01-074osr",
