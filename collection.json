@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-10T10:00:11.000Z",
+  "version": "2026-11-10T10:11:48.000Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 343,
@@ -416,7 +416,7 @@
       "w-bp02-008sr": 2,
       "w-bp02-085": 1
     },
-    "RB Chillet Relaxaurus Jormuntide Ignis Orserk · Improved Furnace Ramp": {
+    "RB Chillet Jormuntide Ignis Victor's Gambit · Improved Furnace Ramp": {
       "w-bp02-011": 2,
       "w-bp01-012-pr": 2,
       "w-bp01-012": 1,
@@ -727,7 +727,7 @@
   "savedDecksAt": {
     "RP Mossanda Lux Shroomer Noct Frostallion Noct · Machine Gun Furnace Burn": "2026-11-06T16:37:08.000Z",
     "RP Mossanda Lux Shroomer Noct Frostallion Noct · Rocket Launcher Furnace Burn": "2026-11-06T17:45:59.276Z",
-    "RB Chillet Relaxaurus Jormuntide Ignis Orserk · Improved Furnace Ramp": "2026-11-10T10:00:11.000Z"
+    "RB Chillet Jormuntide Ignis Victor's Gambit · Improved Furnace Ramp": "2026-11-10T10:11:48.000Z"
   },
   "notForSale": [
     "w-bp01-074osr",
