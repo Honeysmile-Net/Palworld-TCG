@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-11T00:30:35.000Z",
+  "version": "2026-11-11T00:31:45.000Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 343,
@@ -441,7 +441,7 @@
       "sphere": 3,
       "w-bp02-046osr": 1
     },
-    "BG Azurobe Lyleen Anubis · Pengullet Swarm · ML Kissimmee #1": {
+    "Masters League Kissimmee #1": {
       "pengullet-sr": 1,
       "pengullet-r": 3,
       "w-bp01-029sr": 2,
@@ -464,7 +464,7 @@
       "w-td02-023tsr": 1,
       "w-td02-023": 3
     },
-    "RP Mossanda Lux Shroomer Noct · Machine Gun Furnace Burn · ML Kissimmee #2": {
+    "Masters League Kissimmee #2": {
       "w-bp01-011": 4,
       "w-bp01-015": 4,
       "w-bp01-016": 4,
@@ -483,7 +483,7 @@
       "w-td02-014tsr": 1,
       "leezpunk": 3
     },
-    "RB Faleris Victor's Gambit Quivern · Gear Burn · ML Kissimmee #3": {
+    "Masters League Kissimmee #3": {
       "w-bp01-005": 4,
       "sphere": 4,
       "w-bp02-003osr": 3,
@@ -504,7 +504,7 @@
       "w-td01-016": 4,
       "w-td01-021": 4
     },
-    "RB Faleris Victor's Gambit Quivern · Gear Burn · ML Surakarta #1": {
+    "Masters League Surakarta #1": {
       "w-bp01-005": 4,
       "w-bp01-023": 3,
       "sphere": 3,
@@ -526,7 +526,7 @@
       "w-td01-010": 2,
       "w-td01-016": 3
     },
-    "RB Faleris Victor's Gambit Quivern · Pengullet Gear Burn · ML Surakarta #2": {
+    "Masters League Surakarta #2": {
       "w-bp01-005": 4,
       "pengullet-sr": 1,
       "pengullet-r": 3,
@@ -551,7 +551,7 @@
       "w-td01-004": 4,
       "w-td01-016": 2
     },
-    "RP Mossanda Lux Shroomer Noct Frostallion Noct · Machine Gun Furnace Burn · ML Surakarta #3": {
+    "Masters League Surakarta #3": {
       "w-bp01-011": 4,
       "w-bp01-012-pr": 2,
       "w-bp01-012": 2,
@@ -857,12 +857,12 @@
     "RP Mossanda Lux Shroomer Noct Frostallion Noct · Machine Gun Furnace Burn": "2026-11-06T16:37:08.000Z",
     "RP Mossanda Lux Shroomer Noct Frostallion Noct · Rocket Launcher Furnace Burn": "2026-11-06T17:45:59.276Z",
     "RB Chillet Jormuntide Ignis Victor's Gambit · Improved Furnace Ramp": "2026-11-10T10:11:48.000Z",
-    "BG Azurobe Lyleen Anubis · Pengullet Swarm · ML Kissimmee #1": "2026-11-11T00:30:35.000Z",
-    "RP Mossanda Lux Shroomer Noct · Machine Gun Furnace Burn · ML Kissimmee #2": "2026-11-11T00:30:35.000Z",
-    "RB Faleris Victor's Gambit Quivern · Gear Burn · ML Kissimmee #3": "2026-11-11T00:30:35.000Z",
-    "RB Faleris Victor's Gambit Quivern · Gear Burn · ML Surakarta #1": "2026-11-11T00:30:35.000Z",
-    "RB Faleris Victor's Gambit Quivern · Pengullet Gear Burn · ML Surakarta #2": "2026-11-11T00:30:35.000Z",
-    "RP Mossanda Lux Shroomer Noct Frostallion Noct · Machine Gun Furnace Burn · ML Surakarta #3": "2026-11-11T00:30:35.000Z"
+    "Masters League Kissimmee #1": "2026-11-11T00:30:35.000Z",
+    "Masters League Kissimmee #2": "2026-11-11T00:30:35.000Z",
+    "Masters League Kissimmee #3": "2026-11-11T00:30:35.000Z",
+    "Masters League Surakarta #1": "2026-11-11T00:30:35.000Z",
+    "Masters League Surakarta #2": "2026-11-11T00:30:35.000Z",
+    "Masters League Surakarta #3": "2026-11-11T00:30:35.000Z"
   },
   "notForSale": [
     "w-bp01-074osr",
