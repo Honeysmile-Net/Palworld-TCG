@@ -1,6 +1,6 @@
 // Palworld OCG news — built by tools/news (official site, palworldtcg.gg spoilers, palify sets, web search for X posts and leaks)
 window.PAL_NEWS = {
-"updated": "2026-11-12 13:34",
+"updated": "2026-11-12 19:33",
 "upSets": [
 {
 "code": "BP03",
@@ -32,7 +32,7 @@ window.PAL_NEWS = {
 "text": "ลงทะเบียนล่วงหน้าใน Bushi Navi · ลงทะเบียนหน้างาน 10:00–11:30 · เริ่มแข่ง 12:00 · อ่าน Tournament Overview ก่อนลงสนาม",
 "url": "https://en.palworld-official-cardgame.com/events/masters-league",
 "img": "",
-"isNew": true
+"isNew": false
 },
 {
 "src": "official",
