@@ -1,6 +1,6 @@
 // Palworld OCG news — built by tools/news (official site, palworldtcg.gg spoilers, palify sets, web search for X posts and leaks)
 window.PAL_NEWS = {
-"updated": "2026-11-12 01:33",
+"updated": "2026-11-12 07:33",
 "upSets": [
 {
 "code": "BP03",
@@ -410,7 +410,7 @@ window.PAL_NEWS = {
 "text": "โพสต์เปิดตัวการ์ด Reptyro จากบัญชี PalworldOCG_EN",
 "url": "https://x.com/PalworldOCG_EN/status/2072757199458443281",
 "img": "",
-"isNew": true
+"isNew": false
 },
 {
 "src": "x",
