@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-13T17:19:08.000Z",
+  "version": "2026-11-13T17:25:59.000Z",
   "note": "Palworld binder save file — แก้ไฟล์นี้แล้ว push ขึ้น GitHub ได้เลย ไม่ต้องแตะโค้ดหน้าเว็บ",
   "titles": {
     "cards": 343,
@@ -929,14 +929,28 @@
     ],
     [
       "w-bp02-100sr",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
+      "w-epr-028",
+      "w-bp02-004sr",
+      "w-bp02-043sr",
+      "w-bp02-056sr",
+      "w-bp02-087",
+      "w-bp02-039",
+      "w-bp02-078",
+      "w-bp02-075",
+      "w-bp02-046",
+      "w-bp02-004",
+      "w-bp02-002"
+    ],
+    [
+      "w-bp02-052",
+      "w-bp02-068",
+      "w-bp02-006",
+      "w-bp02-047",
+      "w-bp02-053",
+      "w-bp02-018",
+      "w-bp02-073",
+      "w-bp02-028",
+      "w-bp02-049",
       null,
       null,
       null
