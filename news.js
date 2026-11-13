@@ -1,6 +1,6 @@
 // Palworld OCG news — built by tools/news (official site, palworldtcg.gg spoilers, palify sets, web search for X posts and leaks)
 window.PAL_NEWS = {
-"updated": "2026-11-13 13:33",
+"updated": "2026-11-13 19:33",
 "upSets": [
 {
 "code": "BP03",
@@ -306,6 +306,15 @@ window.PAL_NEWS = {
 },
 {
 "src": "x",
+"date": "2026-08-05",
+"title": "パルワールド オフィシャルカードゲーム公式: ✨#パルワールドカードゲーム 実物カード紹介✨ ブースターパック「パルパゴスの夜明け」に収録される OSR「竜を呼ぶ声」",
+"text": "",
+"url": "https://x.com/PalworldOCG/status/2084927392569549203",
+"img": "",
+"isNew": true
+},
+{
+"src": "x",
 "date": "2026-07-31",
 "title": "Palworld OFFICIAL CARD GAME is officially launched and NOW ON SALE! Collect your favorite Pals, build devastating decks, and command the field like never before.",
 "text": "",
@@ -555,15 +564,6 @@ window.PAL_NEWS = {
 "url": "https://www.gamenerdz.com/palworld-official-card-game-eternal-ascent-booster-box-preorders-open-november-6th",
 "img": "",
 "isNew": false
-},
-{
-"src": "web",
-"date": "",
-"title": "Palworld Card Game announces Eternal Ascent as the third booster set (BP03), releasing January 29, 2027",
-"text": "Third booster set Eternal Ascent: 100 base cards plus parallels.",
-"url": "https://otakukart.com/palworld-card-game-announces-eternal-ascent-as-third-booster-set-releasing-january-29-2027/",
-"img": "",
-"isNew": false
 }
 ],
 "upcoming": [
@@ -806,7 +806,7 @@ window.PAL_NEWS = {
 "code": "PR",
 "name": "PR CARDS (2026)",
 "type": "promo",
-"count": "54 cards"
+"count": "62 cards"
 },
 {
 "code": "SS01",
