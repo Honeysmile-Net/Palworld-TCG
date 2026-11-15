@@ -1,6 +1,6 @@
 // Palworld OCG news — built by tools/news (official site, palworldtcg.gg spoilers, palify sets, web search for X posts and leaks)
 window.PAL_NEWS = {
-"updated": "2026-11-15 13:33",
+"updated": "2026-11-15 19:33",
 "upSets": [
 {
 "code": "BP03",
@@ -168,6 +168,15 @@ window.PAL_NEWS = {
 "url": "https://x.com/Palworld_JP/status/2105881247667106020",
 "img": "",
 "isNew": false
+},
+{
+"src": "x",
+"date": "2026-10-02",
+"title": "✨Card Reveals✨ Today’s revealed card is \"Faleris",
+"text": "",
+"url": "https://x.com/PalworldOCG_EN/status/2105840194419364339",
+"img": "",
+"isNew": true
 },
 {
 "src": "official",
@@ -553,15 +562,6 @@ window.PAL_NEWS = {
 "title": "Palworld OCG: Eternal Ascent — Bushiroad (PHD Games)",
 "text": "PHD Games ลงรายละเอียดบูสเตอร์ชุด Eternal Ascent (BP03) ของ Bushiroad",
 "url": "https://www.phdgames.com/?p=88063",
-"img": "",
-"isNew": false
-},
-{
-"src": "web",
-"date": "",
-"title": "New Palworld Official Card Game Trial Decks Hit Preorder",
-"text": "ICv2 รายงาน Trial Deck ใหม่ของ Palworld Official Card Game เปิดพรีออเดอร์แล้ว",
-"url": "https://icv2.com/articles/news/view/63173/new-palworld-official-card-game-trial-decks-hit-preorder",
 "img": "",
 "isNew": false
 }
