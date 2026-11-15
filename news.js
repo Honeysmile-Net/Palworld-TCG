@@ -1,6 +1,6 @@
 // Palworld OCG news — built by tools/news (official site, palworldtcg.gg spoilers, palify sets, web search for X posts and leaks)
 window.PAL_NEWS = {
-"updated": "2026-11-15 01:33",
+"updated": "2026-11-15 07:33",
 "upSets": [
 {
 "code": "BP03",
@@ -224,6 +224,15 @@ window.PAL_NEWS = {
 "isNew": false
 },
 {
+"src": "x",
+"date": "2026-09-06",
+"title": "✨ Release Party in LOS ANGELES ✨ Palworld OFFICIAL CARD GAME Release Party in LOS ANGELES is underway!",
+"text": "",
+"url": "https://x.com/PalworldOCG_EN/status/2096299207284117785",
+"img": "",
+"isNew": false
+},
+{
 "src": "official",
 "date": "2026-09-04",
 "title": "Reprint Announcement Updates!",
@@ -239,7 +248,7 @@ window.PAL_NEWS = {
 "text": "",
 "url": "https://x.com/PalworldOCG_EN/status/2095723842740314301",
 "img": "",
-"isNew": true
+"isNew": false
 },
 {
 "src": "web",
@@ -553,15 +562,6 @@ window.PAL_NEWS = {
 "title": "New Palworld Official Card Game Trial Decks Hit Preorder",
 "text": "ICv2 รายงาน Trial Deck ใหม่ของ Palworld Official Card Game เปิดพรีออเดอร์แล้ว",
 "url": "https://icv2.com/articles/news/view/63173/new-palworld-official-card-game-trial-decks-hit-preorder",
-"img": "",
-"isNew": false
-},
-{
-"src": "web",
-"date": "",
-"title": "GameNerdz: Eternal Ascent Booster Box — preorders open November 6th",
-"text": "ร้าน GameNerdz เปิดพรีออเดอร์ Booster Box Eternal Ascent (BP03) วันที่ 6 พ.ย.",
-"url": "https://www.gamenerdz.com/palworld-official-card-game-eternal-ascent-booster-box-preorders-open-november-6th",
 "img": "",
 "isNew": false
 }
