@@ -1,6 +1,6 @@
 // Palworld OCG news — built by tools/news (official site, palworldtcg.gg spoilers, palify sets, web search for X posts and leaks)
 window.PAL_NEWS = {
-"updated": "2026-11-16 19:33",
+"updated": "2026-11-17 01:33",
 "upSets": [
 {
 "code": "BP03",
@@ -329,7 +329,7 @@ window.PAL_NEWS = {
 "text": "",
 "url": "https://x.com/PalworldOCG/status/2084927392569549203",
 "img": "",
-"isNew": true
+"isNew": false
 },
 {
 "src": "x",
