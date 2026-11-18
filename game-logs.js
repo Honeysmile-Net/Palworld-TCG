@@ -3,8 +3,8 @@
 // Entries with `mod` load their raw text lazily from logs/<file>.js on first open.
 export const GAME_LOGS = [
   {
-    id: 'ep10-honeysmile-vs-gutz', title: 'EP10 · Honeysmile (เรา) vs Gutz', date: '2026-10-02',
-    deck: 'Blue/Purple (Shadowbeak · Workbench)', vs: 'Gutz (Blue · Chillet / Relaxaurus / Azurobe)', result: 'ชนะ (T8 · Shadowbeak 3 · ไลฟ์เรา 2)',
+    id: 'ep10-honeysmile-vs-opponent', title: 'EP10 · Honeysmile (เรา) vs คู่แข่ง', date: '2026-10-02',
+    deck: 'Blue/Purple (Shadowbeak · Workbench)', vs: 'คู่แข่ง (Blue · Chillet / Relaxaurus / Azurobe)', result: 'ชนะ (T8 · Shadowbeak 3 · ไลฟ์เรา 2)',
     note: 'ใช้ทำ EP10 · Interrupt 7 ครั้ง (Blazehowl ×2, Cryolinx ×5) · Menasting Retaliate ลาก Chillet · Workbench คืน Shadowbeak/Menasting/Leezpunk · Shadowbeak กลางคืนชำแหละ 2 ครั้งล้างบอร์ดคู่แข่ง'
   },
   {
