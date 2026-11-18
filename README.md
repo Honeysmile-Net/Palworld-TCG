@@ -7,7 +7,8 @@ A static site that shows a Palworld TCG collection as a binder: the cards owned,
 | File | What it holds | Written by |
 |---|---|---|
 | `collection.json` | **The save file:** counts, rarity adjustments, decks, album layout, sale prices | You, from the binder's ⬇ button, then push to GitHub |
-| `index.html` | The app and the card list (see "Editing the card list") | By hand, with care |
+| `data/cards.js` | **The card list:** entries, catalog rows, counts and lots, change log, starting deck, default album | By hand, then `node tools/cards/build.js` |
+| `index.html` | The app, with a copy of `data/cards.js` built in | `tools/cards/build.js` (and the app code by hand, with care) |
 | `images/cards/` | Card art, one file per card (see "Card art") | You |
 | `art-index.js` | List of art files, so the page doesn't have to probe each one | `node tools/art/check_art.js --write` |
 | `prices.js`, `meta.js` | Prices and tournament stats | The pipelines in `tools/` ([tools/stats/README.md](tools/stats/README.md)) |
@@ -50,15 +51,31 @@ Because of step 2, a misnamed file is easy to miss: the pocket still shows a pic
 - **Checker:** `node tools/art/check_art.js` lists cards with no local file, files that almost match (wrong case or extension, with the fix), files no card uses, and paths missing from `art-index.js`. Add `--write` to rebuild `art-index.js`. Run it after adding or renaming art.
 - **Binder:** in edit mode (any host other than `*.github.io`, or `?edit=1`), the 🖼 button marks pockets with no local file. Blue "รูปทางการ" means official art is covering it. Red "ไม่มีรูป" means the pocket is empty.
 
-Dragging an image onto a pocket only previews it in this browser tab. Nothing is written to the repo, and it's gone after a reload. To keep it, save the image with the name above and commit it.
+Dragging an image onto a pocket only previews it in this browser tab. Nothing is written to the repo, and it's gone after a reload. In edit mode, a box then shows the exact file name and folder that pocket needs, with a button to download the image under that name, converted to the right format. Move the file into that folder and commit it.
 
 ## Editing the card list
 
 Most changes don't need code: counts, decks, album pages and sale prices live in `collection.json`. Edit them in the binder, download the file with ⬇, and push it.
 
-The card definitions are in `index.html`. The app source there is one JSON-encoded string inside `<script type="__bundler/template">`, so don't edit it by hand. Decode it, edit it, and encode it back with `tools/art/lib.js` (`readTemplate` / `writeTemplate`). Then open the page and check it still loads. Inside it:
+The card definitions live in `data/cards.js`, a plain JavaScript file:
 
 - **`const C`:** hand-written card entries. Each needs a unique `slug`, plus `code`, `rar`, `name`, `sub`, and optional `ext` or `art`.
 - **`WISH_ROWS`:** the catalog of every printing, one array per row.
+- **Counts:** the counts and lots.
+- **`LOG`:** the change log.
 - **`DECK_SLUGS`:** the starting deck.
-- **`ALBUM_PAGES` / `ALBUM2_PAGES`:** the default album layout. `collection.json` overrides it once saved.
+- **`ALBUM_PAGES` / `ALBUM2_PAGES`:** the default album layout.
+
+After editing:
+
+```text
+node tools/cards/build.js          # copy data/cards.js into index.html
+node tools/art/check_art.js        # every card still finds its art?
+```
+
+Then commit both files. The page doesn't load `data/cards.js` on its own. The build copies it into the bundle in `index.html`, between two `cards-data` marker lines, so the page still works as one file.
+
+- **Check sync:** `node tools/cards/build.js --check` says whether the two match.
+- **If `index.html` was edited directly:** `node tools/cards/build.js --extract` copies the block back into `data/cards.js`.
+
+The rest of the app is also inside `index.html`, as one JSON-encoded string in `<script type="__bundler/template">`. To change it, decode it, edit it, and encode it back with `tools/art/lib.js` (`readTemplate` / `writeTemplate`). Then open the page to check it still loads.
