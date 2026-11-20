@@ -76,6 +76,12 @@ const PAGES = [
   { tab:'BP02-RED', label:'RED', sub:'', items:[] },
   { tab:'BP02-GREEN', label:'GREEN', sub:'', items:[] },
   { tab:'BP02-COLORLESS', short:'CLR', label:'COLORLESS', sub:'', items:[] },
+  { tab:'BP03-ALL', label:'ALL', sub:'', items:[] },
+  { tab:'BP03-BLUE', label:'BLUE', sub:'', items:[] },
+  { tab:'BP03-PURPLE', label:'PURPLE', sub:'', items:[] },
+  { tab:'BP03-RED', label:'RED', sub:'', items:[] },
+  { tab:'BP03-GREEN', label:'GREEN', sub:'', items:[] },
+  { tab:'BP03-COLORLESS', short:'CLR', label:'COLORLESS', sub:'', items:[] },
   { tab:'SOUL',   label:'SOUL',      sub:'', items:[] }
 ];
 
@@ -386,6 +392,11 @@ const WISH_ROWS = [
   ['TD02-020','Cawgnito Hat','Gear',4,'purple','TD','Gear/Purple'],
   ['TD02-023','Cattiva','My First Pal',2,'gray','TD','Pal/Colorless','','webp'],
   ['TD02-024','Chikipi','My First Pal',2,'gray','TD','Pal/Colorless','','webp'],
+  // Eternal Ascent · การ์ดที่หลุด (LEAK 20 พ.ย. 2026) — เลขการ์ดที่ลงท้าย L0x เป็นเลขชั่วคราว จนกว่าจะประกาศเลขจริง
+  ['TD04-L01','Depresso','Caffeine Intake',3,'purple','TD','Pal/Purple','','png','','LEAK 20 พ.ย. 2026 · Eternal Ascent · TD04 ฟ้าม่วง · เลขการ์ดชั่วคราว'],
+  ['TD04-L02','Pengullet','Invincible Bullet?',5,'blue','TD','Pal/Blue','','png','','LEAK 20 พ.ย. 2026 · Eternal Ascent · TD04 ฟ้าม่วง · เลขการ์ดชั่วคราว · Rank Up'],
+  ['TD03-016','Petallia','New Life',6,'green','TD','Pal/Green','','png','','LEAK 20 พ.ย. 2026 · Eternal Ascent · TD03 แดงเขียว'],
+  ['TD03-L01','Suzaku','Manifested Blaze',8,'red','TD','Pal/Red','','png','','LEAK 20 พ.ย. 2026 · Eternal Ascent · TD03 แดงเขียว · เลขการ์ดชั่วคราว'],
   ['ETD01-024','Ribbuny','Little Princess',2,'gray','TSR','Pal/Colorless','','jpg','','Error print — ไม่มีคำว่า STRIKE บนการ์ด (misprint version)'],
   ['ETD01-006','Stone Pit','Structure',1,'red','TD','Structure/Red'],
   ['ETD01-005','Foxparks','A Toasty Hug',4,'red','TSR','Pal/Red','QUICK','jpg'],
@@ -885,7 +896,8 @@ const TAB_OF = card => {
   if (parts[0] === 'Soul') return 'SOUL';
   // ทุกประเภท (Pal / Event / Gear / Structure) รวมในแท็บของสีตัวเอง
   const color = parts[1] || (card.tone === 'gray' ? 'Colorless' : (card.tone || ''));
-  return (/^(BP02|SS01|EPR-02[1-9])/i.test(card.code || '') ? 'BP02-' : '') + String(color).toUpperCase();
+  const c = card.code || '';
+  return (/^(E?BP03|TD03|TD04)/i.test(c) ? 'BP03-' : /^(BP02|SS01|EPR-02[1-9])/i.test(c) ? 'BP02-' : '') + String(color).toUpperCase();
 };
 
 
