@@ -1041,7 +1041,7 @@ const ALBUM2_PAGES = [
 // ALBUM 1 v2 — การ์ดชุดเดียวกับ ALBUM 1 แต่เรียงแบบ ALBUM 2: หน้า 1 Soul → หน้าพิเศษ SP/TSR → แต่ละสีขึ้นหน้าใหม่ (ชุด → เลขการ์ด → ระดับสูงก่อน) · sync กับ collection.json (album3)
 const ALBUM3_PAGES = [
   ["w-soul-12", "w-soul-12", "w-soul-12", "w-soul-12", "w-soul-12", "w-soul-12", "w-soul-12", "w-soul-12", "w-soul-12", "w-soul-12", "w-soul-02", "w-soul-02"],
-  ["w-soul-01", "w-soul-01", "w-soul-03", "w-soul-03", "w-bp01-070sp", "w-td01-007tsr", "w-td02-003tsr", "w-td02-007tsr", "w-td02-023tsr", "w-etd01-024", null, null],
+  ["w-soul-01", "w-soul-01", "w-soul-03", "w-soul-03", null, null, null, null, null, null, null, null],
   ["chillet-rr", "chillet-rr", "chillet-rr", "chillet-rr", "relaxaurus", "relaxaurus", "relaxaurus", "relaxaurus", "jorm-osr", "jorm-osr", "jorm-r", "jorm-r"],
   ["pengullet-sr", "pengullet-r", "pengullet-r", "pengullet-r", "w-bp01-029sr", "w-bp01-029sr", "w-bp01-029", "w-bp01-029", "w-bp01-030", "w-bp01-030", "w-bp01-030", "w-bp01-030"],
   ["w-bp01-031sr", "w-bp01-032-pr", "w-bp01-032-pr", "w-bp01-038-pr", "w-bp01-038-pr", "w-bp01-038-pr", "w-bp01-039", "w-bp01-039", "w-bp01-039", "w-bp01-039", "w-bp01-039", "w-bp01-044sr"],
@@ -1057,13 +1057,13 @@ const ALBUM3_PAGES = [
   ["w-bp01-003", "w-bp01-003", "w-bp01-003", "w-bp01-003", "w-bp01-003", "w-bp01-003", "w-bp01-004sr", "w-bp01-004", "w-bp01-004", "w-bp01-004", "w-bp01-004", "w-bp01-004"],
   ["w-bp01-005", "w-bp01-005", "w-bp01-005", "w-bp01-005", "w-bp01-012-pr", "w-bp01-015", "w-bp01-015", "w-bp01-015", "w-bp01-015", "w-bp01-015", "w-bp01-015", "w-bp01-019sr"],
   ["w-bp01-019", "w-bp01-019", "w-bp01-019", "w-bp01-020", "w-bp01-020", "w-bp01-020", "w-bp01-020", "w-bp01-020", "w-bp01-023", "w-bp01-023", "w-bp01-023", "w-bp01-023"],
-  ["w-ss01-001osr", "w-ss01-001osr", "w-bp02-002", "w-bp02-004sr", "w-bp02-004", "w-bp02-004", "w-bp02-006", "w-epr-003", "w-epr-012", null, null, null],
+  ["w-ss01-001osr", "w-ss01-001osr", "w-bp02-002", "w-bp02-004sr", "w-bp02-004", "w-bp02-004", "w-bp02-006", "w-epr-003", "w-epr-012", "w-td01-007tsr", null, null],
   ["w-bp01-049-osr", "w-bp01-049-osr", "w-bp01-049", "w-bp01-049", "w-bp01-050osr", "w-bp01-050osr", "w-bp01-050", "w-bp01-050", "w-bp01-051", "w-bp01-051", "w-bp01-051", "w-bp01-051"],
   ["w-bp01-051", "w-bp01-052", "w-bp01-052", "w-bp01-052", "w-bp01-052", "w-bp01-053", "w-bp01-053", "w-bp01-053", "w-bp01-053", "w-bp01-054", "w-bp01-054", "w-bp01-054"],
   ["w-bp01-054", "w-bp01-054", "w-bp01-055sr", "w-bp01-056sr", "w-bp01-063", "w-bp01-063", "w-bp01-063", "w-bp01-063", "w-bp01-064", "w-bp01-064", "w-bp01-064", "w-bp01-064"],
-  ["w-bp01-064", "w-bp01-070osr", "w-bp01-070", "w-bp01-070", "w-bp01-070", "w-bp02-049", "w-bp02-052", "w-bp02-052", "w-bp02-053", "w-bp02-053", "w-bp02-056sr", "w-bp02-068"],
-  ["w-bp02-068", "w-bp02-071osr", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071"],
-  ["w-bp02-071", "w-bp02-071", "w-epr-006", "w-epr-006", "w-epr-006", "w-epr-007", "w-epr-015", null, null, null, null, null],
+  ["w-bp01-064", "w-bp01-070sp", "w-bp01-070osr", "w-bp01-070", "w-bp01-070", "w-bp01-070", "w-bp02-049", "w-bp02-052", "w-bp02-052", "w-bp02-053", "w-bp02-053", "w-bp02-056sr"],
+  ["w-bp02-068", "w-bp02-068", "w-bp02-071osr", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071"],
+  ["w-bp02-071", "w-bp02-071", "w-bp02-071", "w-epr-006", "w-epr-006", "w-epr-006", "w-epr-007", "w-epr-015", "w-td02-003tsr", "w-td02-007tsr", null, null],
   ["w-ss01-004osr", "w-ss01-005osr", "w-ss01-005osr", "w-ss01-005osr", "w-bp02-097osr", "w-bp02-097", "w-bp02-097", "w-bp02-097", "w-bp02-097", "w-bp02-097", "w-bp02-097", "w-bp02-097"],
-  ["w-bp02-097", "w-bp02-100sr", "w-bp02-100sr", "w-epr-019", "w-epr-020", "w-epr-020", "w-epr-020", null, null, null, null, null],
+  ["w-bp02-097", "w-bp02-100sr", "w-bp02-100sr", "w-epr-019", "w-epr-020", "w-epr-020", "w-epr-020", "w-td02-023tsr", "w-etd01-024", null, null, null],
 ];
