@@ -1047,6 +1047,8 @@ const ALBUM3_PAGES = [
   ["w-bp01-031sr", "w-bp01-032-pr", "w-bp01-032-pr", "w-bp01-038-pr", "w-bp01-038-pr", "w-bp01-038-pr", "w-bp01-039", "w-bp01-039", "w-bp01-039", "w-bp01-039", "w-bp01-039", "w-bp01-044sr"],
   ["rocket", "rocket", "rocket", "rocket", "rocket", "rocket", "w-bp01-046", "w-bp01-046", "w-bp01-046", "w-bp01-046", null, null],
   ["w-bp01-073", "w-bp01-073", "w-bp01-073", "w-bp01-073", "w-bp01-074osr", "w-bp01-074osr", "w-bp01-074osr", "shadowbeak", "shadowbeak", "shadowbeak", "shadowbeak", "katress"],
+  [null, null, null, null, null, null, null, null, null, null, null, null],
+  [null, null, null, null, null, null, null, null, null, null, null, null],
   ["katress", "katress", "katress", "katress", "w-bp01-076", "w-bp01-076", "w-bp01-076", "w-bp01-076", "w-bp01-076", "pyrin", "pyrin", "pyrin"],
   ["pyrin", "lyleen", "lyleen", "lyleen", "lyleen", "lyleen", "w-bp01-079sr", "w-bp01-081sr", "w-bp01-088sr", "w-bp01-088", "w-bp01-088", "w-bp01-088"],
   ["w-bp01-088", "w-bp01-093", "w-bp01-093", "w-bp01-093", "w-bp01-093", "w-bp01-095osr", "w-bp01-095osr", "w-bp01-095osr", "w-bp01-095osr", "w-epr-009", "w-epr-011", null],
