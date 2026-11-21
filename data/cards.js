@@ -1040,8 +1040,8 @@ const ALBUM2_PAGES = [
 
 // ALBUM 1 v2 — การ์ดชุดเดียวกับ ALBUM 1 แต่เรียงแบบ ALBUM 2: หน้า 1 Soul → หน้าพิเศษ SP/TSR → แต่ละสีขึ้นหน้าใหม่ (ชุด → เลขการ์ด → ระดับสูงก่อน) · sync กับ collection.json (album3)
 const ALBUM3_PAGES = [
-  ["w-soul-12", "w-soul-12", "w-soul-12", "w-soul-12", "w-soul-12", "w-soul-12", "w-soul-02", "w-soul-02", "w-soul-01", "w-soul-01", "w-soul-03", "w-soul-03"],
-  ["w-bp01-070sp", "w-td01-007tsr", "w-td02-003tsr", "w-td02-007tsr", "w-td02-023tsr", "w-etd01-024", null, null, null, null, null, null],
+  ["w-soul-12", "w-soul-12", "w-soul-12", "w-soul-12", "w-soul-12", "w-soul-12", "w-soul-12", "w-soul-12", "w-soul-12", "w-soul-12", "w-soul-02", "w-soul-02"],
+  ["w-soul-01", "w-soul-01", "w-soul-03", "w-soul-03", "w-bp01-070sp", "w-td01-007tsr", "w-td02-003tsr", "w-td02-007tsr", "w-td02-023tsr", "w-etd01-024", null, null],
   ["chillet-rr", "chillet-rr", "chillet-rr", "chillet-rr", "relaxaurus", "relaxaurus", "relaxaurus", "relaxaurus", "jorm-osr", "jorm-osr", "jorm-r", "jorm-r"],
   ["pengullet-sr", "pengullet-r", "pengullet-r", "pengullet-r", "w-bp01-029sr", "w-bp01-029sr", "w-bp01-029", "w-bp01-029", "w-bp01-030", "w-bp01-030", "w-bp01-030", "w-bp01-030"],
   ["w-bp01-031sr", "w-bp01-032-pr", "w-bp01-032-pr", "w-bp01-038-pr", "w-bp01-038-pr", "w-bp01-038-pr", "w-bp01-039", "w-bp01-039", "w-bp01-039", "w-bp01-039", "w-bp01-039", "w-bp01-044sr"],
