@@ -1037,3 +1037,33 @@ const ALBUM2_PAGES = [
   ["w-bp02-063","w-bp02-063","w-bp02-063","w-bp02-063","w-bp02-068sr","w-bp02-068","w-bp02-068","w-bp02-068","w-bp02-068","w-bp02-068","w-bp02-068","w-bp02-068"],
   ["w-bp02-068","w-bp02-068","w-bp02-068","w-bp02-068","w-bp02-068","w-bp02-068","w-bp02-068",null,null,null,null,null]
 ];
+
+// ALBUM 1 v2 — การ์ดชุดเดียวกับ ALBUM 1 แต่เรียงแบบ ALBUM 2: หน้า 1 Soul → หน้าพิเศษ SP/TSR → แต่ละสีขึ้นหน้าใหม่ (ชุด → เลขการ์ด → ระดับสูงก่อน) · sync กับ collection.json (album3)
+const ALBUM3_PAGES = [
+  ["w-soul-12", "w-soul-12", "w-soul-12", "w-soul-12", "w-soul-12", "w-soul-12", "w-soul-02", "w-soul-02", "w-soul-01", "w-soul-01", "w-soul-03", "w-soul-03"],
+  ["w-bp01-070sp", "w-td01-007tsr", "w-td02-003tsr", "w-td02-007tsr", "w-td02-023tsr", "w-etd01-024", null, null, null, null, null, null],
+  ["chillet-rr", "chillet-rr", "chillet-rr", "chillet-rr", "relaxaurus", "relaxaurus", "relaxaurus", "relaxaurus", "jorm-osr", "jorm-osr", "jorm-r", "jorm-r"],
+  ["pengullet-sr", "pengullet-r", "pengullet-r", "pengullet-r", "w-bp01-029sr", "w-bp01-029sr", "w-bp01-029", "w-bp01-029", "w-bp01-030", "w-bp01-030", "w-bp01-030", "w-bp01-030"],
+  ["w-bp01-031sr", "w-bp01-032-pr", "w-bp01-032-pr", "w-bp01-038-pr", "w-bp01-038-pr", "w-bp01-038-pr", "w-bp01-039", "w-bp01-039", "w-bp01-039", "w-bp01-039", "w-bp01-039", "w-bp01-044sr"],
+  ["rocket", "rocket", "rocket", "rocket", "rocket", "rocket", "w-bp01-046", "w-bp01-046", "w-bp01-046", "w-bp01-046", "w-ss01-002osr", "w-ss01-002osr"],
+  ["w-ss01-002osr", "w-bp02-025", "w-bp02-026", "w-bp02-028", "w-bp02-028", "w-bp02-039", "w-bp02-043sr", "w-bp02-046", "w-bp02-047", "w-bp02-047", "w-epr-024", "w-epr-024"],
+  ["w-epr-024", null, null, null, null, null, null, null, null, null, null, null],
+  ["w-bp01-073", "w-bp01-073", "w-bp01-073", "w-bp01-073", "w-bp01-074osr", "w-bp01-074osr", "w-bp01-074osr", "shadowbeak", "shadowbeak", "shadowbeak", "shadowbeak", "katress"],
+  ["katress", "katress", "katress", "katress", "w-bp01-076", "w-bp01-076", "w-bp01-076", "w-bp01-076", "w-bp01-076", "pyrin", "pyrin", "pyrin"],
+  ["pyrin", "lyleen", "lyleen", "lyleen", "lyleen", "lyleen", "w-bp01-079sr", "w-bp01-081sr", "w-bp01-088sr", "w-bp01-088", "w-bp01-088", "w-bp01-088"],
+  ["w-bp01-088", "w-bp01-093", "w-bp01-093", "w-bp01-093", "w-bp01-093", "w-bp01-095osr", "w-bp01-095osr", "w-bp01-095osr", "w-bp01-095osr", "w-ss01-003osr", "w-bp02-073", "w-bp02-074"],
+  ["w-bp02-075sr", "w-bp02-075", "w-bp02-075", "w-bp02-078", "w-bp02-078", "w-bp02-087", "w-bp02-087", "w-epr-009", "w-epr-011", "w-epr-028", null, null],
+  ["w-bp01-001osr", "w-bp01-001", "w-bp01-001", "w-bp01-001", "w-bp01-002", "w-bp01-002", "w-bp01-002", "w-bp01-002", "w-bp01-002", "w-bp01-002", "w-bp01-002", "w-bp01-003sr"],
+  ["w-bp01-003", "w-bp01-003", "w-bp01-003", "w-bp01-003", "w-bp01-003", "w-bp01-003", "w-bp01-004sr", "w-bp01-004", "w-bp01-004", "w-bp01-004", "w-bp01-004", "w-bp01-004"],
+  ["w-bp01-005", "w-bp01-005", "w-bp01-005", "w-bp01-005", "w-bp01-012-pr", "w-bp01-015", "w-bp01-015", "w-bp01-015", "w-bp01-015", "w-bp01-015", "w-bp01-015", "w-bp01-019sr"],
+  ["w-bp01-019", "w-bp01-019", "w-bp01-019", "w-bp01-020", "w-bp01-020", "w-bp01-020", "w-bp01-020", "w-bp01-020", "w-bp01-023", "w-bp01-023", "w-bp01-023", "w-bp01-023"],
+  ["w-ss01-001osr", "w-ss01-001osr", "w-bp02-002", "w-bp02-004sr", "w-bp02-004", "w-bp02-004", "w-bp02-006", "w-epr-003", "w-epr-012", null, null, null],
+  ["w-bp01-049-osr", "w-bp01-049-osr", "w-bp01-049", "w-bp01-049", "w-bp01-050osr", "w-bp01-050osr", "w-bp01-050", "w-bp01-050", "w-bp01-051", "w-bp01-051", "w-bp01-051", "w-bp01-051"],
+  ["w-bp01-051", "w-bp01-052", "w-bp01-052", "w-bp01-052", "w-bp01-052", "w-bp01-053", "w-bp01-053", "w-bp01-053", "w-bp01-053", "w-bp01-054", "w-bp01-054", "w-bp01-054"],
+  ["w-bp01-054", "w-bp01-054", "w-bp01-055sr", "w-bp01-056sr", "w-bp01-063", "w-bp01-063", "w-bp01-063", "w-bp01-063", "w-bp01-064", "w-bp01-064", "w-bp01-064", "w-bp01-064"],
+  ["w-bp01-064", "w-bp01-070osr", "w-bp01-070", "w-bp01-070", "w-bp01-070", "w-bp02-049", "w-bp02-052", "w-bp02-052", "w-bp02-053", "w-bp02-053", "w-bp02-056sr", "w-bp02-068"],
+  ["w-bp02-068", "w-bp02-071osr", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071"],
+  ["w-bp02-071", "w-bp02-071", "w-epr-006", "w-epr-006", "w-epr-006", "w-epr-007", "w-epr-015", null, null, null, null, null],
+  ["w-ss01-004osr", "w-ss01-005osr", "w-ss01-005osr", "w-ss01-005osr", "w-bp02-097osr", "w-bp02-097", "w-bp02-097", "w-bp02-097", "w-bp02-097", "w-bp02-097", "w-bp02-097", "w-bp02-097"],
+  ["w-bp02-097", "w-bp02-100sr", "w-bp02-100sr", "w-epr-019", "w-epr-020", "w-epr-020", "w-epr-020", null, null, null, null, null],
+];
