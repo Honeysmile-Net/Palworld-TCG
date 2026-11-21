@@ -959,9 +959,9 @@ const ALBUM_PAGES = [
   ["w-ss01-002osr", "w-ss01-002osr", "w-ss01-002osr", "w-bp02-025", "w-bp02-026", "w-bp02-028", "w-bp02-028", "w-bp02-039", "w-bp02-043sr", "w-bp02-046", "w-bp02-047", "w-bp02-047"],
   ["w-epr-024", "w-epr-024", "w-epr-024", null, null, null, null, null, null, null, null, null],
   ["w-ss01-003osr", "w-bp02-073", "w-bp02-074", "w-bp02-075sr", "w-bp02-075", "w-bp02-075", "w-bp02-078", "w-bp02-078", "w-bp02-087", "w-bp02-087", "w-epr-028", null],
-  ["w-ss01-001osr", "w-ss01-001osr", "w-bp02-002", "w-bp02-004sr", "w-bp02-004", "w-bp02-004", "w-bp02-006", null, null, null, null, null],
+  ["w-ss01-001osr", "w-ss01-001osr", "w-bp02-002", "w-bp02-004sr", "w-bp02-004", "w-bp02-004", "w-bp02-006", "w-bp02-006", null, null, null, null],
   ["w-bp02-049", "w-bp02-052", "w-bp02-052", "w-bp02-053", "w-bp02-053", "w-bp02-056sr", "w-bp02-068", "w-bp02-068", "w-bp02-071osr", "w-bp02-071", "w-bp02-071", "w-bp02-071"],
-  ["w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", null, null, null],
+  ["w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-071", "w-bp02-051", null, null],
   ["w-ss01-004osr", "w-ss01-005osr", "w-ss01-005osr", "w-ss01-005osr", "w-bp02-097osr", "w-bp02-097", "w-bp02-097", "w-bp02-097", "w-bp02-097", "w-bp02-097", "w-bp02-097", "w-bp02-097"],
   ["w-bp02-097", "w-bp02-100sr", "w-bp02-100sr", null, null, null, null, null, null, null, null, null],
 ];
