@@ -394,7 +394,9 @@ const WISH_ROWS = [
   ['TD02-024','Chikipi','My First Pal',2,'gray','TD','Pal/Colorless','','webp'],
   // Eternal Ascent · การ์ดที่หลุด (LEAK 20 พ.ย. 2026) — เลขการ์ดที่ลงท้าย L0x เป็นเลขชั่วคราว จนกว่าจะประกาศเลขจริง
   ['TD04-L01','Depresso','Caffeine Intake',3,'purple','TD','Pal/Purple','','png','','LEAK 20 พ.ย. 2026 · Eternal Ascent · TD04 ฟ้าม่วง · เลขการ์ดชั่วคราว'],
-  ['TD04-L02','Pengullet','Invincible Bullet?',5,'blue','TD','Pal/Blue','','png','','LEAK 20 พ.ย. 2026 · Eternal Ascent · TD04 ฟ้าม่วง · เลขการ์ดชั่วคราว · Rank Up'],
+  ['TD04-001','Pengullet','Invincible Payload?',5,'blue','TD','Pal/Blue','','png','','LEAK 20 พ.ย. 2026 · Eternal Ascent · TD04 ฟ้าม่วง · Rank Up · เลข TD04-001 ยืนยันจากใบ TSP ที่เปิด 23 พ.ย.'],
+  ['TD04-001TSP','Pengullet','Invincible Payload?',5,'gold','TSP','Pal/Blue','','png','','เปิด 23 พ.ย. 2026 (X ทางการ) · Eternal Ascent · TD04 ฟ้าม่วง · TSP · Power 700 · Strike 2 · Rank Up'],
+  ['TD04-011TSP','Lyleen Noct','Emblem of Moonlight',7,'gold','TSP','Pal/Purple','LUCKY','png','','เปิด 23 พ.ย. 2026 (X ทางการ) · Eternal Ascent · TD04 ฟ้าม่วง · TSP · Lucky Pal · Power 1300 · Strike 3 · Rank Up · Rank 1+ Pal อื่นทั้งหมด +500 · เลข 011 อ่านจากรูป'],
   ['TD03-016','Petallia','New Life',6,'green','TD','Pal/Green','','png','','LEAK 20 พ.ย. 2026 · Eternal Ascent · TD03 แดงเขียว'],
   ['TD03-L01','Suzaku','Manifested Blaze',8,'red','TD','Pal/Red','','png','','LEAK 20 พ.ย. 2026 · Eternal Ascent · TD03 แดงเขียว · เลขการ์ดชั่วคราว'],
   ['ETD01-024','Ribbuny','Little Princess',2,'gray','TSR','Pal/Colorless','','jpg','','Error print — ไม่มีคำว่า STRIKE บนการ์ด (misprint version)'],
