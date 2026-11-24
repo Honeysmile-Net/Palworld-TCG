@@ -1,6 +1,6 @@
 // Palworld OCG news — built by tools/news (official site, palworldtcg.gg spoilers, palify sets, web search for X posts and leaks)
 window.PAL_NEWS = {
-"updated": "2026-11-24 13:34",
+"updated": "2026-11-24 19:33",
 "upSets": [
 {
 "code": "BP03",
@@ -851,7 +851,7 @@ window.PAL_NEWS = {
 "url": "https://palworldtcg.gg/card/bp02-018-sr-rocket-launcher"
 }
 ],
-"revealHead": "Every revealed card, newest first: 476 cards so far. Latest reveal October 26, 2026.",
+"revealHead": "Every revealed card, newest first: 485 cards so far. Latest reveal October 26, 2026.",
 "sets": [
 {
 "code": "BP01",
