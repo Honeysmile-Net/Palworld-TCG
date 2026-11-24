@@ -1,6 +1,6 @@
 // Palworld OCG news — built by tools/news (official site, palworldtcg.gg spoilers, palify sets, web search for X posts and leaks)
 window.PAL_NEWS = {
-"updated": "2026-11-24 01:34",
+"updated": "2026-11-24 07:33",
 "upSets": [
 {
 "code": "BP03",
@@ -105,6 +105,15 @@ window.PAL_NEWS = {
 "url": "https://x.com/PalworldOCG_EN/status/2113151959863828927",
 "img": "",
 "isNew": false
+},
+{
+"src": "x",
+"date": "2026-10-18",
+"title": "✨Card Reveals✨ Today's revealed cards are \"Shroomer Noct\"...",
+"text": "",
+"url": "https://x.com/PalworldOCG_EN/status/2111638397685215466",
+"img": "",
+"isNew": true
 },
 {
 "src": "x",
@@ -508,15 +517,6 @@ window.PAL_NEWS = {
 "title": "✨Card Reveal✨ Today’s card reveals are \"Petallia",
 "text": "",
 "url": "https://x.com/PalworldOCG_EN/status/2072485408861307045",
-"img": "",
-"isNew": false
-},
-{
-"src": "x",
-"date": "2026-06-29",
-"title": "✨Card Reveal ✨ Today's card reveals are \"Victor's Strategy\" and \"Zoe's Strategy\"!",
-"text": "",
-"url": "https://x.com/PalworldOCG_EN/status/2071398247264932246",
 "img": "",
 "isNew": false
 },
