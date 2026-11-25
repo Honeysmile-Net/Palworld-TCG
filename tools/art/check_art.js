@@ -102,8 +102,14 @@ const alias = {};
   for (const rel of files) if (/^images\/cards\//.test(rel)) (byHash[hash(rel)] = byHash[hash(rel)] || []).push(rel);
   for (const g of Object.values(byHash)) if (g.length > 1) { g.sort(); const keep = g[g.length - 1];
     for (const r of g.slice(0, -1)) { alias[r] = keep; alias[enc(r)] = enc(keep); index[r] = keep; index[enc(r)] = enc(keep); } } }
+// Card art uploaded as artifact assets (served at /_blob/<id> on claude.ai; not counted in the 511-file cap).
+// tools/art/blobs.json maps repo path -> asset id; the page uses it only on claude.ai (not github.io/localhost).
+let blobs = {};
+try { const B = JSON.parse(fs.readFileSync(path.join(ROOT, 'tools/art/blobs.json'), 'utf8')); for (const [k, v] of Object.entries(B)) { blobs[k] = v; blobs[enc(k)] = v; } } catch (e) {}
+const noBlob = files.filter(f => /^images\/cards\//.test(f) && !blobs[f]);
+if (noBlob.length) console.log('art without asset id (upload them, then add to tools/art/blobs.json):', noBlob.join(', '));
 if (WRITE) {
-  fs.writeFileSync(INDEX_JS, 'window.PAL_THUMBS = ' + JSON.stringify(index) + ';\nwindow.PAL_ALIAS = ' + JSON.stringify(alias) + ';\n');
+  fs.writeFileSync(INDEX_JS, 'window.PAL_THUMBS = ' + JSON.stringify(index) + ';\nwindow.PAL_ALIAS = ' + JSON.stringify(alias) + ';\nwindow.PAL_BLOB = ' + JSON.stringify(blobs) + ';\n');
 }
 if (process.argv.includes('--aliases')) console.log(JSON.stringify(Object.keys(alias).filter(k => !k.includes('%'))));
 
