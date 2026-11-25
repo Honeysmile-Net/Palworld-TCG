@@ -88,16 +88,24 @@ for (const rel of files) { index[enc(rel)] = enc(rel); index[rel] = rel; }
 let indexDiff = { added: [], removed: [] };
 try {
   const s = fs.readFileSync(INDEX_JS, 'utf8');
-  const cur = JSON.parse(s.slice(s.indexOf('{'), s.lastIndexOf('}') + 1));
+  const cur = JSON.parse(s.slice(s.indexOf('{'), s.indexOf(';\n')));
   indexDiff = {
     added: Object.keys(index).filter((k) => !(k in cur) && !k.includes('%')),
     removed: Object.keys(cur).filter((k) => !(k in index) && !k.includes('%')),
   };
 } catch (e) { indexDiff.error = 'could not read art-index.js: ' + e.message; }
 
+// Byte-identical art files: keep one (the last by name, e.g. -SSP over -SP) and alias the others to it,
+// so the artifact only needs to serve one copy (it has a file-count cap).
+const alias = {};
+{ const byHash = {};
+  for (const rel of files) if (/^images\/cards\//.test(rel)) (byHash[hash(rel)] = byHash[hash(rel)] || []).push(rel);
+  for (const g of Object.values(byHash)) if (g.length > 1) { g.sort(); const keep = g[g.length - 1];
+    for (const r of g.slice(0, -1)) { alias[r] = keep; alias[enc(r)] = enc(keep); index[r] = keep; index[enc(r)] = enc(keep); } } }
 if (WRITE) {
-  fs.writeFileSync(INDEX_JS, 'window.PAL_THUMBS = ' + JSON.stringify(index) + ';\n');
+  fs.writeFileSync(INDEX_JS, 'window.PAL_THUMBS = ' + JSON.stringify(index) + ';\nwindow.PAL_ALIAS = ' + JSON.stringify(alias) + ';\n');
 }
+if (process.argv.includes('--aliases')) console.log(JSON.stringify(Object.keys(alias).filter(k => !k.includes('%'))));
 
 const report = {
   cards: Object.keys(CARDS).length, artFiles: files.length, folders: dirs,

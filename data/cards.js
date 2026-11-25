@@ -397,6 +397,8 @@ const WISH_ROWS = [
   ['TD04-001','Pengullet','Invincible Payload?',5,'blue','TD','Pal/Blue','','png','','LEAK 20 พ.ย. 2026 → OFFICIAL REVEAL 23 พ.ย. 2026 (ใบ TSP) · Eternal Ascent · TD04 ฟ้าม่วง · Rank Up'],
   ['TD04-001TSP','Pengullet','Invincible Payload?',5,'gold','TSP','Pal/Blue','','png','','OFFICIAL REVEAL 23 พ.ย. 2026 · Eternal Ascent · TD04 ฟ้าม่วง · TSP · Power 700 · Strike 2 · Rank Up'],
   ['TD04-011TSP','Lyleen Noct','Emblem of Moonlight',7,'gold','TSP','Pal/Purple','LUCKY','png','','OFFICIAL REVEAL 23 พ.ย. 2026 · Eternal Ascent · TD04 ฟ้าม่วง · TSP · Lucky Pal · Power 1300 · Strike 3 · Rank Up · Rank 1+ Pal อื่นทั้งหมด +500 · เลข 011 อ่านจากรูป'],
+  ['TD04-004','Pengullet','Hope Handed Down',3,'blue','TD','Pal/Blue','','png','','OFFICIAL REVEAL 25 พ.ย. 2026 · Eternal Ascent · TD04 ฟ้าม่วง · Power 300 · Strike 1 · AUTO เมื่อ Rank Up: rest Pal คอสต์ ≤5 ได้ 1 ตัว และตัวนั้นไม่ stand ใน stand phase ถัดไปของคู่แข่ง'],
+  ['TD04-016','Lyleen Noct','Effortless Elegance',6,'purple','TD','Pal/Purple','','png','','OFFICIAL REVEAL 25 พ.ย. 2026 · Eternal Ascent · TD04 ฟ้าม่วง · Power 900 · Strike 2 · AUTO ลงสนาม: ได้ไลฟ์ 1'],
   ['TD03-005','Kitsun','First to Strike',4,'red','TD','Pal/Red','','png','','OFFICIAL REVEAL 24 พ.ย. 2026 · Eternal Ascent · TD03 แดงเขียว · Power 500 · Strike 2 · AUTO ลงสนาม: ทำดาเมจ 900 ใส่ Pal ที่ stand 1 ตัว'],
   ['TD03-016','Petallia','Newborn Life',6,'green','TD','Pal/Green','','png','','LEAK 20 พ.ย. 2026 → OFFICIAL REVEAL 24 พ.ย. 2026 · Eternal Ascent · TD03 แดงเขียว · Power 1100 · Strike 2 · AUTO เมื่อ Rank Up: ลง Pal คอสต์ ≤4 จากมือแบบ rest'],
   ['TD03-L01','Suzaku','Manifested Blaze',8,'red','TD','Pal/Red','','png','','LEAK 20 พ.ย. 2026 · Eternal Ascent · TD03 แดงเขียว · เลขการ์ดชั่วคราว'],
