@@ -1,6 +1,6 @@
 // Palworld OCG news — built by tools/news (official site, palworldtcg.gg spoilers, palify sets, web search for X posts and leaks)
 window.PAL_NEWS = {
-"updated": "2026-11-26 19:34",
+"updated": "2026-11-27 01:34",
 "upSets": [
 {
 "code": "BP03",
@@ -458,6 +458,15 @@ window.PAL_NEWS = {
 "isNew": false
 },
 {
+"src": "x",
+"date": "2026-07-11",
+"title": "✨Featured Card✨ Today's featured card is \"Helzephyr",
+"text": "",
+"url": "https://x.com/PalworldOCG_EN/status/2075746902671344009",
+"img": "",
+"isNew": true
+},
+{
 "src": "official",
 "date": "2026-07-09",
 "title": "Card List Added for \"Dawn of Palpagos\"",
@@ -508,15 +517,6 @@ window.PAL_NEWS = {
 "title": "✨Card Reveal✨ Today's card reveals are \"Tombat\"...",
 "text": "",
 "url": "https://x.com/PalworldOCG_EN/status/2074750330646995229",
-"img": "",
-"isNew": false
-},
-{
-"src": "x",
-"date": "2026-07-07",
-"title": "✨Card Reveal✨ Today's card reveals are \"Foxparks\"...",
-"text": "",
-"url": "https://x.com/PalworldOCG_EN/status/2074206749909762371",
 "img": "",
 "isNew": false
 },
