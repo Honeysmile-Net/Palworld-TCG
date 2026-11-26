@@ -1,6 +1,6 @@
 // Palworld OCG news — built by tools/news (official site, palworldtcg.gg spoilers, palify sets, web search for X posts and leaks)
 window.PAL_NEWS = {
-"updated": "2026-11-26 13:34",
+"updated": "2026-11-26 19:34",
 "upSets": [
 {
 "code": "BP03",
@@ -249,6 +249,15 @@ window.PAL_NEWS = {
 "url": "https://x.com/PalworldOCG_EN/status/2098350839702397244",
 "img": "",
 "isNew": false
+},
+{
+"src": "x",
+"date": "2026-09-11",
+"title": "第3弾 トライアルデッキ「果てなき飛翔 レッド・グリーン」「果てなき飛翔 ブルー・パープル」2026年12月18日(金)発売！新能力「ランクアップ」が登場！",
+"text": "",
+"url": "https://x.com/PalworldOCG/status/2098245149700878492",
+"img": "",
+"isNew": true
 },
 {
 "src": "official",
@@ -508,15 +517,6 @@ window.PAL_NEWS = {
 "title": "✨Card Reveal✨ Today's card reveals are \"Foxparks\"...",
 "text": "",
 "url": "https://x.com/PalworldOCG_EN/status/2074206749909762371",
-"img": "",
-"isNew": false
-},
-{
-"src": "x",
-"date": "2026-07-07",
-"title": "The Palworld OFFICIAL CARD GAME Demo Caravan is officially underway!✨ Join the fun at your nearest store — all participants will receive promo items",
-"text": "",
-"url": "https://x.com/PalworldOCG_EN/status/2074436659479994541",
 "img": "",
 "isNew": false
 },
