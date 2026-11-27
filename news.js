@@ -1,6 +1,6 @@
 // Palworld OCG news — built by tools/news (official site, palworldtcg.gg spoilers, palify sets, web search for X posts and leaks)
 window.PAL_NEWS = {
-"updated": "2026-11-27 19:33",
+"updated": "2026-11-28 01:33",
 "upSets": [
 {
 "code": "BP03",
@@ -887,7 +887,7 @@ window.PAL_NEWS = {
 "code": "PR",
 "name": "PR CARDS (2026)",
 "type": "promo",
-"count": "62 cards"
+"count": "63 cards"
 },
 {
 "code": "SS01",
