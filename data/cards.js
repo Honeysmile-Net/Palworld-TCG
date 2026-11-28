@@ -393,8 +393,9 @@ const WISH_ROWS = [
   ['TD02-023','Cattiva','My First Pal',2,'gray','TD','Pal/Colorless','','webp'],
   ['TD02-024','Chikipi','My First Pal',2,'gray','TD','Pal/Colorless','','webp'],
   // Eternal Ascent · LEAK 20 พ.ย. 2026 + OFFICIAL REVEAL (X ทางการ 23–24 พ.ย. 2026) — เลขการ์ดที่ลงท้าย L0x เป็นเลขชั่วคราว จนกว่าจะประกาศเลขจริง
-  ['TD04-001','Pengullet','Invincible Payload?',5,'blue','TD','Pal/Blue','','png','','LEAK 20 พ.ย. 2026 → OFFICIAL REVEAL 23 พ.ย. 2026 (ใบ TSP) · Eternal Ascent · TD04 ฟ้าม่วง · Rank Up'],
+  ['TD04-001','Pengullet','Invincible Payload?',5,'blue','TD','Pal/Blue','','png','','LEAK 20 พ.ย. 2026 → OFFICIAL REVEAL 23 พ.ย. 2026 (ใบ TSP) → OFFICIAL REVEAL ใบ TD 28 พ.ย. 2026 · Eternal Ascent · TD04 ฟ้าม่วง · Normal Pal · Power 700 · Strike 2 · CONT Rank Up《Pengullet》'],
   ['TD04-001TSP','Pengullet','Invincible Payload?',5,'gold','TSP','Pal/Blue','','png','','OFFICIAL REVEAL 23 พ.ย. 2026 · Eternal Ascent · TD04 ฟ้าม่วง · TSP · Power 700 · Strike 2 · Rank Up'],
+  ['TD04-011','Lyleen Noct','Emblem of Moonlight',7,'purple','TD','Pal/Purple','LUCKY','png','','OFFICIAL REVEAL 28 พ.ย. 2026 (ใบ TSP เปิด 23 พ.ย.) · Eternal Ascent · TD04 ฟ้าม่วง · Lucky Pal · Power 1300 · Strike 3 · CONT Rank Up《Lyleen Noct》 · CONT Rank 1+ Pal อื่นทั้งหมด +500'],
   ['TD04-011TSP','Lyleen Noct','Emblem of Moonlight',7,'gold','TSP','Pal/Purple','LUCKY','png','','OFFICIAL REVEAL 23 พ.ย. 2026 · Eternal Ascent · TD04 ฟ้าม่วง · TSP · Lucky Pal · Power 1300 · Strike 3 · Rank Up · Rank 1+ Pal อื่นทั้งหมด +500 · เลข 011 อ่านจากรูป'],
   ['TD04-004','Pengullet','Hope Handed Down',3,'blue','TD','Pal/Blue','','png','','OFFICIAL REVEAL 25 พ.ย. 2026 · Eternal Ascent · TD04 ฟ้าม่วง · Power 300 · Strike 1 · AUTO เมื่อ Rank Up: rest Pal คอสต์ ≤5 ได้ 1 ตัว และตัวนั้นไม่ stand ใน stand phase ถัดไปของคู่แข่ง'],
   ['TD04-013','Depresso','Heavily Caffeinated',3,'purple','TD','Pal/Purple','','png','','LEAK 20 พ.ย. 2026 (ชื่อหลุด Caffeine Intake · ACT [1]) → OFFICIAL REVEAL 27 พ.ย. 2026 · Eternal Ascent · TD04 ฟ้าม่วง · Power 400 · Strike 1 · ACT 1/เทิร์น [3]: Stand การ์ดนี้'],
